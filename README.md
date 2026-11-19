@@ -4,6 +4,10 @@
 
 原车高德可以通过 CarPlay 在仪表盘显示地图；本项目让第三方 CarPlay 中转方案获得同样能力。
 
+本项目**基于 [DiPlay · 吉利 GKUI 1.2 / Android 4.3](https://github.com/xikai6282/DiPlay-Geely-Android43) 二次开发**，在其 CarPlay 中转能力之上，新增仪表盘地图的渲染与路线状态联动。DiPlay 本身基于 [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) v0.2.10 适配而来。
+
+> 本仓库只包含**增量改动**：新增类、JNI 渲染层、smali hook 与构建/测试脚本。上游 DiPlay 的完整源码、APK 与构建产物不在此仓库内，请从上游仓库获取对应版本（C7A-R2）后按本文档打补丁。
+
 ## 原理
 
 1. 中转 App（DiPlay）向手机申请第二路 CarPlay 显示（stream type `111`，`maps:/car/instrumentcluster/map`）；
@@ -28,7 +32,28 @@
 
 见 [`h52-cluster-map/R7_QUICKSTART.md`](h52-cluster-map/R7_QUICKSTART.md) 与 [`BUILD_R7.md`](h52-cluster-map/BUILD_R7.md)。工具链为 C（NDK r21e）、Java 7、smali/baksmali 3.0.9、Android build-tools 34，构建脚本为 Python 3 + `adb`。
 
-> 仓库**不包含**：厂商固件包、任何 APK 成品、反编译出的完整类树、Root 工具。这些需自行从设备或官方渠道获取。
+构建前需先从上游取得对应版本（C7A-R2）的 APK 或源码归档，解包出 smali 树作为基线，再把本仓库的增量打上去 —— 反编译出的完整类树（`android_tree/`）未纳入版本控制。
+
+> 仓库**不包含**：厂商固件包、任何 APK 成品、反编译出的完整类树、Root 工具，以及上游 DiPlay 的源码副本。这些需自行从设备、上游仓库或官方渠道获取。
+
+## 来源与许可
+
+| 层级 | 项目 | 许可 |
+| --- | --- | --- |
+| 上游 | [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) v0.2.10 | GPL-3.0 |
+| 直接基础 | [xikai6282/DiPlay-Geely-Android43](https://github.com/xikai6282/DiPlay-Geely-Android43)（C7A-R2） | GPL-3.0 |
+| 本仓库 | 仪表盘地图注入增量改动 | GPL-3.0 |
+
+本仓库基于 **[@xikai6282](https://github.com/xikai6282) 的 [DiPlay-Geely-Android43](https://github.com/xikai6282/DiPlay-Geely-Android43)** 开发，感谢原作者对吉利 GKUI 1.2 / Android 4.3 车机 CarPlay 适配的持续维护。上游的免 root 桥接、无线连接、音频与硬解基线是本项目得以运行的前提。
+
+由于上游以 GPL-3.0 发布，本仓库作为衍生作品同样遵循 **GPL-3.0**，完整许可文本见 [LICENSE](LICENSE)；修改与再分发请一并保留上游署名与许可声明。
+
+补充说明：
+
+- 本项目与 Apple、吉利汽车、亿咖通（ECARX）、东软（Neusoft）均无隶属关系。
+- CarPlay 是 Apple Inc. 的商标；本项目不是 Apple 认证产品，未使用 Apple 的认证资产。
+- 上游项目明确不支持 E01 车机，本项目仅在 H52 / KC2 上验证。
+- 仓库内**不包含**任何厂商固件、上游 APK 或 Apple 私有资产。
 
 ## 免责声明
 
