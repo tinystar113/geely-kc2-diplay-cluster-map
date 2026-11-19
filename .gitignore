@@ -68,6 +68,13 @@ usb_root_disable/
 # ============ 仅本地保留（不公开） ============
 docs/geely-kc2-usb-root-backdoor.md
 
+# ============ 签名材料（绝不入库） ============
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pass
+
 # ============ 本机环境 / 工具配置 ============
 .workbuddy/
 .claude/
