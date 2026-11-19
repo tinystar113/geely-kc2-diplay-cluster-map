@@ -42,6 +42,10 @@ Test_Img/
 *.log
 *.txt.bak
 
+# 例外：README 引用的实拍素材
+!docs/media/*.jpg
+!docs/media/*.mov
+
 # ============ 反编译产物（可从基础包重新生成） ============
 h52-cluster-map/android_tree/
 hud-probe/dex/
