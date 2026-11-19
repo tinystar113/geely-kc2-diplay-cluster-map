@@ -44,7 +44,7 @@ Test_Img/
 
 # 例外：README 引用的实拍素材
 !docs/media/*.jpg
-!docs/media/*.mov
+!docs/media/*.mp4
 
 # ============ 反编译产物（可从基础包重新生成） ============
 h52-cluster-map/android_tree/
