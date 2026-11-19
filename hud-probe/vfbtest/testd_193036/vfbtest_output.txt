@@ -1,0 +1,15 @@
+Open GRALLOC_HARDWARE_FB1
+open ok file name = /dev/graphics/fb2<-
+set x & y res virtual
+ioctl GET_FSCREENTINFO
+mmap start
+mmaped
+mmap framebuffer
+outof framebuffer vfb  open neusoft
+new FramebufferNativeWindow ok
+getExternalDisplayNativeSurface rc=0 window=0x41a0a078
+window size 1920x720 format 4
+matching EGL configs: 32
+using config 28 visual 4
+drawing on 1920x720 for 30 s
+frames drawn: 745

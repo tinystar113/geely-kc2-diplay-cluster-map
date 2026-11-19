@@ -1,0 +1,925 @@
+===== 16:03:(29|3[0-3])
+11-09 16:03:29.360 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:29.360 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:29.360 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:29.360 I/Navi_001( 3631): 导航状态(sdk)：14
+11-09 16:03:29.360 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 6
+11-09 16:03:29.360 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:03:29.360 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:14
+11-09 16:03:29.360 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:14
+11-09 16:03:29.360 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:14
+11-09 16:03:29.360 D/Extra   ( 3418):  @neunavi@  The navigation status :6
+11-09 16:03:29.370 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:29.370 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:29.370 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=6}]
+11-09 16:03:29.370 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:03:29.510 D/RPC-Server( 2352): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 16:03:29.510 D/RPC-Server( 2352): v850log: RadOpn:0,0,0,a,2,0
+11-09 16:03:29.740 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:29.740 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 103
+11-09 16:03:29.750 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:29.750 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:03:29.770 D/Extra   ( 3418):  @neunavi@  The navigation status :103
+11-09 16:03:29.770 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:29.770 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:29.770 I/Navi_001( 3631): 导航状态(sdk)：0
+11-09 16:03:29.770 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:0
+11-09 16:03:29.770 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:0
+11-09 16:03:29.770 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:0
+11-09 16:03:29.780 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:29.780 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:29.780 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=103}]
+11-09 16:03:29.780 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:03:29.780 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:29.790 D/IPKServer( 3530):  @NaviPresenter@  Navi--IPKServer   current route info json:{"ToPoiName":"重庆西站","ToPoiLongitude":"106.437901","midPoisNum":0,"ToPoiType":"","FromPoiLongitude":"106.65405973792079","
+11-09 16:03:29.790 D/IPKServer( 3530):  @NaviPresenter@  Navi--IPKServer   current route info distance:0,time:3530,method:推荐
+11-09 16:03:29.790 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:29.790 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 107
+11-09 16:03:29.790 D/IPKServer( 3530):  @NaviInfoPackage@  MMI-->IPK   navi calculate list update notify:{"routetypelistitem":[{"routetypename":"推荐","totaldistance":0,"totaltime":3530}],"uri":"content://com.neusoft.optim
+11-09 16:03:29.800 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:29.800 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:29.800 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30005
+11-09 16:03:29.800 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=13022}]
+11-09 16:03:29.800 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30005, time:0, cached guiding:true
+11-09 16:03:29.810 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=13022
+11-09 16:03:29.830 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:29.830 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:29.830 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10056, EXTRA_ROAD_INFO={"ToPoiName":"重庆西站","ToPoiLongitude":"106.437901","midPoisNum":0,"ToPoiTy
+11-09 16:03:29.830 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10056
+11-09 16:03:29.850 I/SdkLogger( 3418): NaviServerImpl#onLocationRoadInfo:{"ToPoiName":"重庆西站","ToPoiLongitude":"106.437901","midPoisNum":0,"ToPoiType":"","FromPoiLongitude":"106.65405973792079","FromPoiAddr":"","FromPoiNa
+11-09 16:03:29.850 I/SdkLogger( 4663): NaviServerImpl#onLocationRoadInfo:{"ToPoiName":"重庆西站","ToPoiLongitude":"106.437901","midPoisNum":0,"ToPoiType":"","FromPoiLongitude":"106.65405973792079","FromPoiAddr":"","FromPoiNa
+11-09 16:03:29.850 I/SdkLogger( 3460): NaviServerImpl#onLocationRoadInfo:{"ToPoiName":"重庆西站","ToPoiLongitude":"106.437901","midPoisNum":0,"ToPoiType":"","FromPoiLongitude":"106.65405973792079","FromPoiAddr":"","FromPoiNa
+11-09 16:03:29.860 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:03:29.860 D/Extra   ( 3418):  @neunavi@  The navigation status :107
+11-09 16:03:29.870 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:29.870 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:29.870 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=107}]
+11-09 16:03:29.870 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:03:30.060 D/PreferencesCookieStore( 3748): cookie:
+11-09 16:03:30.690 I/XCUpgradeService( 4310): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+11-09 16:03:30.690 I/XDownload( 4310): onSignalStrengthsChanged
+11-09 16:03:30.830 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:30.830 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:30.830 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:30.830 I/Navi_001( 3631): 导航状态(sdk)：19
+11-09 16:03:30.830 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:19
+11-09 16:03:30.840 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:19
+11-09 16:03:30.840 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:19
+11-09 16:03:30.850 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:30.850 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:30.860 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{EXTRA_CAN_ZOOM=true, EXTRA_ZOOM_TYPE=1, KEY_TYPE=10074}]
+11-09 16:03:30.890 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10074
+11-09 16:03:30.960 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:31.020 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:31.020 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:31.020 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{EXTRA_EVENT_TOUCH_FRAGMENT=0, KEY_TYPE=12101}]
+11-09 16:03:31.020 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=12101
+11-09 16:03:31.220 D/HttpCacheImpl( 3748): Cannot bind argument at index 1 because the index is out of range.  The statement has 0 parameters.
+11-09 16:03:31.460 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:31.460 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:31.460 I/Navi_001( 3631): 导航状态(sdk)：1
+11-09 16:03:31.460 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:1
+11-09 16:03:31.460 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:1
+11-09 16:03:31.470 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:1
+11-09 16:03:31.490 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:31.490 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:31.490 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 104
+11-09 16:03:31.540 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:31.540 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:31.540 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=13022}]
+11-09 16:03:31.540 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=13022
+11-09 16:03:31.540 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:03:31.540 D/Extra   ( 3418):  @neunavi@  The navigation status :104
+11-09 16:03:31.560 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:31.560 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:31.560 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=104}]
+11-09 16:03:31.570 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:03:31.720 D/GNaviUtils( 3748): thread = 0x877544d8, task = 0x877544d8, name = GCarMoveTimer.
+11-09 16:03:31.740 D/GNaviUtils( 3748): thread = 0x890a18a8, task = 0x890a18a8, name = GCarMoveTimer.
+11-09 16:03:31.750 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:31.760 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:31.760 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:31.760 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=12403}]
+11-09 16:03:31.770 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=12403
+11-09 16:03:31.770 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:31.770 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:31.770 I/Navi_001( 3631): 导航状态(sdk)：25
+11-09 16:03:31.770 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:25
+11-09 16:03:31.770 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:25
+11-09 16:03:31.770 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:31.780 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:31.780 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:25
+11-09 16:03:31.780 I/Navi_001( 3631): 导航状态(sdk)：23
+11-09 16:03:31.780 W/System.err( 3631): java.lang.IllegalStateException: beginBroadcast() called while already in a broadcast
+11-09 16:03:31.780 W/System.err( 3631): 	at android.os.RemoteCallbackList.beginBroadcast(RemoteCallbackList.java:229)
+11-09 16:03:31.780 W/System.err( 3631): 	at ecarx.naviservice.service.NaviService.a(SourceFile:554)
+11-09 16:03:31.780 W/System.err( 3631): 	at ecarx.naviservice.service.NaviService.onEvent(SourceFile:496)
+11-09 16:03:31.780 W/System.err( 3631): 	at java.lang.reflect.Method.invokeNative(Native Method)
+11-09 16:03:31.780 W/System.err( 3631): 	at java.lang.reflect.Method.invoke(Method.java:525)
+11-09 16:03:31.780 W/System.err( 3631): 	at org.greenrobot.eventbus.c.a(SourceFile:507)
+11-09 16:03:31.780 W/System.err( 3631): 	at org.greenrobot.eventbus.c.a(SourceFile:501)
+11-09 16:03:31.780 W/System.err( 3631): 	at org.greenrobot.eventbus.a.run(SourceFile:46)
+11-09 16:03:31.780 W/System.err( 3631): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+11-09 16:03:31.780 W/System.err( 3631): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+11-09 16:03:31.780 W/System.err( 3631): 	at java.lang.Thread.run(Thread.java:841)
+11-09 16:03:31.780 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:31.780 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:31.780 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:31.790 I/Navi_001( 3631): 导航状态(sdk)：23
+11-09 16:03:31.790 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:23
+11-09 16:03:31.790 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:23
+11-09 16:03:31.800 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:23
+11-09 16:03:31.830 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:31.830 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:31.830 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{EXTRA_REQUEST_RESULT=true, KEY_TYPE=12005, EXTRA_REQUEST_ID=1, EXTRA_REQUEST_IS_WHAT=true}]
+11-09 16:03:31.830 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=12005
+11-09 16:03:31.850 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:31.850 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:31.850 I/Navi_001( 3631): 导航状态(sdk)：23
+11-09 16:03:31.860 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:23
+11-09 16:03:31.860 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:23
+11-09 16:03:31.860 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:23
+11-09 16:03:31.880 D/IPKServer( 3530):  @NaviPresenter@  Navi--IPKServer   navi status:NavigateStarted,navistatusInt:8
+11-09 16:03:31.890 D/IPKServer( 3530):  @NaviInfoPackage@  MMI-->IPK   navi status:{"navistatus":"NavigateStarted","uri":"content://com.neusoft.optimus.mmi/NaviStatusNotify"}
+11-09 16:03:31.890 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:31.890 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:31.890 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 8
+11-09 16:03:31.900 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:31.900 I/Navi_001( 3631): 导航状态(sdk)：16
+11-09 16:03:31.900 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:16
+11-09 16:03:31.900 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:16
+11-09 16:03:31.900 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:16
+11-09 16:03:31.920 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:31.920 D/IPKServer( 3530):  @MessageParser@  IPK-->MMI   request navi data:content://com.neusoft.optimus.mmi/req?cmd=NaviDataReq
+11-09 16:03:31.920 I/Choreographer( 3748): Skipped 44 frames!  The application may be doing too much work on its main thread.
+11-09 16:03:31.930 D/IPKServer( 3530):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Continue","limitedspeed":-1,"nextcornername":"","nextdistance":0,"remaindistance":"0米","remai
+11-09 16:03:31.930 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:31.930 D/Extra   ( 3418):  @neunavi@  setMMI_NavigationMod_indicator:tmc_data[3] = 1
+11-09 16:03:31.930 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:03:31.930 D/Extra   ( 3418):  @neunavi@  The navigation status :8
+11-09 16:03:31.940 D/PopView ( 3406):  @NaviReceiver@  receive start auto navi
+11-09 16:03:31.940 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:31.950 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:31.950 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=8}]
+11-09 16:03:31.950 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:03:31.950 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:31.950 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:31.960 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:31.960 I/Navi_001( 3631): 导航状态(sdk)：13
+11-09 16:03:31.960 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 5
+11-09 16:03:31.960 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:13
+11-09 16:03:31.960 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:13
+11-09 16:03:31.960 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:13
+11-09 16:03:31.970 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:31.970 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:31.970 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=13022}]
+11-09 16:03:31.970 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=13022
+11-09 16:03:31.980 I/XCNaviService( 3631): args[1] = <haley001> ====== onNaviStateChange state:16
+11-09 16:03:32.000 I/XCNaviService( 3631): args[1] = <haley001> ====== onNaviStateChange state:16naviState:true
+11-09 16:03:32.010 I/XCNaviService( 3631): args[1] = <haley001> ====== onNaviStateChange state:16naviState:true
+11-09 16:03:32.030 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:03:32.030 D/Extra   ( 3418):  @neunavi@  The navigation status :5
+11-09 16:03:32.050 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:32.060 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:32.060 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:32.060 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=5}]
+11-09 16:03:32.070 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:03:32.100 D/Extra   ( 3418):  @neunavi@  ===============handleTmcJsonResult================
+11-09 16:03:32.100 D/Extra   ( 3418):  @neunavi@  json = {"tmc_segment_size":3,"tmc_info":[{"tmc_segment_number":1,"tmc_segment_percent":"0","tmc_segment_distance":"0","tmc_status":"10"},{"tmc_segment_number":2,"tmc_segm
+11-09 16:03:32.110 D/Extra   ( 3418):  @neunavi@  tmc.getTmc_info().size() = 3
+11-09 16:03:32.110 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:32.110 D/Extra   ( 3418):  @neunavi@  setMMI_Currtroadcongestionlev:tmc_data[3] = 0
+11-09 16:03:32.120 D/Extra   ( 3418):  @neunavi@  换算单位前的MMI_Currcngestroad_Length = 0
+11-09 16:03:32.120 D/Extra   ( 3418):  @neunavi@  temp :0.0 Integer.parseInt(new DecimalFormat(#).format(temp)) :0
+11-09 16:03:32.120 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:32.120 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:32.120 I/Navi_001( 3631): 导航状态(sdk)：25
+11-09 16:03:32.120 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:32.120 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:25
+11-09 16:03:32.120 D/Extra   ( 3418):  @neunavi@  setMMI_Currcngestroad_Length:tmc_data[3] = 0
+11-09 16:03:32.120 D/Extra   ( 3418):  @neunavi@  距离下一段拥堵路段的距离: 换算单位前的MMI_DistancetoNextcngestroad = 0
+11-09 16:03:32.120 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:25
+11-09 16:03:32.120 D/Extra   ( 3418):  @neunavi@  temp :0.0 Integer.parseInt(new DecimalFormat(#).format(temp)) :0
+11-09 16:03:32.120 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:25
+11-09 16:03:32.120 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:32.120 D/Extra   ( 3418):  @neunavi@  setMMI_DistancetoNextcngestroad:tmc_data[3] = 0
+11-09 16:03:32.120 D/Extra   ( 3418):  @neunavi@  FOR循环查找高德传来的路段编号：number = 3
+11-09 16:03:32.120 D/Extra   ( 3418):  @neunavi@  FOR循环查找高德传来的路段长度：distance = 65751
+11-09 16:03:32.130 D/Extra   ( 3418):  @neunavi@  FOR循环查找高德传来的路段拥堵等级：status = 1
+11-09 16:03:32.130 D/Extra   ( 3418):  @neunavi@  遇到第一个拥堵路段后面的 第1个 路段编号：number = 1
+11-09 16:03:32.130 D/Extra   ( 3418):  @neunavi@  遇到第一个拥堵路段后面的 第1个 路段长度：distance = 0
+11-09 16:03:32.130 D/Extra   ( 3418):  @neunavi@  遇到第一个拥堵路段后面的 第1个 路段拥堵等级：status = 10
+11-09 16:03:32.130 D/Extra   ( 3418):  @neunavi@  二次遇到不可以合并，不再进行合并处理
+11-09 16:03:32.130 D/Extra   ( 3418):  @neunavi@  realRecordMergeTmcInfoNum.size()<= 0 无需要合并项，下面不会再进行合并计算值
+11-09 16:03:32.130 D/Extra   ( 3418):  @neunavi@  下一拥堵路段的拥堵等级：setMMI_Nextroadcongestionlev: 无需合并，保持原来的做法
+11-09 16:03:32.130 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:32.130 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 43
+11-09 16:03:32.140 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:32.140 D/Extra   ( 3418):  @neunavi@  setMMI_Nextroadcongestionlev:tmc_data[3] = 0
+11-09 16:03:32.140 D/Extra   ( 3418):  @neunavi@  下一段拥堵路段的长度：换算单位前的MMI_Nextcngestroad_Length: 无需合并，保持原来的做法
+11-09 16:03:32.140 D/Extra   ( 3418):  @neunavi@  下一段拥堵路段的长度：换算单位前的MMI_Nextcngestroad_Length = 0
+11-09 16:03:32.140 D/Extra   ( 3418):  @neunavi@  下一段拥堵路段的长度：temp :0.0 Integer.parseInt(new DecimalFormat(#).format(temp)) :0
+11-09 16:03:32.140 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:32.140 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:32.140 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 44
+11-09 16:03:32.150 D/Extra   ( 3418):  @neunavi@  下一段拥堵路段的长度：setMMI_Nextcngestroad_Length:tmc_data[3] = 0
+11-09 16:03:32.150 D/AudioPolicy( 3748): getAudioStreamTypeForFunction audioFunction = NAVIGATION_GUIDE
+11-09 16:03:32.150 D/AudioManager( 3748): Qian:requestAudioFocus:11
+11-09 16:03:32.150 D/AudioService( 3113):  AudioFocus  requestAudioFocus() StreamType=11,focusChangeHint=3, from android.media.AudioManager@42831900com.iflytek.tts.TtsService.SoundPlayer$AutoFoucusChangeListener@4289d4a8
+11-09 16:03:32.150 D/AudioService( 3113): requestAudioFocus() begin mFocusStack: stack_size=0
+11-09 16:03:32.160 D/AudioService( 3113): ReassignAudioFocus StreamType request: 11 LossFocus: ,
+11-09 16:03:32.160 D/AudioService( 3113): setPhoneState mode no delay, mode:10
+11-09 16:03:32.160 D/AudioService( 3113): handlemessage setPhoneState mode:10
+11-09 16:03:32.160 W/audio_hw_primary( 2348): Qian:adev_set_mode:form 15 to 10
+11-09 16:03:32.160 D/audio_hw_primary( 2348): set route NAVI TTS
+11-09 16:03:32.160 I/audio_hw_primary( 2348): set_route was called
+11-09 16:03:32.160 I/audio_hw_primary( 2348): send_cmmand_by_control control_type:14 parm1:0 parm2:1 parm3:0
+11-09 16:03:32.160 I/audio_hw_primary( 2348): send_cmmand_by_control control:0 opercode:313 data_in:0 1 0 0 0 0 0 0 0 0
+11-09 16:03:32.160 D/AudioService( 3113): requestAudioFocus() sucessed! mFocusStack: stack_size=1
+11-09 16:03:32.160 D/AudioService( 3113):       FocusStackEntry[0] mStreamType=11,FocusChangeType=3,misFocusOwner=true,clientId=android.media.AudioManager@42831900com.iflytek.tts.TtsService.SoundPlayer$AutoFoucusChangeLi
+11-09 16:03:32.160 D/RPC-Interface( 2348):  native_rpc_sendCommand result:0
+11-09 16:03:32.160 D/audio_hw_primary( 2348):  select_mode for navi output
+11-09 16:03:32.160 W/AudioPolicyManagerBase( 2348): setPhoneState() invalid state 10
+11-09 16:03:32.170 D/neunavi ( 3418): FCS road type:-1
+11-09 16:03:32.170 D/Extra   ( 3418):  @neunavi@  The road type :-1
+11-09 16:03:32.170 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:32.170 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 13
+11-09 16:03:32.170 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:32.170 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.170 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.170 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.170 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.170 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.170 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.170 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:32.170 D/audio_hw_primary( 2348): out_set_parameters stream:40087008
+11-09 16:03:32.170 I/audio_hw_primary( 2348): out_set_parameters routing=65536, ret 5, out 40087008
+11-09 16:03:32.170 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:32.170 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:32.170 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=13011, EXTRA_TMC_SEGMENT={"tmc_segment_size":3,"tmc_info":[{"tmc_segment_number":1,"tmc_segment_
+11-09 16:03:32.170 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=13011
+11-09 16:03:32.190 I/audio_hw_primary( 2348): out_write stream:40087008 buffer:42760008 size:1024
+11-09 16:03:32.190 I/audio_hw_primary( 2348): start_output_stream stream:40087008, device:10000
+11-09 16:03:32.190 D/audio_hw_primary( 2348): select_output_device_new device:10000, mode:a
+11-09 16:03:32.190 I/audio_hw_primary( 2348): start_output_stream esai pcm:427541e8
+11-09 16:03:32.190 I/audio_hw_primary( 2348): start_output_stream esai card 2, port 0 device 0x10000
+11-09 16:03:32.190 I/audio_hw_primary( 2348): start_output_stream esai rate 16000, channel 2 period_size 0x100
+11-09 16:03:32.190 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:32.190 D/IPKServer( 3530):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Right","limitedspeed":-1,"nextcornername":"大石路","nextdistance":281,"remaindistance":"66公
+11-09 16:03:32.190 W/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== ========获取导航剩余信息： remainDis: 66032 remainTime: 3530
+11-09 16:03:32.190 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30407
+11-09 16:03:32.200 D/IPKServer( 3530):  @NaviPresenter@  Navi--IPKServer   car direction:231
+11-09 16:03:32.200 D/IPKServer( 3530):  @NaviInfoPackage@  MMI-->IPK   navi car direction:{"cardirection":231,"uri":"content://com.neusoft.optimus.mmi/CarDirectionNotify"}
+11-09 16:03:32.200 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30407, time:0, cached guiding:true
+11-09 16:03:32.200 I/SdkLogger( 3418): NaviServerImpl#guideInfoChange type:0
+11-09 16:03:32.200 I/SdkLogger( 4663): NaviServerImpl#guideInfoChange type:0
+11-09 16:03:32.200 I/SdkLogger( 3460): NaviServerImpl#guideInfoChange type:0
+11-09 16:03:32.210 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:03:32.210 D/Extra   ( 3418):  @neunavi@  The navigation status :43
+11-09 16:03:32.220 D/RPC-Server( 2352): RPC-LOG:opecode==3a0,data==13,3,0,0,1
+11-09 16:03:32.220 D/audio_hw_primary( 2348): retransmission get right callback of opecode 313 data 0,1
+11-09 16:03:32.240 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:32.240 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:32.240 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=43}]
+11-09 16:03:32.240 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:03:32.240 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:03:32.240 D/Extra   ( 3418):  @neunavi@  The navigation status :44
+11-09 16:03:32.250 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:32.250 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:32.250 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=44}]
+11-09 16:03:32.250 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:03:32.260 D/Event   ( 4271): No subscribers registered for event class com.neusoft.optimus.wheeljack.sound.a
+11-09 16:03:32.260 D/Event   ( 4271): No subscribers registered for event class a.a.a.h
+11-09 16:03:32.260 D/PopView ( 3406):  @AudioFocusChangeReceiver@  --------AudioFocusChangeReceiver------lastSource = 3 , currentSourceType = 3
+11-09 16:03:32.260 D/PopView ( 3406):  @AudioFocusChangeReceiver@  --------AudioFocusChangeReceiver--MIX-SourceType---11
+11-09 16:03:32.260 D/Event   ( 3406): No subscribers registered for event class com.neusoft.optimus.wheeljack.popview.utils.a
+11-09 16:03:32.260 D/Event   ( 3406): No subscribers registered for event class a.a.a.h
+11-09 16:03:32.270 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:03:32.270 D/Extra   ( 3418):  @neunavi@  The navigation status :13
+11-09 16:03:32.280 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:32.280 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:32.280 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=13}]
+11-09 16:03:32.280 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:03:32.290 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:32.300 D/Extra   ( 3418):  @neunavi@  The next street distance   :281
+11-09 16:03:32.300 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:32.300 D/Extra   ( 3418):  @neunavi@  The guide direction       :3
+11-09 16:03:32.300 D/Extra   ( 3418):  @neunavi@  The next crossing distance   :281
+11-09 16:03:32.300 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:32.300 D/Extra   ( 3418):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0
+11-09 16:03:32.310 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:32.310 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:32.310 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{ROUTE_ALL_TIME=3530, CAMERA_DIST=-1, SEG_REMAIN_DIS=281, TRAFFIC_LIGHT_NUM=7, SAPA_DIST_AUTO=, LIMITED_SP
+11-09 16:03:32.310 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10001
+11-09 16:03:32.320 W/XCNaviService( 3631): args[1] = <haley001> ====== onReceive :ecarx.navi.UPDATE_GUIDEINFO
+11-09 16:03:32.320 W/XCNaviService( 3631): args[1] = <haley001> ====== icon:3 distance:281 arrived:false naviState:true
+11-09 16:03:32.320 I/XCNaviService( 3631): args[1] = <haley001> ====== onNaviGuideInfoChange icon:3 distance:281 arrived:false naviState:true
+11-09 16:03:32.330 W/XCNaviService( 3631): args[1] = <haley001> ====== onReceive :ecarx.navi.UPDATE_GUIDEINFO
+11-09 16:03:32.330 W/XCNaviService( 3631): args[1] = <haley001> ====== icon:3 distance:281 arrived:false naviState:true
+11-09 16:03:32.330 I/XCNaviService( 3631): args[1] = <haley001> ====== onNaviGuideInfoChange icon:3 distance:281 arrived:false
+11-09 16:03:32.340 D/GNaviUtils( 3748): thread = 0x88418cc0, task = 0x88418cc0, name = GNaviMap-v2-0.
+11-09 16:03:32.340 D/GNaviUtils( 3748): thread = 0x89406d40, task = 0x89406d40, name = GNaviMap-v2-1.
+11-09 16:03:32.350 W/XCNaviService( 3631): args[1] = <haley001> ====== onReceive :ecarx.navi.UPDATE_GUIDEINFO
+11-09 16:03:32.350 W/XCNaviService( 3631): args[1] = <haley001> ====== icon:3 distance:281 arrived:false naviState:true
+11-09 16:03:32.350 I/XCNaviService( 3631): args[1] = <haley001> ====== onNaviGuideInfoChange icon:3 distance:281 arrived:false
+11-09 16:03:32.360 D/AudioPolicy( 3748): getAudioStreamTypeForFunction audioFunction = NAVIGATION_GUIDE
+11-09 16:03:32.360 D/MediaPlayer( 3748): setDataSource() current pid : 3748
+11-09 16:03:32.360 V/MediaPlayerFactory( 2348):  create StagefrightPlayer
+11-09 16:03:32.360 V/AwesomePlayer( 2348): AwesomePlayer running on behalf of uid 10059
+11-09 16:03:32.370 I/FFmpegExtractor( 2348): android-source:0x41e74850
+11-09 16:03:32.380 I/FFMPEG  ( 2348): Input #0, ogg, from 'android-source:0x41e74850':
+11-09 16:03:32.380 I/FFMPEG  ( 2348):   Duration: 00:00:00.56, start: 0.000000, bitrate: 124 kb/s
+11-09 16:03:32.380 I/FFMPEG  ( 2348):     Stream #0:0: Audio: vorbis, 44100 Hz, mono, fltp, 86 kb/s
+11-09 16:03:32.380 D/FFmpegExtractor( 2348): FFmpegExtrator, url: android-source:0x41e74850, format_name: ogg, format_long_name: Ogg
+11-09 16:03:32.380 I/FFmpegExtractor( 2348): adjust mime(application/ogg -> audio/vorbis)
+11-09 16:03:32.380 D/FFmpegExtractor( 2348): suppoted codec(vorbis) by official Stagefright
+11-09 16:03:32.380 D/FFmpegExtractor( 2348): ffmpeg detected media content as 'audio/vorbis' with confidence 0.08
+11-09 16:03:32.380 V/MediaExtractor( 2348): Autodetected media content as 'application/ogg' with confidence 0.20
+11-09 16:03:32.410 V/AwesomePlayer( 2348): track of type 'audio/vorbis' does not publish bitrate
+11-09 16:03:32.410 V/AwesomePlayer( 2348): mBitrate = -1 bits/sec
+11-09 16:03:32.410 V/AwesomePlayer( 2348): haveAudio:1, haveVideo:0
+11-09 16:03:32.410 V/SoftOMXPlugin( 2348): makeComponentInstance 'OMX.google.vorbis.decoder'
+11-09 16:03:32.410 V/SoftOMXPlugin( 2348): load component libstagefright_soft_vorbisdec.so for OMX.google.vorbis.decoder
+11-09 16:03:32.410 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocating 4 buffers of size 8192 on input port
+11-09 16:03:32.410 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocated buffer 0x434f6e10 on input port
+11-09 16:03:32.410 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocated buffer 0x41e47c28 on input port
+11-09 16:03:32.410 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocated buffer 0x41e47ce0 on input port
+11-09 16:03:32.410 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocated buffer 0x41e47d98 on input port
+11-09 16:03:32.410 I/OMXCodec( 2348): Input Port = {
+11-09 16:03:32.410 I/OMXCodec( 2348):   nBufferCountActual = 4
+11-09 16:03:32.410 I/OMXCodec( 2348):   nBufferCountMin = 4
+11-09 16:03:32.410 I/OMXCodec( 2348):   nBufferSize = 8192
+11-09 16:03:32.410 I/OMXCodec( 2348):
+11-09 16:03:32.410 I/OMXCodec( 2348):   // Audio
+11-09 16:03:32.410 I/OMXCodec( 2348):   eEncoding = OMX_AUDIO_CodingVORBIS
+11-09 16:03:32.410 I/OMXCodec( 2348): }
+11-09 16:03:32.410 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocating 4 buffers of size 32768 on output port
+11-09 16:03:32.410 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocated buffer 0x41e47f20 on output port
+11-09 16:03:32.420 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocated buffer 0x41b38378 on output port
+11-09 16:03:32.420 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocated buffer 0x41b384c0 on output port
+11-09 16:03:32.420 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocated buffer 0x41b385f0 on output port
+11-09 16:03:32.420 I/OMXCodec( 2348): Output Port = {
+11-09 16:03:32.420 I/OMXCodec( 2348):   nBufferCountActual = 4
+11-09 16:03:32.420 I/OMXCodec( 2348):   nBufferCountMin = 4
+11-09 16:03:32.420 I/OMXCodec( 2348):   nBufferSize = 32768
+11-09 16:03:32.420 I/OMXCodec( 2348):
+11-09 16:03:32.420 I/OMXCodec( 2348):   // Audio
+11-09 16:03:32.420 I/OMXCodec( 2348):   eEncoding = OMX_AUDIO_CodingPCM
+11-09 16:03:32.420 I/OMXCodec( 2348):   nSamplingRate = 44100
+11-09 16:03:32.420 I/OMXCodec( 2348):   nChannels = 1
+11-09 16:03:32.420 I/OMXCodec( 2348):   bInterleaved = 1
+11-09 16:03:32.420 I/OMXCodec( 2348):   nBitPerSample = 16
+11-09 16:03:32.420 I/OMXCodec( 2348):   eNumData = signed
+11-09 16:03:32.420 I/OMXCodec( 2348):   ePCMMode = OMX_AUDIO_PCMModeLinear
+11-09 16:03:32.420 I/OMXCodec( 2348): }
+11-09 16:03:32.470 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.470 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.480 D/IPUImageConvert( 4191): poll event update called, goto state capture
+11-09 16:03:32.480 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.480 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.480 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.480 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.480 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:32.500 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:32.500 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:32.500 I/Navi_001( 3631): 导航状态(sdk)：25
+11-09 16:03:32.500 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:25
+11-09 16:03:32.500 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:25
+11-09 16:03:32.500 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:25
+11-09 16:03:32.510 D/RPC-Server( 2352): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 16:03:32.510 D/RPC-Server( 2352): v850log: RadOpn:0,0,0,a,2,0
+11-09 16:03:32.520 D/MediaPlayer( 3748): start() current pid : 3748
+11-09 16:03:32.530 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocating 4 buffers of size 32768 on output port
+11-09 16:03:32.530 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocated buffer 0x43226b58 on output port
+11-09 16:03:32.530 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocated buffer 0x427632b0 on output port
+11-09 16:03:32.530 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocated buffer 0x41f1bb90 on output port
+11-09 16:03:32.530 I/OMXCodec( 2348): [OMX.google.vorbis.decoder] allocated buffer 0x41e47e90 on output port
+11-09 16:03:32.530 I/OMXCodec( 2348): Output Port = {
+11-09 16:03:32.530 I/OMXCodec( 2348):   nBufferCountActual = 4
+11-09 16:03:32.530 I/OMXCodec( 2348):   nBufferCountMin = 4
+11-09 16:03:32.530 I/OMXCodec( 2348):   nBufferSize = 32768
+11-09 16:03:32.530 I/OMXCodec( 2348):
+11-09 16:03:32.530 I/OMXCodec( 2348):   // Audio
+11-09 16:03:32.530 I/OMXCodec( 2348):   eEncoding = OMX_AUDIO_CodingPCM
+11-09 16:03:32.530 I/OMXCodec( 2348):   nSamplingRate = 44100
+11-09 16:03:32.530 I/OMXCodec( 2348):   nChannels = 1
+11-09 16:03:32.530 I/OMXCodec( 2348):   bInterleaved = 1
+11-09 16:03:32.530 I/OMXCodec( 2348):   nBitPerSample = 16
+11-09 16:03:32.530 I/OMXCodec( 2348):   eNumData = signed
+11-09 16:03:32.530 I/OMXCodec( 2348):   ePCMMode = OMX_AUDIO_PCMModeLinear
+11-09 16:03:32.530 I/OMXCodec( 2348): }
+11-09 16:03:32.530 D/AudioPolicyManagerBase( 2348): getOutput() stream 11, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.530 D/AudioPolicyManagerBase( 2348): getOutput() returns output 4
+11-09 16:03:32.530 D/AudioPolicyManagerBase( 2348): getOutput() stream 11, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.530 D/AudioPolicyManagerBase( 2348): getOutput() returns output 4
+11-09 16:03:32.530 D/AudioPolicyManagerBase( 2348): getOutput() stream 11, samplingRate 44100, format 1, channelMask 1, flags 0
+11-09 16:03:32.530 D/AudioPolicyManagerBase( 2348): getOutput() returns output 4
+11-09 16:03:32.530 D/AudioPolicyManagerBase( 2348): getOutput() stream 11, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.530 D/AudioPolicyManagerBase( 2348): getOutput() returns output 4
+11-09 16:03:32.530 D/AudioTrack( 2348): AudioTrack::start 0x41b38428,mStreamType=11
+11-09 16:03:32.550 D/        ( 2348): 1 update_filter den_rate=1,oversample=16 filt_len=128,den_rate=1,sinc_table=0x0
+11-09 16:03:32.550 D/        ( 2348): 1 update_filter den_rate=160,oversample=8 filt_len=352,den_rate=160,sinc_table=0x0
+11-09 16:03:32.550 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.550 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.550 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.550 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.550 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.550 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.550 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:32.620 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.620 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.620 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.620 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.620 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.620 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.620 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:32.650 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:32.650 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:32.650 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:32.650 I/Navi_001( 3631): 导航状态(sdk)：20
+11-09 16:03:32.650 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:20
+11-09 16:03:32.650 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:20
+11-09 16:03:32.660 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:20
+11-09 16:03:32.690 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.690 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.690 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.690 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.690 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.690 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.690 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:32.700 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:32.700 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:32.700 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{EXTRA_CAN_ZOOM=true, EXTRA_ZOOM_TYPE=0, KEY_TYPE=10074}]
+11-09 16:03:32.700 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10074
+11-09 16:03:32.720 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.720 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.720 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.720 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.720 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.720 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.720 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:32.790 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.790 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.800 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.800 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.800 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.800 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.800 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:32.860 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.860 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.860 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.860 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.860 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.860 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.860 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:32.930 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.930 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.930 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.930 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.930 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:32.930 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:32.930 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.020 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.020 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.020 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.020 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.020 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:33.020 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 6
+11-09 16:03:33.020 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.020 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.020 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.020 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:03:33.030 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:33.030 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:33.030 I/Navi_001( 3631): 导航状态(sdk)：14
+11-09 16:03:33.030 D/Extra   ( 3418):  @neunavi@  The navigation status :6
+11-09 16:03:33.030 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:14
+11-09 16:03:33.030 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:14
+11-09 16:03:33.030 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:14
+11-09 16:03:33.080 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:33.080 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:33.090 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=6}]
+11-09 16:03:33.090 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:03:33.100 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.100 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.100 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.100 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.100 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.100 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.100 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.110 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:33.120 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:33.140 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:33.150 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.150 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.150 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.150 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.150 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.150 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.150 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.160 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:33.160 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:33.160 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=12103, EXTRA_NAVI_REROUTE_RESULT=true}]
+11-09 16:03:33.160 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=12103
+11-09 16:03:33.200 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:33.200 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:33.200 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=13022}]
+11-09 16:03:33.220 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=13022
+11-09 16:03:33.220 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.220 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.220 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.220 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.220 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.220 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.220 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.250 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:33.250 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:33.250 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:33.250 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 43
+11-09 16:03:33.260 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:03:33.260 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:03:33.260 I/Navi_001( 3631): 导航状态(sdk)：25
+11-09 16:03:33.260 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=13012, EXTRA_DRIVE_WAY={"drive_way_enabled":false}}]
+11-09 16:03:33.260 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:25
+11-09 16:03:33.260 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=13012
+11-09 16:03:33.260 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:25
+11-09 16:03:33.260 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:25
+11-09 16:03:33.270 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:03:33.270 D/Extra   ( 3418):  @neunavi@  The navigation status :43
+11-09 16:03:33.290 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.290 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.290 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.290 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.290 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.290 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.290 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.290 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:33.300 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:33.300 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=43}]
+11-09 16:03:33.300 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:03:33.350 D/neunavi ( 3418): FCS road type:-1
+11-09 16:03:33.350 D/Extra   ( 3418):  @neunavi@  The road type :-1
+11-09 16:03:33.350 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:33.370 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.370 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.370 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.370 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.370 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.370 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.370 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.380 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30407
+11-09 16:03:33.390 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30407, time:0, cached guiding:true
+11-09 16:03:33.390 I/SdkLogger( 3418): NaviServerImpl#guideInfoChange type:0
+11-09 16:03:33.390 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:33.390 D/IPKServer( 3530):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_UTurn","limitedspeed":-1,"nextcornername":"大石支路","nextdistance":1,"remaindistance":"66公里","re
+11-09 16:03:33.400 D/IPKServer( 3530):  @NaviPresenter@  Navi--IPKServer   car direction:231
+11-09 16:03:33.400 I/SdkLogger( 4663): NaviServerImpl#guideInfoChange type:0
+11-09 16:03:33.400 I/SdkLogger( 3460): NaviServerImpl#guideInfoChange type:0
+11-09 16:03:33.410 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:33.410 D/Extra   ( 3418):  @neunavi@  The next street distance   :1
+11-09 16:03:33.410 W/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== ========获取导航剩余信息： remainDis: 66033 remainTime: 3524
+11-09 16:03:33.410 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:33.410 D/Extra   ( 3418):  @neunavi@  The guide direction       :8
+11-09 16:03:33.410 D/Extra   ( 3418):  @neunavi@  The next crossing distance   :1
+11-09 16:03:33.410 D/IPKServer( 3530):  @NaviInfoPackage@  MMI-->IPK   navi car direction:{"cardirection":231,"uri":"content://com.neusoft.optimus.mmi/CarDirectionNotify"}
+11-09 16:03:33.410 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:33.410 D/Extra   ( 3418):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0
+11-09 16:03:33.420 I/NotificationService( 3113): cancelToast pkg=com.autonavi.amapauto callback=android.app.ITransientNotification$Stub$Proxy@42819848
+11-09 16:03:33.420 W/NotificationService( 3113): Toast already cancelled. pkg=com.autonavi.amapauto callback=android.app.ITransientNotification$Stub$Proxy@42819848
+11-09 16:03:33.430 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:33.430 V/AwesomePlayer( 2348): MEDIA_PLAYBACK_COMPLETE
+11-09 16:03:33.430 D/AudioTrack( 2348): AudioTrack::stop 0x41b38428,mStreamType=11
+11-09 16:03:33.430 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:33.440 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:03:33.440 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.440 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.440 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.440 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.440 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.440 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.440 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.440 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{ROUTE_ALL_TIME=3524, CAMERA_DIST=-1, SEG_REMAIN_DIS=1, TRAFFIC_LIGHT_NUM=7, SAPA_DIST_AUTO=, LIMITED_SPEE
+11-09 16:03:33.440 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10001
+11-09 16:03:33.450 W/XCNaviService( 3631): args[1] = <haley001> ====== onReceive :ecarx.navi.UPDATE_GUIDEINFO
+11-09 16:03:33.450 W/XCNaviService( 3631): args[1] = <haley001> ====== icon:8 distance:1 arrived:false naviState:true
+11-09 16:03:33.450 I/XCNaviService( 3631): args[1] = <haley001> ====== onNaviGuideInfoChange icon:8 distance:1 arrived:false naviState:true
+11-09 16:03:33.460 W/XCNaviService( 3631): args[1] = <haley001> ====== onReceive :ecarx.navi.UPDATE_GUIDEINFO
+11-09 16:03:33.460 W/XCNaviService( 3631): args[1] = <haley001> ====== icon:8 distance:1 arrived:false naviState:true
+11-09 16:03:33.460 I/XCNaviService( 3631): args[1] = <haley001> ====== onNaviGuideInfoChange icon:8 distance:1 arrived:false
+11-09 16:03:33.470 D/MediaPlayer( 3748): stop() current pid : 3748
+11-09 16:03:33.470 D/AudioTrack( 2348): AudioTrack::stop 0x41b38428,mStreamType=11
+11-09 16:03:33.480 D/AudioTrack( 2348): AudioTrack::stop 0x41b38428,mStreamType=11
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.490 W/XCNaviService( 3631): args[1] = <haley001> ====== onReceive :ecarx.navi.UPDATE_GUIDEINFO
+11-09 16:03:33.490 W/XCNaviService( 3631): args[1] = <haley001> ====== icon:8 distance:1 arrived:false naviState:true
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.490 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.490 I/XCNaviService( 3631): args[1] = <haley001> ====== onNaviGuideInfoChange icon:8 distance:1 arrived:false
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.490 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.490 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.490 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.500 D/Extra   ( 3418):  @neunavi@  ===============handleTmcJsonResult================
+11-09 16:03:33.500 D/Extra   ( 3418):  @neunavi@  json = {"tmc_segment_size":3,"tmc_info":[{"tmc_segment_number":1,"tmc_segment_percent":"0","tmc_segment_distance":"0","tmc_status":"10"},{"tmc_segment_number":2,"tmc_segm
+11-09 16:03:33.510 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.510 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.510 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.510 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.510 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.510 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.510 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.540 D/Extra   ( 3418):  @neunavi@  tmc.getTmc_info().size() = 3
+11-09 16:03:33.550 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:33.550 D/Extra   ( 3418):  @neunavi@  setMMI_Currtroadcongestionlev:tmc_data[3] = 0
+11-09 16:03:33.550 D/Extra   ( 3418):  @neunavi@  换算单位前的MMI_Currcngestroad_Length = 0
+11-09 16:03:33.550 D/Extra   ( 3418):  @neunavi@  temp :0.0 Integer.parseInt(new DecimalFormat(#).format(temp)) :0
+11-09 16:03:33.550 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:33.550 D/Extra   ( 3418):  @neunavi@  setMMI_Currcngestroad_Length:tmc_data[3] = 0
+11-09 16:03:33.550 D/Extra   ( 3418):  @neunavi@  距离下一段拥堵路段的距离: 换算单位前的MMI_DistancetoNextcngestroad = 0
+11-09 16:03:33.550 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.550 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.550 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.550 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.560 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.560 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.560 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.560 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.560 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.570 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.570 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.570 D/Extra   ( 3418):  @neunavi@  temp :0.0 Integer.parseInt(new DecimalFormat(#).format(temp)) :0
+11-09 16:03:33.570 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.570 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.570 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.570 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.570 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.570 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.570 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.570 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.570 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.570 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:33.570 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.570 D/Extra   ( 3418):  @neunavi@  setMMI_DistancetoNextcngestroad:tmc_data[3] = 0
+11-09 16:03:33.570 D/Extra   ( 3418):  @neunavi@  FOR循环查找高德传来的路段编号：number = 3
+11-09 16:03:33.570 D/Extra   ( 3418):  @neunavi@  FOR循环查找高德传来的路段长度：distance = 65751
+11-09 16:03:33.570 D/Extra   ( 3418):  @neunavi@  FOR循环查找高德传来的路段拥堵等级：status = 1
+11-09 16:03:33.570 D/Extra   ( 3418):  @neunavi@  遇到第一个拥堵路段后面的 第1个 路段编号：number = 1
+11-09 16:03:33.570 D/Extra   ( 3418):  @neunavi@  遇到第一个拥堵路段后面的 第1个 路段长度：distance = 0
+11-09 16:03:33.570 D/Extra   ( 3418):  @neunavi@  遇到第一个拥堵路段后面的 第1个 路段拥堵等级：status = 10
+11-09 16:03:33.570 D/Extra   ( 3418):  @neunavi@  二次遇到不可以合并，不再进行合并处理
+11-09 16:03:33.570 D/Extra   ( 3418):  @neunavi@  realRecordMergeTmcInfoNum.size()<= 0 无需要合并项，下面不会再进行合并计算值
+11-09 16:03:33.580 D/Extra   ( 3418):  @neunavi@  下一拥堵路段的拥堵等级：setMMI_Nextroadcongestionlev: 无需合并，保持原来的做法
+11-09 16:03:33.600 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.600 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.600 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.600 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.600 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.600 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.600 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:33.600 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.600 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.600 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.600 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.600 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.600 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.600 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.600 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.610 D/Extra   ( 3418):  @neunavi@  setMMI_Nextroadcongestionlev:tmc_data[3] = 0
+11-09 16:03:33.610 D/Extra   ( 3418):  @neunavi@  下一段拥堵路段的长度：换算单位前的MMI_Nextcngestroad_Length: 无需合并，保持原来的做法
+11-09 16:03:33.610 D/Extra   ( 3418):  @neunavi@  下一段拥堵路段的长度：换算单位前的MMI_Nextcngestroad_Length = 0
+11-09 16:03:33.610 D/Extra   ( 3418):  @neunavi@  下一段拥堵路段的长度：temp :0.0 Integer.parseInt(new DecimalFormat(#).format(temp)) :0
+11-09 16:03:33.610 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.610 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.610 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.610 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.610 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.610 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.610 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.620 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:03:33.620 D/Extra   ( 3418):  @neunavi@  下一段拥堵路段的长度：setMMI_Nextcngestroad_Length:tmc_data[3] = 0
+11-09 16:03:33.630 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.630 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.630 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.630 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.630 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.630 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.630 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.630 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.630 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.630 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.630 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.630 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.630 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.630 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.640 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:03:33.650 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:03:33.650 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=13011, EXTRA_TMC_SEGMENT={"tmc_segment_size":3,"tmc_info":[{"tmc_segment_number":1,"tmc_segment_
+11-09 16:03:33.650 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=13011
+11-09 16:03:33.670 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.670 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.680 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.680 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.680 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.680 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.680 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.680 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.680 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.680 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.680 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.680 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.680 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.680 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.690 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.690 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.690 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.690 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.690 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.690 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.690 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.700 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.700 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.700 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.700 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.700 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.700 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.700 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.750 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.750 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.750 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.750 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.750 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.840 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.840 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.840 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.840 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.840 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.840 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.840 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.910 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.910 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.910 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.910 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.910 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.910 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.910 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+11-09 16:03:33.990 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.990 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.990 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.990 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.990 D/AudioPolicyManagerBase( 2348): getOutput() stream 3, samplingRate 0, format 0, channelMask 3, flags 0
+11-09 16:03:33.990 D/AudioPolicyManagerBase( 2348): getOutput() returns output 2
+11-09 16:03:33.990 D/AudioTrack( 3748): AudioTrack::start 0x87e69398,mStreamType=11
+===== 16:05:1[0-5]
+11-09 16:05:10.830 I/XCUpgradeService( 4310): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+11-09 16:05:10.830 I/XDownload( 4310): onSignalStrengthsChanged
+11-09 16:05:11.340 D/RPC-Server( 2352): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 16:05:11.340 D/RPC-Server( 2352): v850log: RadOpn:0,0,0,a,2,0
+11-09 16:05:11.600 D/capture_screen( 4191): navi to ipk: capture mjpeg size 96248
+11-09 16:05:11.700 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:05:11.700 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 44
+11-09 16:05:11.710 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:05:11.710 D/Extra   ( 3418):  @neunavi@  The navigation status :44
+11-09 16:05:11.720 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:05:11.720 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:05:11.720 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=44}]
+11-09 16:05:11.720 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:05:12.500 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:05:12.500 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 34
+11-09 16:05:12.500 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:05:12.500 D/Extra   ( 3418):  @neunavi@  The navigation status :34
+11-09 16:05:12.510 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:05:12.520 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:05:12.520 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=34}]
+11-09 16:05:12.520 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:05:13.340 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:05:13.340 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 35
+11-09 16:05:13.350 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:05:13.350 D/Extra   ( 3418):  @neunavi@  The navigation status :35
+11-09 16:05:13.360 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:05:13.360 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:05:13.360 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=35}]
+11-09 16:05:13.360 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:05:13.390 I/PhoneStatusBar( 3265): setAreThereNotifications: N=0 any=false clearable=false
+11-09 16:05:13.390 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:05:13.390 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:05:13.390 W/StatusBar( 3265): removeNotification for unknown key: android.os.BinderProxy@428d29c0
+11-09 16:05:13.400 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 16:05:13.400 I/Navi_001( 3631): 导航状态(sdk)：17
+11-09 16:05:13.400 D/IPKServer( 3530):  @NaviPresenter@  Navi--IPKServer   navi status:NavigateStopped,navistatusInt:9
+11-09 16:05:13.400 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:05:13.400 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 9
+11-09 16:05:13.400 D/IPKServer( 3530):  @NaviInfoPackage@  MMI-->IPK   navi status:{"navistatus":"NavigateStopped","uri":"content://com.neusoft.optimus.mmi/NaviStatusNotify"}
+11-09 16:05:13.420 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:17
+11-09 16:05:13.420 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:17
+11-09 16:05:13.430 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:17
+11-09 16:05:13.430 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:05:13.430 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:05:13.430 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=13022}]
+11-09 16:05:13.430 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=13022
+11-09 16:05:13.440 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:05:13.440 D/Extra   ( 3418):  @neunavi@  setMMI_NavigationMod_indicator:tmc_data[3] = 0
+11-09 16:05:13.440 D/Extra   ( 3418):  @neunavi@  导航状态
+11-09 16:05:13.440 D/Extra   ( 3418):  @neunavi@  The navigation status :9
+11-09 16:05:13.440 D/Extra   ( 3418):  @neunavi@  The guide direction :1
+11-09 16:05:13.440 D/Extra   ( 3418):  @neunavi@  The roundabout exit number :0
+11-09 16:05:13.440 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:05:13.440 D/Extra   ( 3418):  @neunavi@  The next street distance   :-1
+11-09 16:05:13.440 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:05:13.450 D/RPC-Interface( 3418):  native_rpc_sendCommand result:0
+11-09 16:05:13.460 D/PopView ( 3406):  @NaviReceiver@  receive end auto navi
+11-09 16:05:13.480 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:05:13.480 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:05:13.480 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=9}]
+11-09 16:05:13.480 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 16:05:13.500 I/XCNaviService( 3631): args[1] = <haley001> ====== onNaviStateChange state:17
+11-09 16:05:13.500 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 16:05:13.510 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:05:13.510 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:false
+11-09 16:05:13.510 I/Navi_001( 3631): 导航状态(sdk)：26
+11-09 16:05:13.510 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:26
+11-09 16:05:13.520 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 16:05:13.520 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:26
+11-09 16:05:13.520 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:false
+11-09 16:05:13.520 I/Navi_001( 3631): 导航状态(sdk)：23
+11-09 16:05:13.520 W/System.err( 3631): java.lang.IllegalStateException: beginBroadcast() called while already in a broadcast
+11-09 16:05:13.520 W/System.err( 3631): 	at android.os.RemoteCallbackList.beginBroadcast(RemoteCallbackList.java:229)
+11-09 16:05:13.520 W/System.err( 3631): 	at ecarx.naviservice.service.NaviService.a(SourceFile:554)
+11-09 16:05:13.520 W/System.err( 3631): 	at ecarx.naviservice.service.NaviService.onEvent(SourceFile:496)
+11-09 16:05:13.520 W/System.err( 3631): 	at java.lang.reflect.Method.invokeNative(Native Method)
+11-09 16:05:13.520 W/System.err( 3631): 	at java.lang.reflect.Method.invoke(Method.java:525)
+11-09 16:05:13.520 W/System.err( 3631): 	at org.greenrobot.eventbus.c.a(SourceFile:507)
+11-09 16:05:13.520 W/System.err( 3631): 	at org.greenrobot.eventbus.c.a(SourceFile:501)
+11-09 16:05:13.520 W/System.err( 3631): 	at org.greenrobot.eventbus.a.run(SourceFile:46)
+11-09 16:05:13.520 W/System.err( 3631): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+11-09 16:05:13.520 W/System.err( 3631): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+11-09 16:05:13.520 W/System.err( 3631): 	at java.lang.Thread.run(Thread.java:841)
+11-09 16:05:13.550 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:26
+11-09 16:05:13.560 I/XCNaviService( 3631): args[1] = <haley001> ====== onNaviStateChange state:17naviState:false
+11-09 16:05:13.570 I/XCNaviService( 3631): args[1] = <haley001> ====== onNaviStateChange state:17naviState:false
+11-09 16:05:13.620 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 16:05:13.630 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 16:05:13.630 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=13022}]
+11-09 16:05:13.630 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=13022
+11-09 16:05:13.850 D/PreferencesCookieStore( 3748): cookie:
+11-09 16:05:14.340 D/RPC-Server( 2352): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 16:05:14.340 D/RPC-Server( 2352): v850log: RadOpn:0,0,0,a,2,0
+11-09 16:05:15.840 I/XCUpgradeService( 4310): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+11-09 16:05:15.840 I/XDownload( 4310): onSignalStrengthsChanged

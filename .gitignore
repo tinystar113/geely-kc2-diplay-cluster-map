@@ -1,0 +1,79 @@
+# ============ 构建产物 ============
+build/
+out/
+bin/
+obj/
+.gradle/
+*.class
+
+# ============ 二进制 / 安装包 ============
+*.apk
+*.apks
+*.aab
+*.jar
+*.dex
+*.odex
+*.so
+*.elf
+*.img
+*.bin
+*.hex
+*.raw
+*.dump
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# ============ 固件 / 升级包 ============
+kc_update_*/
+kc_update*
+
+# ============ 测试素材（体积大，不入仓） ============
+Test_Img/
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
+*.mp4
+*.mov
+*.log
+*.txt.bak
+
+# ============ 反编译产物（可从基础包重新生成） ============
+h52-cluster-map/android_tree/
+hud-probe/dex/
+**/jadx*/
+**/smali*/
+
+# ============ 第三方 / 反编译来源（从上游获取，不入仓） ============
+DiPlay-Geely-Android43-main/
+c7a-r2-source/
+root/
+temp_apk_analysis/
+temp_autoplay_analysis/
+temp_zip_analysis/
+b832bc61472727635baffcf25dd28e9f239273e2/
+usb-root/
+usb_root_disable/
+
+# ============ 仅本地保留（不公开） ============
+docs/geely-kc2-usb-root-backdoor.md
+
+# ============ 本机环境 / 工具配置 ============
+.workbuddy/
+.claude/
+.idea/
+.vscode/
+*.iml
+local.properties
+.gradle/
+captures/
+
+# ============ 系统文件 ============
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*

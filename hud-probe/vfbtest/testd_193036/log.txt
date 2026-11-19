@@ -1,0 +1,158 @@
+--------- beginning of /dev/log/main
+11-09 19:30:20.640 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:20.650 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:20.740 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:20.750 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:20.840 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:20.850 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:20.940 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 19:30:20.950 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:20.950 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:20.980 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,16,15,1e
+11-09 19:30:21.030 D/AndroidRuntime( 5430): 
+11-09 19:30:21.030 D/AndroidRuntime( 5430): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+11-09 19:30:21.030 D/AndroidRuntime( 5430): CheckJNI is OFF
+11-09 19:30:21.030 I/AndroidRuntime( 5430): JNI options: '-Xjniopts:warnonly'
+11-09 19:30:21.040 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:21.050 D/dalvikvm( 5430): Trying to load lib libjavacore.so 0x0
+11-09 19:30:21.050 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:21.050 D/dalvikvm( 5430): Added shared lib libjavacore.so 0x0
+11-09 19:30:21.070 D/dalvikvm( 5430): Trying to load lib libnativehelper.so 0x0
+11-09 19:30:21.070 D/dalvikvm( 5430): Added shared lib libnativehelper.so 0x0
+11-09 19:30:21.090 E/cutils-trace( 5430): Error opening trace file: No such file or directory (2)
+11-09 19:30:21.140 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:21.140 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:21.220 E/Camera-JNI( 5430): YJG call registerNativeMethods
+11-09 19:30:21.220 V/HDMIReceiver-JNI( 5430): register HDMIReceiver JNI
+11-09 19:30:21.220 V/VIDEOINPUTPALYER-JNI( 5430): register VideoInputPlayer JNI
+11-09 19:30:21.240 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:21.240 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:21.260 E/FastSensor( 3410): test mTestCountGyro = 900 mTestInvalidateCountGyro=36 
+11-09 19:30:21.270 D/AndroidRuntime( 5430): Calling main entry com.android.commands.am.Am
+11-09 19:30:21.270 D/dalvikvm( 5430): Note: class Landroid/app/ActivityManagerNative; has 165 unimplemented (abstract) methods
+11-09 19:30:21.270 I/ServiceManager( 2351): check_service('activity') ptr = 0x17
+11-09 19:30:21.280 D/IPKServer( 3523):  @NaviPresenter@  Navi--IPKServer   navi status:NavigateStarted,navistatusInt:8 
+11-09 19:30:21.280 D/IPKServer( 3523):  @NaviInfoPackage@  MMI-->IPK   navi status:{"navistatus":"NavigateStarted","uri":"content://com.neusoft.optimus.mmi/NaviStatusNotify"} 
+11-09 19:30:21.280 I/XCVoiceService_1.8.4( 3453): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 19:30:21.280 I/XCVoiceService_1.8.4( 3453): <MVWProcess:> ====== 地图状态： 8
+11-09 19:30:21.290 D/PopView ( 3393):  @NaviReceiver@  receive start auto navi 
+11-09 19:30:21.290 I/ServiceManager( 2351): check_service('Rpc_Server') ptr = 0x3
+11-09 19:30:21.300 D/RPC-Interface( 3410):  native_rpc_sendCommand result:0
+11-09 19:30:21.300 D/Extra   ( 3410):  @neunavi@  setMMI_NavigationMod_indicator:tmc_data[3] = 1 
+11-09 19:30:21.300 D/Extra   ( 3410):  @neunavi@  导航状态 
+11-09 19:30:21.300 I/ServiceManager( 2351): check_service('usbprotect') ptr = 0x48
+11-09 19:30:21.300 I/OfflineConfig( 3410): framework 101code:[21, 105, -92, -94, -86, -100, 116, 8, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+11-09 19:30:21.300 I/OfflineConfig( 3410): tv11 :7
+11-09 19:30:21.300 I/OfflineConfig( 3410): sx_vehicle_mode res :7
+11-09 19:30:21.300 D/Extra   ( 3410):  @ContextProxy@  getOfflineConfig  sx_vehicle_mode  = 7 
+11-09 19:30:21.300 D/Extra   ( 3410):  @neunavi@  The navigation status :8 
+11-09 19:30:21.310 E/XCNaviService( 3653): args[0] = XCNaviService
+11-09 19:30:21.310 E/XCNaviService( 3653): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 19:30:21.310 I/XCNaviService( 3653): args[0] = XCNaviService
+11-09 19:30:21.310 I/XCNaviService( 3653): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 19:30:21.310 I/XCNaviService( 3653): args[0] = XCNaviService
+11-09 19:30:21.310 I/XCNaviService( 3653): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=8}]
+11-09 19:30:21.310 I/XCNaviService( 3653): args[0] = XCNaviService
+11-09 19:30:21.310 I/XCNaviService( 3653): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 19:30:21.310 D/AndroidRuntime( 5430): Shutting down VM
+11-09 19:30:21.320 D/IPKServer( 3523):  @MessageParser@  IPK-->MMI   request navi data:content://com.neusoft.optimus.mmi/req?cmd=NaviDataReq 
+11-09 19:30:21.320 D/IPKServer( 3523):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Left","limitedspeed":-1,"nextcornername":"TestRoad","nextdistance":200,"remaindistancef":5000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 19:30:21.320 D/dalvikvm( 5430): GC_CONCURRENT freed 95K, 16% free 530K/628K, paused 1ms+1ms, total 5ms
+11-09 19:30:21.340 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:21.340 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:21.400 D/TBoxClient( 3799):  @SocketPresenter@  send GPS消息信息 Message:0D052A7000170000000000000000000000000000000000000000000200650D0A 
+11-09 19:30:21.440 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:21.440 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:21.450 D/RPC-Server( 2363): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 19:30:21.450 D/RPC-Server( 2363): v850log: RadOpn:0,0,0,a,2,0
+11-09 19:30:21.540 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:21.540 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:21.570 D/Extra   ( 3410):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 19:30:21.570 D/Extra   ( 3410):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 19:30:21.640 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:21.640 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:21.740 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:21.740 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:21.810 D/XCNaviService( 3653): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 19:30:21.810 I/XCNaviService( 3653): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 19:30:21.840 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:21.840 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:21.940 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 19:30:21.940 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:21.940 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:21.980 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,16,16,1e
+11-09 19:30:22.000 D/AndroidRuntime( 5452): 
+11-09 19:30:22.000 D/AndroidRuntime( 5452): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+11-09 19:30:22.000 D/AndroidRuntime( 5452): CheckJNI is OFF
+11-09 19:30:22.000 I/AndroidRuntime( 5452): JNI options: '-Xjniopts:warnonly'
+11-09 19:30:22.020 D/dalvikvm( 5452): Trying to load lib libjavacore.so 0x0
+11-09 19:30:22.020 D/dalvikvm( 5452): Added shared lib libjavacore.so 0x0
+11-09 19:30:22.040 D/dalvikvm( 5452): Trying to load lib libnativehelper.so 0x0
+11-09 19:30:22.040 D/dalvikvm( 5452): Added shared lib libnativehelper.so 0x0
+11-09 19:30:22.040 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:22.040 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:22.060 E/cutils-trace( 5452): Error opening trace file: No such file or directory (2)
+11-09 19:30:22.140 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:22.140 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:22.190 E/Camera-JNI( 5452): YJG call registerNativeMethods
+11-09 19:30:22.190 V/HDMIReceiver-JNI( 5452): register HDMIReceiver JNI
+11-09 19:30:22.190 V/VIDEOINPUTPALYER-JNI( 5452): register VideoInputPlayer JNI
+11-09 19:30:22.230 D/AndroidRuntime( 5452): Calling main entry com.android.commands.am.Am
+11-09 19:30:22.240 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:22.240 D/dalvikvm( 5452): Note: class Landroid/app/ActivityManagerNative; has 165 unimplemented (abstract) methods
+11-09 19:30:22.240 I/ServiceManager( 2351): check_service('activity') ptr = 0x17
+11-09 19:30:22.240 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:22.250 D/IPKServer( 3523):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Left","limitedspeed":-1,"nextcornername":"TestRoad","nextdistance":200,"remaindistancef":5000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 19:30:22.250 I/XCVoiceService_1.8.4( 3453): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 19:30:22.250 W/XCVoiceService_1.8.4( 3453): <MVWProcess:> ====== ========获取导航剩余信息： remainDis: 5000 remainTime: 600
+11-09 19:30:22.260 I/ServiceManager( 2351): check_service('Rpc_Server') ptr = 0x3
+11-09 19:30:22.270 D/RPC-Interface( 3410):  native_rpc_sendCommand result:0
+11-09 19:30:22.270 D/Extra   ( 3410):  @neunavi@  The next street distance   :200 
+11-09 19:30:22.270 I/ServiceManager( 2351): check_service('Rpc_Server') ptr = 0x3
+11-09 19:30:22.270 D/RPC-Interface( 3410):  native_rpc_sendCommand result:0
+11-09 19:30:22.270 D/Extra   ( 3410):  @neunavi@  The guide direction       :2 
+11-09 19:30:22.270 D/Extra   ( 3410):  @neunavi@  The next crossing distance   :200 
+11-09 19:30:22.270 E/XCNaviService( 3653): args[0] = XCNaviService
+11-09 19:30:22.270 E/XCNaviService( 3653): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 19:30:22.270 I/XCNaviService( 3653): args[0] = XCNaviService
+11-09 19:30:22.270 I/XCNaviService( 3653): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 19:30:22.270 I/XCNaviService( 3653): args[0] = XCNaviService
+11-09 19:30:22.270 I/XCNaviService( 3653): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{ICON=2, ROUTE_REMAIN_DIS=5000, NEXT_ROAD_NAME=TestRoad, SEG_REMAIN_DIS=200, KEY_TYPE=10001, TYPE=0, ROUTE_REMAIN_TIME=600}]
+11-09 19:30:22.270 I/XCNaviService( 3653): args[0] = XCNaviService
+11-09 19:30:22.270 I/XCNaviService( 3653): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10001
+11-09 19:30:22.280 D/AndroidRuntime( 5452): Shutting down VM
+11-09 19:30:22.280 D/dalvikvm( 5452): GC_CONCURRENT freed 95K, 16% free 532K/632K, paused 0ms+0ms, total 4ms
+11-09 19:30:22.330 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:22.340 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:22.430 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:22.440 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:22.530 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:22.540 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:22.560 D/Extra   ( 3410):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 19:30:22.560 D/Extra   ( 3410):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 19:30:22.590 D/dalvikvm( 3410): GC_CONCURRENT freed 432K, 68% free 3915K/11976K, paused 4ms+2ms, total 35ms
+11-09 19:30:22.630 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:22.640 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:22.650 D/neu_c3_alfus_gps( 3121): <<-GPS->>: -------- heart monitor thread recv nmea message success! clientFd = 249, count = 9!
+11-09 19:30:22.730 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:22.740 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:22.830 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:22.840 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:22.880 D/dalvikvm( 3572): GC_CONCURRENT freed 2241K, 62% free 10096K/26564K, paused 8ms+3ms, total 47ms
+11-09 19:30:22.930 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:22.930 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:22.950 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 19:30:22.970 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,16,17,1e
+11-09 19:30:23.030 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:23.030 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:23.130 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:23.130 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:23.230 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:23.230 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:23.330 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:23.330 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:23.390 D/dalvikvm( 3761): GC_CONCURRENT freed 386K, 67% free 4363K/13196K, paused 4ms+2ms, total 32ms
+11-09 19:30:23.430 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:23.430 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 19:30:23.530 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 19:30:23.530 D/RPC-Server( 2363): RPC-LOG:opecode==74b,data==0,b,0,1,ff

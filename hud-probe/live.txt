@@ -1,0 +1,581 @@
+--------- beginning of /dev/log/main
+11-09 15:43:26.670 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:26.680 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:26.770 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:26.780 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:26.870 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:26.880 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:26.970 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,1b,2b
+11-09 15:43:26.980 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:26.980 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:27.070 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:27.070 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:27.090 I/xcertplay-usb( 4688): Receive: video packets=169 bytes=1368911 readMaxMs=132 processMaxUs=7032 seqForwardGaps=0 lateOrDuplicate=0 interArrivalMaxMs=132 seqGapEvents=0 seqGapMax=0 seqGapLast=[none] seqGapAtMs=-1 ended=false
+11-09 15:43:27.090 I/xcertplay-usb( 4688): Receive: video packets=169 bytes=1368911 readMaxMs=132 processMaxUs=7032 seqForwardGaps=0 lateOrDuplicate=0 interArrivalMaxMs=132 seqGapEvents=0 seqGapMax=0 seqGapLast=[none] seqGapAtMs=-1 ended=false
+11-09 15:43:27.100 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1073 auSeq=2043 inputPts=1595379057 dequeued=32 queued=32 outputs=32 rendered=32 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=1 queueAgeUs={n=32,p50=121,p95=473,p99=2458,max=2458,excess=0} rxToQueuedUs={n=32,p50=838,p95=4706,p99=7809,max=7809,excess=0} queuedToOutputUs={n=32,p50=10910,p95=21136,p99=22744,max=22744,excess=0} rxToOutputUs={n=32,p50=11894,p95=23635,p99=30553,max=30553,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=32 physicalPresentationMeasured=false
+11-09 15:43:27.170 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:27.170 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:27.220 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:27.270 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:27.270 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:27.370 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:27.370 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:27.410 I/ServiceManager( 2340): check_service('Rpc_Server') ptr = 0x3
+11-09 15:43:27.410 I/tan     ( 3473): 移位计算乘品质因数后的值51
+11-09 15:43:27.410 I/tan     ( 3473): 数据异常无效4.9E-324
+11-09 15:43:27.410 D/FuelConsumptionService( 3473): fuelConsumption: 4.9E-324
+11-09 15:43:27.410 D/FuelConsumptionService( 3473): support ranking type: 0
+11-09 15:43:27.410 D/FuelConsumptionService( 3473): exception match mFuelValueList size: 100---result: -2147483648
+11-09 15:43:27.410 D/diminteraction( 3473): rankingInfo : -2147483648 type: 0
+11-09 15:43:27.410 D/diminteraction( 3473): rankNum : 101
+11-09 15:43:27.410 D/unInit  ( 3473):  @diminteraction@  sendArray:0 4 42 65  
+11-09 15:43:27.410 I/ServiceManager( 2340): check_service('Rpc_Server') ptr = 0x3
+11-09 15:43:27.410 D/RPC-Interface( 3473):  native_rpc_sendCommand result:0
+11-09 15:43:27.430 D/dalvikvm( 4688): GC_CONCURRENT freed 767K, 65% free 5623K/15976K, paused 9ms+7ms, total 70ms
+11-09 15:43:27.470 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:27.470 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:27.520 I/xcertplay-usb( 4688): airplay rx POST /feedback cseq=67 body=0
+11-09 15:43:27.520 I/xcertplay-usb( 4688): TRACE airplay control rx headers={cseq=67, user-agent=AirPlay/950.7.1} bodyHex=
+11-09 15:43:27.520 I/xcertplay-usb( 4688): airplay tx status=200 cseq=67 body=0
+11-09 15:43:27.530 I/xcertplay-usb( 4688): TRACE airplay control tx wireHex=525453502f312e3020323030204f4b0d0a435365713a2036370d0a436f6e74656e742d4c656e6774683a20300d0a0d0a
+11-09 15:43:27.530 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg2 privateSize=179 mHalfLastDataSize=31
+11-09 15:43:27.540 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:27.540 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:27.570 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:27.570 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:27.650 E/LogService( 4455): log tool read line : OK
+11-09 15:43:27.670 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:27.670 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:27.720 D/neu_c3_alfus_ubx( 3418): <<-GPS->>: -------- heart monitor thread recv nmea message success! baudrate = 115200, count = 156!
+11-09 15:43:27.730 D/dalvikvm( 4455): GC_CONCURRENT freed 402K, 72% free 3257K/11280K, paused 4ms+2ms, total 39ms
+11-09 15:43:27.760 I/Diag_MediaLogfunch( 4455): deleteFile()_start
+11-09 15:43:27.760 I/Diag_MediaLogfunch( 4455): deleteFileName = 018087_KC2Log_第2435次打火20261107113621.txtdeleteFileNameResult = true
+11-09 15:43:27.770 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:27.770 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:27.840 D/dalvikvm( 4455): GC_CONCURRENT freed 512K, 72% free 3257K/11348K, paused 3ms+3ms, total 34ms
+11-09 15:43:27.840 D/dalvikvm( 4455): WAIT_FOR_CONCURRENT_GC blocked 10ms
+11-09 15:43:27.860 I/Diag_MediaLogfunch( 4455): deleteFile()_start
+11-09 15:43:27.860 I/Diag_MediaLogfunch( 4455): deleteFileName = 018088_KC2Log_第2435次打火20261107113847.txtdeleteFileNameResult = true
+11-09 15:43:27.870 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:27.870 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:27.890 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (2,0) : 0  +++
+11-09 15:43:27.890 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (0,0) : 0  +++
+--------- beginning of /dev/log/system
+11-09 15:43:27.960 W/BackupManagerService( 3113): dataChanged but no participant pkg='com.android.providers.settings' uid=10017
+11-09 15:43:27.970 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:27.970 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:27.980 D/dalvikvm( 4455): GC_CONCURRENT freed 472K, 72% free 3190K/11348K, paused 5ms+3ms, total 42ms
+11-09 15:43:27.990 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,1c,2b
+11-09 15:43:28.070 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:28.070 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:28.120 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1022 auSeq=2076 inputPts=1596421863 dequeued=33 queued=33 outputs=33 rendered=33 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=1 queueAgeUs={n=33,p50=185,p95=9474,p99=17988,max=17988,excess=0} rxToQueuedUs={n=33,p50=1126,p95=17902,p99=27160,max=27160,excess=0} queuedToOutputUs={n=33,p50=11133,p95=12688,p99=13117,max=13117,excess=0} rxToOutputUs={n=33,p50=12421,p95=27902,p99=37840,max=37840,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=33 physicalPresentationMeasured=false
+11-09 15:43:28.170 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:28.170 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:28.220 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:28.270 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:28.270 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:28.310 D/dalvikvm( 4099): GC_CONCURRENT freed 386K, 71% free 3418K/11428K, paused 4ms+2ms, total 35ms
+11-09 15:43:28.360 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:28.370 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:28.380 D/RPC-Server( 2352): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 15:43:28.380 D/RPC-Server( 2352): v850log: RadOpn:0,0,0,a,2,0
+11-09 15:43:28.450 D/XCNaviService( 3631): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 15:43:28.450 I/XCNaviService( 3631): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 15:43:28.460 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:28.470 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:28.530 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg1 privateSize=179 mHalfLastDataSize=31
+11-09 15:43:28.540 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:28.540 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:28.560 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:28.570 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:28.640 W/audio_hw_primary( 2348): do_out_standby out:40087008,1
+11-09 15:43:28.660 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:28.670 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:28.680 D/dalvikvm( 4688): GC_CONCURRENT freed 825K, 66% free 5567K/15976K, paused 7ms+10ms, total 56ms
+11-09 15:43:28.750 D/TBoxClient( 3938):  @BaseStationDataParser@  internet and operator is both normal 网络状态正常（即基站信息正常） 
+11-09 15:43:28.750 D/TBoxClient( 3938):  @BaseStationDataParser@  internetType:4G, region:currentRegion, operator:中国移动, ip:10.40.100.16 
+11-09 15:43:28.750 D/TBoxClient( 3938):  @TBoxNotifier@  sendBSInfo 
+11-09 15:43:28.750 D/TBoxClient( 3938):  @SignalDataParser@  信号强度 signal: 24, 信号等级 signalGrade: 4 
+11-09 15:43:28.750 D/TBoxClient( 3938):  @TBoxNotifier@  sendSignalData 
+11-09 15:43:28.750 I/NetworkController( 3265): onSignalStrengthsChanged SignalStrength: 24 0 0 0 0 0 0 99 2147483647 2147483647 2147483647 2147483647 gsm|lte
+11-09 15:43:28.750 I/NetworkController( 3265): updateTelephonySignalStrength iconLevel = 4
+11-09 15:43:28.750 D/ConnectivityService( 3113): [shanchsh]getActiveNetworkInfo9
+11-09 15:43:28.750 D/ConnectivityService( 3113): [shanchsh]getActiveNetworkInfo9
+11-09 15:43:28.760 I/XCUpgradeService( 4310): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+11-09 15:43:28.760 I/XDownload( 4310): onSignalStrengthsChanged 
+11-09 15:43:28.760 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:28.770 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:28.860 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:28.870 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:28.930 I/DiPlay-VideoStats( 4688): video stats rx=32.0fps shown=32.0fps maxGap=132ms kbps=2149 recoveries=0 touch2frame avg=-1ms max=0ms n=0 touchSendMax=0ms
+11-09 15:43:28.930 I/xcertplay-usb( 4688): Video: video stats rx=32.0fps shown=32.0fps maxGap=132ms kbps=2149 recoveries=0 touch2frame avg=-1ms max=0ms n=0 touchSendMax=0ms
+11-09 15:43:28.930 I/xcertplay-usb( 4688): Video: video stats rx=32.0fps shown=32.0fps maxGap=132ms kbps=2149 recoveries=0 touch2frame avg=-1ms max=0ms n=0 touchSendMax=0ms
+11-09 15:43:28.960 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:28.970 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:28.980 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,1d,2b
+11-09 15:43:29.060 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:29.070 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:29.100 D/dalvikvm( 3748): GC_CONCURRENT freed 2434K, 61% free 10628K/26640K, paused 8ms+10ms, total 102ms
+11-09 15:43:29.140 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1021 auSeq=2110 inputPts=1597437911 dequeued=34 queued=34 outputs=34 rendered=34 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=1 queueAgeUs={n=34,p50=146,p95=2116,p99=2897,max=2897,excess=0} rxToQueuedUs={n=34,p50=902,p95=11079,p99=11606,max=11606,excess=0} queuedToOutputUs={n=34,p50=11080,p95=17707,p99=18881,max=18881,excess=0} rxToOutputUs={n=34,p50=12265,p95=22303,p99=28131,max=28131,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=34 physicalPresentationMeasured=false
+11-09 15:43:29.160 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:29.160 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:29.230 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:29.250 D/TBoxClient( 3938):  @SocketPresenter@  send GPS消息信息 Message:0D052A7000170000000000000000000000000000000000000000000200650D0A 
+11-09 15:43:29.260 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:29.260 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:29.360 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:29.360 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:29.460 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:29.460 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:29.520 D/dalvikvm( 4688): GC_CONCURRENT freed 768K, 66% free 5556K/15976K, paused 6ms+6ms, total 48ms
+11-09 15:43:29.520 I/xcertplay-usb( 4688): airplay rx POST /feedback cseq=68 body=0
+11-09 15:43:29.520 I/xcertplay-usb( 4688): TRACE airplay control rx headers={cseq=68, user-agent=AirPlay/950.7.1} bodyHex=
+11-09 15:43:29.520 I/xcertplay-usb( 4688): airplay tx status=200 cseq=68 body=0
+11-09 15:43:29.530 I/xcertplay-usb( 4688): TRACE airplay control tx wireHex=525453502f312e3020323030204f4b0d0a435365713a2036380d0a436f6e74656e742d4c656e6774683a20300d0a0d0a
+11-09 15:43:29.540 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg2 privateSize=179 mHalfLastDataSize=25
+11-09 15:43:29.540 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:29.540 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:29.560 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:29.560 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:29.580 D/dalvikvm( 3418): GC_CONCURRENT freed 404K, 68% free 3975K/12056K, paused 3ms+3ms, total 39ms
+11-09 15:43:29.660 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:29.660 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:29.760 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:29.760 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:29.860 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:29.860 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:29.890 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (2,0) : 0  +++
+11-09 15:43:29.890 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (0,0) : 0  +++
+11-09 15:43:29.960 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:29.960 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:29.980 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,1e,2b
+11-09 15:43:30.060 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:30.060 D/Extra   ( 3418):  @neunavi@  DR speed = 0.0 
+11-09 15:43:30.060 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:30.070 D/Extra   ( 3418):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9272361397743225,"valueYaw":0.4145407974720001,"valuePitch":-0.051120057702064514} 
+11-09 15:43:30.080 D/Extra   ( 3418):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.48681640625,"valueYaw":0.2978515625,"valuePitch":0.737548828125} 
+11-09 15:43:30.150 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1008 auSeq=2145 inputPts=1598512151 dequeued=35 queued=35 outputs=35 rendered=35 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=1 queueAgeUs={n=35,p50=143,p95=3725,p99=6288,max=6288,excess=0} rxToQueuedUs={n=35,p50=938,p95=6142,p99=15277,max=15277,excess=0} queuedToOutputUs={n=35,p50=11013,p95=17648,p99=19007,max=19007,excess=0} rxToOutputUs={n=35,p50=12008,p95=20138,p99=31239,max=31239,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=35 physicalPresentationMeasured=false
+11-09 15:43:30.160 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:30.160 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:30.230 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:30.260 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:30.260 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:30.350 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:30.360 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:30.390 E/FastSensor( 3418): test mTestCountGyro = 15800 mTestInvalidateCountGyro=187 
+11-09 15:43:30.450 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:30.460 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:30.540 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg1 privateSize=179 mHalfLastDataSize=25
+11-09 15:43:30.540 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:30.540 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:30.550 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:30.560 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:30.650 D/dalvikvm( 4688): GC_CONCURRENT freed 743K, 66% free 5559K/15976K, paused 5ms+7ms, total 48ms
+11-09 15:43:30.650 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:30.660 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:30.750 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:30.760 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:30.850 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:30.860 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:30.950 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:30.960 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:30.970 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,1f,2b
+11-09 15:43:31.050 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:31.050 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:31.090 I/DiPlay-H52-CodecTiming( 4688): CODEC_CALL_TOTALS codec=1117905944 windowMs=5002 inputWaitTotalUs=131682 inputWaitCalls=165 inputWaitAvgUs=798 queueTotalUs=37672 queueCalls=164 queueAvgUs=229 releaseTotalUs=45261 releaseCalls=163 releaseAvgUs=277 outputDequeueTotalUs=243433 outputDequeueMaxUs=4236 outputDequeueCalls=1419 outputDequeueAvgUs=171 renderReleaseAvgUs=277 renderReleaseN=163 skipReleaseAvgUs=0 skipReleaseN=0 physicalPresentationMeasured=false
+11-09 15:43:31.090 I/DiPlay-H52-CodecTiming( 4688): codec timing windowMs=5002 inputWaitMaxUs=8667 queueCallMaxUs=1462 releaseCallMaxUs=7421 queuedToOutputApproxAvgUs=12216 queuedToOutputApproxMaxUs=24101 queued=164 outputs=163 submitted=163 inputUnavailable=0 physicalPresentationMeasured=false
+11-09 15:43:31.150 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:31.150 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1003 auSeq=2179 inputPts=1599550700 dequeued=34 queued=34 outputs=34 rendered=34 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=1 queueAgeUs={n=34,p50=168,p95=278,p99=368,max=368,excess=0} rxToQueuedUs={n=34,p50=944,p95=5356,p99=5637,max=5637,excess=0} queuedToOutputUs={n=34,p50=11018,p95=16873,p99=17231,max=17231,excess=0} rxToOutputUs={n=34,p50=12258,p95=18501,p99=18910,max=18910,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=34 physicalPresentationMeasured=false
+11-09 15:43:31.150 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:31.240 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:31.250 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:31.250 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:31.350 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:31.350 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:31.380 D/RPC-Server( 2352): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 15:43:31.380 D/RPC-Server( 2352): v850log: RadOpn:0,0,0,a,2,0
+11-09 15:43:31.450 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:31.450 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:31.460 D/XCNaviService( 3631): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 15:43:31.460 I/XCNaviService( 3631): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 15:43:31.530 I/xcertplay-usb( 4688): airplay rx POST /feedback cseq=69 body=0
+11-09 15:43:31.530 I/xcertplay-usb( 4688): TRACE airplay control rx headers={cseq=69, user-agent=AirPlay/950.7.1} bodyHex=
+11-09 15:43:31.530 I/xcertplay-usb( 4688): airplay tx status=200 cseq=69 body=0
+11-09 15:43:31.530 I/xcertplay-usb( 4688): TRACE airplay control tx wireHex=525453502f312e3020323030204f4b0d0a435365713a2036390d0a436f6e74656e742d4c656e6774683a20300d0a0d0a
+11-09 15:43:31.530 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg2 privateSize=179 mHalfLastDataSize=25
+11-09 15:43:31.540 E/neu_c3_alfus_gps( 3113): [msg_parse2] : has half msg2 privateSize=50 mHalfLastDataSize=30
+11-09 15:43:31.540 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:31.540 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:31.550 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:31.550 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:31.650 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:31.650 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:31.750 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:31.750 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:31.810 D/dalvikvm( 4688): GC_CONCURRENT freed 747K, 66% free 5558K/15976K, paused 6ms+7ms, total 49ms
+11-09 15:43:31.850 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:31.850 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:31.890 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (2,0) : 0  +++
+11-09 15:43:31.890 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (0,0) : 0  +++
+11-09 15:43:31.920 D/neu_c3_alfus_gps( 3113): <<-GPS->>: -------- heart monitor thread recv nmea message success! clientFd = 249, count = 144!
+11-09 15:43:31.950 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:31.950 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:31.990 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,20,2b
+11-09 15:43:32.050 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:32.050 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:32.130 I/xcertplay-usb( 4688): Receive: video packets=173 bytes=1496353 readMaxMs=139 processMaxUs=6434 seqForwardGaps=0 lateOrDuplicate=0 interArrivalMaxMs=141 seqGapEvents=0 seqGapMax=0 seqGapLast=[none] seqGapAtMs=-1 ended=false
+11-09 15:43:32.130 I/xcertplay-usb( 4688): Receive: video packets=173 bytes=1496353 readMaxMs=139 processMaxUs=6434 seqForwardGaps=0 lateOrDuplicate=0 interArrivalMaxMs=141 seqGapEvents=0 seqGapMax=0 seqGapLast=[none] seqGapAtMs=-1 ended=false
+11-09 15:43:32.150 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:32.150 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:32.150 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1003 auSeq=2212 inputPts=1600550319 dequeued=33 queued=33 outputs=33 rendered=33 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=1 queueAgeUs={n=33,p50=180,p95=7156,p99=15453,max=15453,excess=0} rxToQueuedUs={n=33,p50=1020,p95=15281,p99=30917,max=30917,excess=0} queuedToOutputUs={n=33,p50=10911,p95=17357,p99=17766,max=17766,excess=0} rxToOutputUs={n=33,p50=11986,p95=30435,p99=42611,max=42611,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=33 physicalPresentationMeasured=false
+11-09 15:43:32.240 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:32.250 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:32.250 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:32.350 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:32.350 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:32.440 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:32.450 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:32.530 D/neu_c3_alfus_gps( 3113): $GNRMC,074334.00,V,,,,,,,091126,,,N*69
+11-09 15:43:32.530 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg1 privateSize=179 mHalfLastDataSize=31
+11-09 15:43:32.530 D/neu_c3_alfus_gps( 3113): $GNVTG,,,,,,,,,N*2E
+11-09 15:43:32.530 D/neu_c3_alfus_gps( 3113): $GNGGA,074334.00,,,,,0,00,99.99,,,,,,*7F
+11-09 15:43:32.530 D/neu_c3_alfus_gps( 3113): $GNGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*2E
+11-09 15:43:32.530 D/neu_c3_alfus_gps( 3113): $GNGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*2E
+11-09 15:43:32.530 D/neu_c3_alfus_gps( 3113): $GPGSV,4,1,14,02,06,169,,03,03,212,,04,65,239,,07,19,311,*71
+11-09 15:43:32.530 D/neu_c3_alfus_gps( 3113): $GPGSV,4,2,14,08,58,195,,09,45,297,,16,46,032,,26,18,061,*78
+11-09 15:43:32.540 D/neu_c3_alfus_gps( 3113): $GPGSV,4,3,14,27,71,081,,31,20,108,,40,25,249,,41,47,222,*70
+11-09 15:43:32.540 D/neu_c3_alfus_gps( 3113): $GPGSV,4,4,14,42,52,211,,50,49,143,*71
+11-09 15:43:32.540 D/neu_c3_alfus_gps( 3113): $GLGSV,3,1,11,68,08,181,,69,44,219,,70,43,294,,71,01,338,*6C
+11-09 15:43:32.540 D/neu_c3_alfus_gps( 3113): $GLGSV,3,2,11,73,02,277,,78,03,070,,79,37,031,,80,38,317,*65
+11-09 15:43:32.540 D/neu_c3_alfus_gps( 3113): $GLGSV,3,3,11,81,34,085,,82,25,138,,88,10,034,*57
+11-09 15:43:32.540 D/neu_c3_alfus_gps( 3113): $GNGLL,,,,,074334.00,V,N*53
+11-09 15:43:32.540 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:32.540 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:32.540 D/neu_c3_alfus_gps( 3113): active sv_status_cb: num_svs = 00 ephemeris_mask = 0x0 almanac_mask = 0x0 used_in_fix_mask = 0x0 
+11-09 15:43:32.540 D/neu_c3_alfus_gps( 3113): extension_ephemeris_mask = 0x0 extension_almanac_mask = 0x0 extension_used_in_fix_mask = 0x0
+11-09 15:43:32.540 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:32.550 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:32.640 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:32.650 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:32.690 D/dalvikvm( 4688): GC_CONCURRENT freed 737K, 66% free 5577K/15976K, paused 6ms+8ms, total 56ms
+11-09 15:43:32.740 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:32.750 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:32.840 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:32.850 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:32.940 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:32.950 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:32.980 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,21,2b
+11-09 15:43:33.040 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:33.040 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:33.140 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:33.140 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:33.160 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1002 auSeq=2242 inputPts=1601550667 dequeued=30 queued=30 outputs=30 rendered=30 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=1 queueAgeUs={n=30,p50=156,p95=320,p99=334,max=334,excess=0} rxToQueuedUs={n=30,p50=809,p95=2840,p99=2888,max=2888,excess=0} queuedToOutputUs={n=30,p50=10914,p95=16808,p99=16955,max=16955,excess=0} rxToOutputUs={n=30,p50=11946,p95=17776,p99=19844,max=19844,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=30 physicalPresentationMeasured=false
+11-09 15:43:33.240 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:33.240 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:33.250 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:33.340 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:33.340 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:33.440 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:33.440 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:33.530 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg2 privateSize=179 mHalfLastDataSize=25
+11-09 15:43:33.540 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:33.540 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:33.550 I/xcertplay-usb( 4688): airplay rx POST /feedback cseq=70 body=0
+11-09 15:43:33.550 I/xcertplay-usb( 4688): TRACE airplay control rx headers={cseq=70, user-agent=AirPlay/950.7.1} bodyHex=
+11-09 15:43:33.550 I/xcertplay-usb( 4688): airplay tx status=200 cseq=70 body=0
+11-09 15:43:33.560 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:33.560 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:33.560 I/xcertplay-usb( 4688): TRACE airplay control tx wireHex=525453502f312e3020323030204f4b0d0a435365713a2037300d0a436f6e74656e742d4c656e6774683a20300d0a0d0a
+11-09 15:43:33.590 D/dalvikvm( 3418): GC_CONCURRENT freed 403K, 68% free 3975K/12056K, paused 5ms+3ms, total 30ms
+11-09 15:43:33.640 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:33.640 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:33.740 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:33.740 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:33.760 D/TBoxClient( 3938):  @BaseStationDataParser@  internet and operator is both normal 网络状态正常（即基站信息正常） 
+11-09 15:43:33.760 D/TBoxClient( 3938):  @BaseStationDataParser@  internetType:4G, region:currentRegion, operator:中国移动, ip:10.40.100.16 
+11-09 15:43:33.760 D/TBoxClient( 3938):  @TBoxNotifier@  sendBSInfo 
+11-09 15:43:33.760 D/TBoxClient( 3938):  @SignalDataParser@  信号强度 signal: 24, 信号等级 signalGrade: 4 
+11-09 15:43:33.760 D/TBoxClient( 3938):  @TBoxNotifier@  sendSignalData 
+11-09 15:43:33.760 I/NetworkController( 3265): onSignalStrengthsChanged SignalStrength: 24 0 0 0 0 0 0 99 2147483647 2147483647 2147483647 2147483647 gsm|lte
+11-09 15:43:33.760 I/NetworkController( 3265): updateTelephonySignalStrength iconLevel = 4
+11-09 15:43:33.760 I/XCUpgradeService( 4310): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+11-09 15:43:33.760 I/XDownload( 4310): onSignalStrengthsChanged 
+11-09 15:43:33.760 D/ConnectivityService( 3113): [shanchsh]getActiveNetworkInfo9
+11-09 15:43:33.760 D/ConnectivityService( 3113): [shanchsh]getActiveNetworkInfo9
+11-09 15:43:33.840 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:33.840 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:33.890 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (2,0) : 0  +++
+11-09 15:43:33.900 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (0,0) : 0  +++
+11-09 15:43:33.930 I/DiPlay-VideoStats( 4688): video stats rx=32.6fps shown=32.6fps maxGap=140ms kbps=2302 recoveries=0 touch2frame avg=-1ms max=0ms n=0 touchSendMax=0ms
+11-09 15:43:33.930 I/xcertplay-usb( 4688): Video: video stats rx=32.6fps shown=32.6fps maxGap=140ms kbps=2302 recoveries=0 touch2frame avg=-1ms max=0ms n=0 touchSendMax=0ms
+11-09 15:43:33.930 I/xcertplay-usb( 4688): Video: video stats rx=32.6fps shown=32.6fps maxGap=140ms kbps=2302 recoveries=0 touch2frame avg=-1ms max=0ms n=0 touchSendMax=0ms
+11-09 15:43:33.940 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:33.940 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:33.950 D/dalvikvm( 4688): GC_CONCURRENT freed 792K, 66% free 5574K/15976K, paused 5ms+15ms, total 68ms
+11-09 15:43:33.980 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,22,2b
+11-09 15:43:34.040 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:34.040 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:34.140 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:34.140 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:34.170 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1009 auSeq=2274 inputPts=1602569280 dequeued=32 queued=33 outputs=33 rendered=33 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=1 queueAgeUs={n=32,p50=152,p95=350,p99=364,max=364,excess=0} rxToQueuedUs={n=33,p50=831,p95=1731,p99=4710,max=4710,excess=0} queuedToOutputUs={n=33,p50=10950,p95=16178,p99=16766,max=16766,excess=0} rxToOutputUs={n=33,p50=11814,p95=17250,p99=17388,max=17388,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=32 physicalPresentationMeasured=false
+11-09 15:43:34.240 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:34.240 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:34.250 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:34.260 D/TBoxClient( 3938):  @SocketPresenter@  send GPS消息信息 Message:0D052A7000170000000000000000000000000000000000000000000200650D0A 
+11-09 15:43:34.330 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:34.340 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:34.370 D/RPC-Server( 2352): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 15:43:34.370 D/RPC-Server( 2352): v850log: RadOpn:0,0,0,a,2,0
+11-09 15:43:34.430 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:34.440 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:34.470 D/XCNaviService( 3631): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 15:43:34.470 I/XCNaviService( 3631): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 15:43:34.530 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg1 privateSize=111 mHalfLastDataSize=31
+11-09 15:43:34.530 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:34.530 E/neu_c3_alfus_gps( 3113): [msg_parse2] : has half msg1 privateSize=71 mHalfLastDataSize=9
+11-09 15:43:34.540 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:34.540 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:34.540 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:34.630 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:34.640 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:34.730 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:34.740 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:34.830 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:34.840 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:34.860 D/dalvikvm( 4688): GC_CONCURRENT freed 764K, 66% free 5562K/15976K, paused 6ms+7ms, total 60ms
+11-09 15:43:34.930 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:34.940 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:34.970 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,23,2b
+11-09 15:43:35.030 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:35.030 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:35.130 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:35.130 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:35.170 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1000 auSeq=2306 inputPts=1603570083 dequeued=32 queued=32 outputs=32 rendered=32 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=1 queueAgeUs={n=32,p50=121,p95=332,p99=718,max=718,excess=0} rxToQueuedUs={n=32,p50=768,p95=2940,p99=4140,max=4140,excess=0} queuedToOutputUs={n=32,p50=10848,p95=19387,p99=20207,max=20207,excess=0} rxToOutputUs={n=32,p50=11635,p95=21854,p99=22328,max=22328,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=32 physicalPresentationMeasured=false
+11-09 15:43:35.230 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:35.230 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:35.250 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:35.280 D/dalvikvm( 9877): GC_CONCURRENT freed 385K, 69% free 3720K/11692K, paused 4ms+2ms, total 30ms
+11-09 15:43:35.330 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:35.330 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:35.430 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:35.430 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:35.520 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg2 privateSize=179 mHalfLastDataSize=31
+11-09 15:43:35.530 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:35.530 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:35.530 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:35.530 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:35.580 I/xcertplay-usb( 4688): airplay rx POST /feedback cseq=71 body=0
+11-09 15:43:35.580 I/xcertplay-usb( 4688): TRACE airplay control rx headers={cseq=71, user-agent=AirPlay/950.7.1} bodyHex=
+11-09 15:43:35.590 I/xcertplay-usb( 4688): airplay tx status=200 cseq=71 body=0
+11-09 15:43:35.590 I/xcertplay-usb( 4688): TRACE airplay control tx wireHex=525453502f312e3020323030204f4b0d0a435365713a2037310d0a436f6e74656e742d4c656e6774683a20300d0a0d0a
+11-09 15:43:35.630 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:35.630 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:35.730 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:35.730 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:35.830 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:35.830 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:35.900 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (2,0) : 0  +++
+11-09 15:43:35.900 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (0,0) : 0  +++
+11-09 15:43:35.930 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:35.930 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:35.990 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,24,2b
+11-09 15:43:36.020 D/dalvikvm( 3446): GC_CONCURRENT freed 299K, 64% free 4692K/12864K, paused 5ms+2ms, total 29ms
+11-09 15:43:36.030 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:36.030 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:36.110 I/DiPlay-H52-CodecTiming( 4688): CODEC_CALL_TOTALS codec=1117905944 windowMs=5019 inputWaitTotalUs=89245 inputWaitCalls=158 inputWaitAvgUs=564 queueTotalUs=35149 queueCalls=156 queueAvgUs=225 releaseTotalUs=32896 releaseCalls=157 releaseAvgUs=209 outputDequeueTotalUs=252916 outputDequeueMaxUs=3883 outputDequeueCalls=1406 outputDequeueAvgUs=179 renderReleaseAvgUs=209 renderReleaseN=157 skipReleaseAvgUs=0 skipReleaseN=0 physicalPresentationMeasured=false
+11-09 15:43:36.110 I/DiPlay-H52-CodecTiming( 4688): codec timing windowMs=5019 inputWaitMaxUs=11990 queueCallMaxUs=1874 releaseCallMaxUs=1356 queuedToOutputApproxAvgUs=11866 queuedToOutputApproxMaxUs=20414 queued=156 outputs=157 submitted=157 inputUnavailable=2 physicalPresentationMeasured=false
+11-09 15:43:36.130 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:36.130 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:36.170 D/dalvikvm( 4688): GC_CONCURRENT freed 802K, 66% free 5589K/15976K, paused 8ms+8ms, total 62ms
+11-09 15:43:36.170 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1006 auSeq=2338 inputPts=1604587158 dequeued=32 queued=32 outputs=30 rendered=30 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=3 queueAgeUs={n=32,p50=106,p95=11397,p99=21294,max=21294,excess=0} rxToQueuedUs={n=32,p50=873,p95=25554,p99=30626,max=30626,excess=0} queuedToOutputUs={n=30,p50=10974,p95=18100,p99=19327,max=19327,excess=0} rxToOutputUs={n=30,p50=11861,p95=32070,p99=48320,max=48320,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=32 physicalPresentationMeasured=false
+11-09 15:43:36.230 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:36.230 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:36.250 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:36.330 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:36.330 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:36.420 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:36.430 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:36.520 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:36.530 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:36.530 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg1 privateSize=111 mHalfLastDataSize=31
+11-09 15:43:36.540 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:36.540 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:36.620 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:36.630 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:36.720 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:36.730 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:36.820 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:36.830 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:36.920 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:36.930 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:36.980 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,25,2b
+11-09 15:43:37.020 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:37.020 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:37.120 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:37.120 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:37.150 I/xcertplay-usb( 4688): Receive: video packets=163 bytes=1419717 readMaxMs=149 processMaxUs=8392 seqForwardGaps=0 lateOrDuplicate=0 interArrivalMaxMs=150 seqGapEvents=0 seqGapMax=0 seqGapLast=[none] seqGapAtMs=-1 ended=false
+11-09 15:43:37.150 I/xcertplay-usb( 4688): Receive: video packets=163 bytes=1419717 readMaxMs=149 processMaxUs=8392 seqForwardGaps=0 lateOrDuplicate=0 interArrivalMaxMs=150 seqGapEvents=0 seqGapMax=0 seqGapLast=[none] seqGapAtMs=-1 ended=false
+11-09 15:43:37.210 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1033 auSeq=2371 inputPts=1605574761 dequeued=33 queued=32 outputs=34 rendered=34 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=1 queueAgeUs={n=33,p50=116,p95=420,p99=1243,max=1243,excess=0} rxToQueuedUs={n=32,p50=752,p95=2685,p99=3042,max=3042,excess=0} queuedToOutputUs={n=34,p50=10935,p95=15113,p99=18154,max=18154,excess=0} rxToOutputUs={n=34,p50=12109,p95=22049,p99=36632,max=36632,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=33 physicalPresentationMeasured=false
+11-09 15:43:37.220 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:37.220 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:37.250 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:37.320 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:37.320 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:37.370 D/RPC-Server( 2352): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 15:43:37.370 D/RPC-Server( 2352): v850log: RadOpn:0,0,0,a,2,0
+11-09 15:43:37.410 D/dalvikvm( 4688): GC_CONCURRENT freed 760K, 66% free 5589K/15976K, paused 6ms+7ms, total 58ms
+11-09 15:43:37.420 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:37.420 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:37.480 D/XCNaviService( 3631): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 15:43:37.480 I/XCNaviService( 3631): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 15:43:37.520 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:37.520 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:37.530 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg2 privateSize=111 mHalfLastDataSize=31
+11-09 15:43:37.540 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:37.540 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:37.570 D/dalvikvm( 3418): GC_CONCURRENT freed 391K, 68% free 3975K/12056K, paused 3ms+3ms, total 32ms
+11-09 15:43:37.580 I/xcertplay-usb( 4688): airplay rx POST /feedback cseq=72 body=0
+11-09 15:43:37.580 I/xcertplay-usb( 4688): TRACE airplay control rx headers={cseq=72, user-agent=AirPlay/950.7.1} bodyHex=
+11-09 15:43:37.580 I/xcertplay-usb( 4688): airplay tx status=200 cseq=72 body=0
+11-09 15:43:37.590 I/xcertplay-usb( 4688): TRACE airplay control tx wireHex=525453502f312e3020323030204f4b0d0a435365713a2037320d0a436f6e74656e742d4c656e6774683a20300d0a0d0a
+11-09 15:43:37.620 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:37.620 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:37.720 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:37.720 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:37.820 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:37.820 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:37.910 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (2,0) : 0  +++
+11-09 15:43:37.920 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (0,0) : 0  +++
+11-09 15:43:37.920 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:37.920 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:37.970 D/dalvikvm( 4688): GC_CONCURRENT freed 821K, 66% free 5579K/15976K, paused 11ms+8ms, total 68ms
+11-09 15:43:37.980 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,26,2b
+11-09 15:43:38.020 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:38.020 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:38.120 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:38.120 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:38.220 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:38.220 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1008 auSeq=2403 inputPts=1606618816 dequeued=32 queued=33 outputs=33 rendered=33 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=1 queueAgeUs={n=32,p50=129,p95=2060,p99=2729,max=2729,excess=0} rxToQueuedUs={n=33,p50=885,p95=10090,p99=16782,max=16782,excess=0} queuedToOutputUs={n=33,p50=11048,p95=21537,p99=22629,max=22629,excess=0} rxToOutputUs={n=33,p50=11942,p95=24861,p99=30094,max=30094,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=32 physicalPresentationMeasured=false
+11-09 15:43:38.220 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:38.220 D/neu_c3_alfus_ubx( 3418): <<-GPS->>: -------- heart monitor thread recv nmea message success! baudrate = 115200, count = 157!
+11-09 15:43:38.250 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:38.320 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:38.320 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:38.410 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:38.420 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:38.510 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:38.520 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:38.540 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg1 privateSize=111 mHalfLastDataSize=31
+11-09 15:43:38.550 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:38.550 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:38.610 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:38.620 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:38.630 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:38.710 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:38.720 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:38.760 D/TBoxClient( 3938):  @BaseStationDataParser@  internet and operator is both normal 网络状态正常（即基站信息正常） 
+11-09 15:43:38.760 D/TBoxClient( 3938):  @BaseStationDataParser@  internetType:4G, region:currentRegion, operator:中国移动, ip:10.40.100.16 
+11-09 15:43:38.760 D/TBoxClient( 3938):  @TBoxNotifier@  sendBSInfo 
+11-09 15:43:38.770 D/TBoxClient( 3938):  @SignalDataParser@  信号强度 signal: 24, 信号等级 signalGrade: 4 
+11-09 15:43:38.770 D/TBoxClient( 3938):  @TBoxNotifier@  sendSignalData 
+11-09 15:43:38.770 I/NetworkController( 3265): onSignalStrengthsChanged SignalStrength: 24 0 0 0 0 0 0 99 2147483647 2147483647 2147483647 2147483647 gsm|lte
+11-09 15:43:38.770 I/NetworkController( 3265): updateTelephonySignalStrength iconLevel = 4
+11-09 15:43:38.770 D/ConnectivityService( 3113): [shanchsh]getActiveNetworkInfo9
+11-09 15:43:38.770 D/ConnectivityService( 3113): [shanchsh]getActiveNetworkInfo9
+11-09 15:43:38.780 I/XCUpgradeService( 4310): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+11-09 15:43:38.780 I/XDownload( 4310): onSignalStrengthsChanged 
+11-09 15:43:38.810 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:38.810 D/dalvikvm( 4688): GC_CONCURRENT freed 780K, 65% free 5624K/15976K, paused 7ms+8ms, total 60ms
+11-09 15:43:38.820 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:38.910 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:38.920 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:38.930 I/DiPlay-VideoStats( 4688): video stats rx=31.6fps shown=31.6fps maxGap=158ms kbps=2794 recoveries=0 touch2frame avg=-1ms max=0ms n=0 touchSendMax=0ms
+11-09 15:43:38.930 I/xcertplay-usb( 4688): Video: video stats rx=31.6fps shown=31.6fps maxGap=158ms kbps=2794 recoveries=0 touch2frame avg=-1ms max=0ms n=0 touchSendMax=0ms
+11-09 15:43:38.930 I/xcertplay-usb( 4688): Video: video stats rx=31.6fps shown=31.6fps maxGap=158ms kbps=2794 recoveries=0 touch2frame avg=-1ms max=0ms n=0 touchSendMax=0ms
+11-09 15:43:38.970 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,27,2b
+11-09 15:43:39.010 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:39.020 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:39.110 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:39.110 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:39.210 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:39.210 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:39.250 D/dalvikvm( 4688): GC_CONCURRENT freed 877K, 65% free 5619K/15976K, paused 6ms+6ms, total 57ms
+11-09 15:43:39.250 D/dalvikvm( 4688): WAIT_FOR_CONCURRENT_GC blocked 50ms
+11-09 15:43:39.250 D/dalvikvm( 4688): WAIT_FOR_CONCURRENT_GC blocked 29ms
+11-09 15:43:39.250 D/dalvikvm( 4688): WAIT_FOR_CONCURRENT_GC blocked 27ms
+11-09 15:43:39.250 I/DiPlay-P1-Timing( 4688): P1_TIMING decoder=1118114120 attempt=1 codecGen=1..1 codec=H264 windowMs=1008 auSeq=2434 inputPts=1607619476 dequeued=31 queued=31 outputs=31 rendered=31 queueFrames=0 queueBytes=0 oldestAgeUs=-1 pendingPts=1 queueAgeUs={n=31,p50=118,p95=310,p99=603,max=603,excess=0} rxToQueuedUs={n=31,p50=866,p95=3244,p99=19601,max=19601,excess=0} queuedToOutputUs={n=31,p50=11024,p95=19068,p99=19636,max=19636,excess=0} rxToOutputUs={n=31,p50=12273,p95=21122,p99=31072,max=31072,excess=0} unknownPts=0 unknownRx=0 evicted=0 ptsCollisions=0 resets=0 lastReset=codec-created rawHeader21Packets=0 completeNalPackets=0 nonAvcc4Packets=31 physicalPresentationMeasured=false
+11-09 15:43:39.260 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== mIntentReceiver onReceiver() : AUTONAVI_STANDARD_BROADCAST_SEND
+11-09 15:43:39.260 I/XCVoiceService_1.8.4( 3460): <MVWProcess:> ====== 地图状态： 40
+11-09 15:43:39.260 D/Extra   ( 3418):  @neunavi@  导航状态 
+11-09 15:43:39.260 I/ServiceManager( 2340): check_service('usbprotect') ptr = 0x48
+11-09 15:43:39.260 D/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.260 D/XCNaviService( 3631): args[1] = <AMapAutoProxy> ====== onModelReceived: protocolId:30200
+11-09 15:43:39.260 I/OfflineConfig( 3418): framework 101code:[21, 105, -92, -94, -86, -100, 116, 8, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+11-09 15:43:39.260 I/OfflineConfig( 3418): tv11 :7
+11-09 15:43:39.260 I/OfflineConfig( 3418): sx_vehicle_mode res :7
+11-09 15:43:39.260 D/Extra   ( 3418):  @ContextProxy@  getOfflineConfig  sx_vehicle_mode  = 7 
+11-09 15:43:39.260 D/Extra   ( 3418):  @neunavi@  The navigation status :40 
+11-09 15:43:39.260 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 15:43:39.270 D/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.270 D/XCNaviService( 3631): args[1] = <NaviService> ====== onEvent navi sdk callback: id:30200, time:0, cached guiding:true
+11-09 15:43:39.270 I/Navi_001( 3631): 导航状态(sdk)：12
+11-09 15:43:39.270 I/SdkLogger( 3418): NaviServerImpl#naviStateChange state:12
+11-09 15:43:39.270 I/SdkLogger( 4663): NaviServerImpl#naviStateChange state:12
+11-09 15:43:39.280 D/TBoxClient( 3938):  @SocketPresenter@  send GPS消息信息 Message:0D052A7000170000000000000000000000000000000000000000000200650D0A 
+11-09 15:43:39.280 I/SdkLogger( 3460): NaviServerImpl#naviStateChange state:12
+11-09 15:43:39.280 E/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.280 E/XCNaviService( 3631): args[1] = <haley001> ====== AmapNaviBroadcastReceiver onReceive
+11-09 15:43:39.280 I/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.280 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive()
+11-09 15:43:39.280 I/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.280 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() bundles=Bundle[{KEY_TYPE=10019, EXTRA_STATE=40}]
+11-09 15:43:39.280 I/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.280 I/XCNaviService( 3631): args[1] = <NaviService> ====== navireceiver onReceive() keytype=10019
+11-09 15:43:39.290 W/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.290 W/XCNaviService( 3631): args[1] = <haley001> ====== BaseWidgetProvider init
+11-09 15:43:39.290 W/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.290 W/XCNaviService( 3631): args[1] = <haley001> ====== onReceive :ecarx.navi.UPDATE_STATUS
+11-09 15:43:39.290 W/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.290 W/XCNaviService( 3631): args[1] = <haley001> ====== this state we does't care:12
+11-09 15:43:39.290 W/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.290 W/XCNaviService( 3631): args[1] = <haley001> ====== BaseWidgetProvider init
+11-09 15:43:39.290 W/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.290 W/XCNaviService( 3631): args[1] = <haley001> ====== onReceive :ecarx.navi.UPDATE_STATUS
+11-09 15:43:39.290 W/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.290 W/XCNaviService( 3631): args[1] = <haley001> ====== this state we does't care:12
+11-09 15:43:39.300 W/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.300 W/XCNaviService( 3631): args[1] = <haley001> ====== BaseWidgetProvider init
+11-09 15:43:39.300 W/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.300 W/XCNaviService( 3631): args[1] = <haley001> ====== onReceive :ecarx.navi.UPDATE_STATUS
+11-09 15:43:39.300 W/XCNaviService( 3631): args[0] = XCNaviService
+11-09 15:43:39.300 W/XCNaviService( 3631): args[1] = <haley001> ====== this state we does't care:12
+11-09 15:43:39.310 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:39.310 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:39.410 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:39.410 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:39.510 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:39.510 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:39.530 E/neu_c3_alfus_ubx( 3418): [msg_parse2] : has half msg2 privateSize=111 mHalfLastDataSize=31
+11-09 15:43:39.540 D/Extra   ( 3418):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 15:43:39.540 D/Extra   ( 3418):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 15:43:39.570 D/dalvikvm( 4688): GC_CONCURRENT freed 825K, 65% free 5656K/15976K, paused 11ms+10ms, total 60ms
+11-09 15:43:39.570 D/dalvikvm( 4688): WAIT_FOR_CONCURRENT_GC blocked 13ms
+11-09 15:43:39.590 I/xcertplay-usb( 4688): airplay rx POST /feedback cseq=73 body=0
+11-09 15:43:39.590 I/xcertplay-usb( 4688): TRACE airplay control rx headers={cseq=73, user-agent=AirPlay/950.7.1} bodyHex=
+11-09 15:43:39.590 I/xcertplay-usb( 4688): airplay tx status=200 cseq=73 body=0
+11-09 15:43:39.600 I/xcertplay-usb( 4688): TRACE airplay control tx wireHex=525453502f312e3020323030204f4b0d0a435365713a2037330d0a436f6e74656e742d4c656e6774683a20300d0a0d0a
+11-09 15:43:39.610 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:39.610 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:39.710 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:39.710 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:39.810 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:39.810 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:39.860 D/dalvikvm( 4688): GC_CONCURRENT freed 884K, 66% free 5552K/15976K, paused 6ms+6ms, total 52ms
+11-09 15:43:39.910 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:39.910 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff
+11-09 15:43:39.920 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (2,0) : 0  +++
+11-09 15:43:39.920 D/AnwSdkService( 3714): ANWBT_GetConnectedDeviceInfo (Profile,Index) = (0,0) : 0  +++
+11-09 15:43:39.990 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,16,28,2b
+11-09 15:43:40.010 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 15:43:40.010 D/Extra   ( 3418):  @neunavi@  DR speed = 0.0 
+11-09 15:43:40.010 D/RPC-Server( 2352): RPC-LOG:opecode==74b,data==0,b,0,1,ff

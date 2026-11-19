@@ -1,0 +1,974 @@
+--------- beginning of /dev/log/main
+11-09 23:24:19.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:19.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+--------- beginning of /dev/log/system
+11-09 23:24:20.010 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9212571382522583,"valueYaw":0.4171316921710968,"valuePitch":-0.05520567670464516} 
+11-09 23:24:20.020 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.476806640625,"valueYaw":0.33740234375,"valuePitch":0.83203125} 
+11-09 23:24:20.040 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:24:20.130 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9216557741165161,"valueYaw":0.41703203320503235,"valuePitch":-0.0544084794819355} 
+11-09 23:24:20.130 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.465576171875,"valueYaw":0.346435546875,"valuePitch":0.828369140625} 
+11-09 23:24:20.140 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:24:20.250 D/IPKServer( 3522):  @NaviPresenter@  Navi--IPKServer   navi status:NavigateStarted,navistatusInt:8 
+11-09 23:24:20.250 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi status:{"navistatus":"NavigateStarted","uri":"content://com.neusoft.optimus.mmi/NaviStatusNotify"} 
+11-09 23:24:20.260 D/Extra   ( 3413):  @neunavi@  setMMI_NavigationMod_indicator:tmc_data[3] = 1 
+11-09 23:24:20.260 D/Extra   ( 3413):  @neunavi@  导航状态 
+11-09 23:24:20.260 D/Extra   ( 3413):  @ContextProxy@  getOfflineConfig  sx_vehicle_mode  = 7 
+11-09 23:24:20.260 D/Extra   ( 3413):  @neunavi@  The navigation status :8 
+11-09 23:24:20.290 D/IPKServer( 3522):  @MessageParser@  IPK-->MMI   request navi data:content://com.neusoft.optimus.mmi/req?cmd=NaviDataReq 
+11-09 23:24:20.290 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_UTurn","limitedspeed":-1,"nextcornername":"进入 无名道路","nextdistance":57,"remaindistance":"52.3公里","remaindistancef":52300,"remaintime":"47分钟","roadname":"导航中","totaldistance":52300,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:20.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:20.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:21.260 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Car","limitedspeed":-1,"nextcornername":"ICON 1","nextdistance":100,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:21.270 D/Extra   ( 3413):  @neunavi@  The next street distance   :100 
+11-09 23:24:21.270 D/Extra   ( 3413):  @neunavi@  The guide direction       :1 
+11-09 23:24:21.270 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :100 
+11-09 23:24:21.270 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:21.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:21.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:22.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:22.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:23.250 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Car","limitedspeed":-1,"nextcornername":"ICON 1","nextdistance":100,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:23.260 D/Extra   ( 3413):  @neunavi@  The next street distance   :100 
+11-09 23:24:23.270 D/Extra   ( 3413):  @neunavi@  The guide direction       :1 
+11-09 23:24:23.270 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :100 
+11-09 23:24:23.270 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:23.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:23.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:24.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:24.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:25.270 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Car","limitedspeed":-1,"nextcornername":"ICON 1","nextdistance":100,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:25.280 D/Extra   ( 3413):  @neunavi@  The next street distance   :100 
+11-09 23:24:25.290 D/Extra   ( 3413):  @neunavi@  The guide direction       :1 
+11-09 23:24:25.290 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :100 
+11-09 23:24:25.290 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:25.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:25.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:26.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:26.670 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:27.270 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Car","limitedspeed":-1,"nextcornername":"ICON 1","nextdistance":100,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:27.280 D/Extra   ( 3413):  @neunavi@  The next street distance   :100 
+11-09 23:24:27.290 D/Extra   ( 3413):  @neunavi@  The guide direction       :1 
+11-09 23:24:27.290 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :100 
+11-09 23:24:27.290 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:27.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:27.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:28.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:28.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:29.280 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Left","limitedspeed":-1,"nextcornername":"ICON 2","nextdistance":200,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:29.310 D/Extra   ( 3413):  @neunavi@  The next street distance   :200 
+11-09 23:24:29.310 D/Extra   ( 3413):  @neunavi@  The guide direction       :2 
+11-09 23:24:29.310 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :200 
+11-09 23:24:29.310 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:29.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:29.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:30.010 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9204599857330322,"valueYaw":0.4171316921710968,"valuePitch":-0.05450813099741936} 
+11-09 23:24:30.010 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.47314453125,"valueYaw":0.353515625,"valuePitch":0.876953125} 
+11-09 23:24:30.090 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:24:30.100 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9214564561843872,"valueYaw":0.4171316921710968,"valuePitch":-0.05410953238606453} 
+11-09 23:24:30.100 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.47607421875,"valueYaw":0.345703125,"valuePitch":0.833740234375} 
+11-09 23:24:30.750 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:30.750 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:31.300 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Left","limitedspeed":-1,"nextcornername":"ICON 2","nextdistance":200,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:31.320 D/Extra   ( 3413):  @neunavi@  The next street distance   :200 
+11-09 23:24:31.320 D/Extra   ( 3413):  @neunavi@  The guide direction       :2 
+11-09 23:24:31.320 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :200 
+11-09 23:24:31.320 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:31.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:31.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:32.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:32.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:33.310 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Left","limitedspeed":-1,"nextcornername":"ICON 2","nextdistance":200,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:33.320 D/Extra   ( 3413):  @neunavi@  The next street distance   :200 
+11-09 23:24:33.320 D/Extra   ( 3413):  @neunavi@  The guide direction       :2 
+11-09 23:24:33.320 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :200 
+11-09 23:24:33.330 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:33.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:33.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:34.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:34.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:35.320 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Left","limitedspeed":-1,"nextcornername":"ICON 2","nextdistance":200,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:35.340 D/Extra   ( 3413):  @neunavi@  The next street distance   :200 
+11-09 23:24:35.340 D/Extra   ( 3413):  @neunavi@  The guide direction       :2 
+11-09 23:24:35.340 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :200 
+11-09 23:24:35.340 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:35.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:35.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:36.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:36.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:37.380 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Right","limitedspeed":-1,"nextcornername":"ICON 3","nextdistance":300,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:37.400 D/Extra   ( 3413):  @neunavi@  The next street distance   :300 
+11-09 23:24:37.400 D/Extra   ( 3413):  @neunavi@  The guide direction       :3 
+11-09 23:24:37.400 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :300 
+11-09 23:24:37.400 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:37.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:37.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:38.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:38.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:39.420 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Right","limitedspeed":-1,"nextcornername":"ICON 3","nextdistance":300,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:39.440 D/Extra   ( 3413):  @neunavi@  The next street distance   :300 
+11-09 23:24:39.450 D/Extra   ( 3413):  @neunavi@  The guide direction       :3 
+11-09 23:24:39.450 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :300 
+11-09 23:24:39.450 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:39.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:39.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:40.040 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:24:40.090 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9214564561843872,"valueYaw":0.4164341390132904,"valuePitch":-0.05490672588348389} 
+11-09 23:24:40.100 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.4677734375,"valueYaw":0.312255859375,"valuePitch":0.822998046875} 
+11-09 23:24:40.140 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:24:40.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:40.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:41.450 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Right","limitedspeed":-1,"nextcornername":"ICON 3","nextdistance":300,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:41.460 D/Extra   ( 3413):  @neunavi@  The next street distance   :300 
+11-09 23:24:41.470 D/Extra   ( 3413):  @neunavi@  The guide direction       :3 
+11-09 23:24:41.470 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :300 
+11-09 23:24:41.470 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:41.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:41.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:42.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:42.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:43.470 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Right","limitedspeed":-1,"nextcornername":"ICON 3","nextdistance":300,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:43.490 D/Extra   ( 3413):  @neunavi@  The next street distance   :300 
+11-09 23:24:43.490 D/Extra   ( 3413):  @neunavi@  The guide direction       :3 
+11-09 23:24:43.490 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :300 
+11-09 23:24:43.490 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:43.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:43.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:44.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:44.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:45.510 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Slight_Left","limitedspeed":-1,"nextcornername":"ICON 4","nextdistance":400,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:45.530 D/Extra   ( 3413):  @neunavi@  The next street distance   :400 
+11-09 23:24:45.530 D/Extra   ( 3413):  @neunavi@  The guide direction       :4 
+11-09 23:24:45.530 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :400 
+11-09 23:24:45.530 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:45.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:45.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:46.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:46.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:47.510 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Slight_Left","limitedspeed":-1,"nextcornername":"ICON 4","nextdistance":400,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:47.520 D/Extra   ( 3413):  @neunavi@  The next street distance   :400 
+11-09 23:24:47.520 D/Extra   ( 3413):  @neunavi@  The guide direction       :4 
+11-09 23:24:47.520 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :400 
+11-09 23:24:47.530 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:47.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:47.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:48.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:48.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:49.510 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Slight_Left","limitedspeed":-1,"nextcornername":"ICON 4","nextdistance":400,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:49.530 D/Extra   ( 3413):  @neunavi@  The next street distance   :400 
+11-09 23:24:49.530 D/Extra   ( 3413):  @neunavi@  The guide direction       :4 
+11-09 23:24:49.530 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :400 
+11-09 23:24:49.530 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:49.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:49.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:50.070 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9214564561843872,"valueYaw":0.4174306392669678,"valuePitch":-0.05450813099741936} 
+11-09 23:24:50.070 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.445556640625,"valueYaw":0.327392578125,"valuePitch":0.867919921875} 
+11-09 23:24:50.090 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:24:50.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:50.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:51.500 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Slight_Left","limitedspeed":-1,"nextcornername":"ICON 4","nextdistance":400,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:51.510 D/Extra   ( 3413):  @neunavi@  The next street distance   :400 
+11-09 23:24:51.520 D/Extra   ( 3413):  @neunavi@  The guide direction       :4 
+11-09 23:24:51.520 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :400 
+11-09 23:24:51.520 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:51.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:51.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:52.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:52.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:53.510 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Slight_Right","limitedspeed":-1,"nextcornername":"ICON 5","nextdistance":500,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:53.520 D/Extra   ( 3413):  @neunavi@  The next street distance   :500 
+11-09 23:24:53.530 D/Extra   ( 3413):  @neunavi@  The guide direction       :5 
+11-09 23:24:53.530 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :500 
+11-09 23:24:53.530 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:53.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:53.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:54.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:54.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:55.520 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Slight_Right","limitedspeed":-1,"nextcornername":"ICON 5","nextdistance":500,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:55.530 D/Extra   ( 3413):  @neunavi@  The next street distance   :500 
+11-09 23:24:55.540 D/Extra   ( 3413):  @neunavi@  The guide direction       :5 
+11-09 23:24:55.540 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :500 
+11-09 23:24:55.540 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:55.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:55.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:56.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:56.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:57.530 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Slight_Right","limitedspeed":-1,"nextcornername":"ICON 5","nextdistance":500,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:57.550 D/Extra   ( 3413):  @neunavi@  The next street distance   :500 
+11-09 23:24:57.550 D/Extra   ( 3413):  @neunavi@  The guide direction       :5 
+11-09 23:24:57.550 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :500 
+11-09 23:24:57.550 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:57.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:57.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:58.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:58.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:24:59.550 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Slight_Right","limitedspeed":-1,"nextcornername":"ICON 5","nextdistance":500,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:24:59.570 D/Extra   ( 3413):  @neunavi@  The next street distance   :500 
+11-09 23:24:59.570 D/Extra   ( 3413):  @neunavi@  The guide direction       :5 
+11-09 23:24:59.570 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :500 
+11-09 23:24:59.570 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:24:59.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:24:59.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:00.040 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:25:00.040 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9212571382522583,"valueYaw":0.41683274507522583,"valuePitch":-0.05490672588348389} 
+11-09 23:25:00.040 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.46533203125,"valueYaw":0.316162109375,"valuePitch":0.81689453125} 
+11-09 23:25:00.140 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:25:00.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:00.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:01.570 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Hard_Left","limitedspeed":-1,"nextcornername":"ICON 6","nextdistance":600,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:01.590 D/Extra   ( 3413):  @neunavi@  The next street distance   :600 
+11-09 23:25:01.590 D/Extra   ( 3413):  @neunavi@  The guide direction       :6 
+11-09 23:25:01.590 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :600 
+11-09 23:25:01.590 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:01.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:01.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:02.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:02.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:03.560 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Hard_Left","limitedspeed":-1,"nextcornername":"ICON 6","nextdistance":600,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:03.580 D/Extra   ( 3413):  @neunavi@  The next street distance   :600 
+11-09 23:25:03.580 D/Extra   ( 3413):  @neunavi@  The guide direction       :6 
+11-09 23:25:03.580 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :600 
+11-09 23:25:03.580 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:03.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:03.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:04.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:04.670 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:05.570 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Hard_Left","limitedspeed":-1,"nextcornername":"ICON 6","nextdistance":600,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:05.590 D/Extra   ( 3413):  @neunavi@  The next street distance   :600 
+11-09 23:25:05.590 D/Extra   ( 3413):  @neunavi@  The guide direction       :6 
+11-09 23:25:05.590 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :600 
+11-09 23:25:05.590 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:05.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:05.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:06.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:06.670 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:07.580 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Hard_Left","limitedspeed":-1,"nextcornername":"ICON 6","nextdistance":600,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:07.590 D/Extra   ( 3413):  @neunavi@  The next street distance   :600 
+11-09 23:25:07.590 D/Extra   ( 3413):  @neunavi@  The guide direction       :6 
+11-09 23:25:07.590 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :600 
+11-09 23:25:07.600 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:07.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:07.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:08.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:08.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:09.570 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Hard_Right","limitedspeed":-1,"nextcornername":"ICON 7","nextdistance":700,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:09.580 D/Extra   ( 3413):  @neunavi@  The next street distance   :700 
+11-09 23:25:09.580 D/Extra   ( 3413):  @neunavi@  The guide direction       :7 
+11-09 23:25:09.580 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :700 
+11-09 23:25:09.590 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:09.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:09.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:10.020 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9214564561843872,"valueYaw":0.4175302982330322,"valuePitch":-0.0551060251891613} 
+11-09 23:25:10.020 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.447998046875,"valueYaw":0.287109375,"valuePitch":0.848876953125} 
+11-09 23:25:10.090 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:25:10.130 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9211574792861938,"valueYaw":0.4173309803009033,"valuePitch":-0.05500637739896774} 
+11-09 23:25:10.140 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.456298828125,"valueYaw":0.329833984375,"valuePitch":0.861083984375} 
+11-09 23:25:10.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:10.670 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:11.580 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Hard_Right","limitedspeed":-1,"nextcornername":"ICON 7","nextdistance":700,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:11.600 D/Extra   ( 3413):  @neunavi@  The next street distance   :700 
+11-09 23:25:11.600 D/Extra   ( 3413):  @neunavi@  The guide direction       :7 
+11-09 23:25:11.600 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :700 
+11-09 23:25:11.600 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:11.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:11.670 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:12.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:12.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:13.590 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Hard_Right","limitedspeed":-1,"nextcornername":"ICON 7","nextdistance":700,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:13.600 D/Extra   ( 3413):  @neunavi@  The next street distance   :700 
+11-09 23:25:13.600 D/Extra   ( 3413):  @neunavi@  The guide direction       :7 
+11-09 23:25:13.600 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :700 
+11-09 23:25:13.600 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:13.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:13.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:14.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:14.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:15.580 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Turn_Hard_Right","limitedspeed":-1,"nextcornername":"ICON 7","nextdistance":700,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:15.590 D/Extra   ( 3413):  @neunavi@  The next street distance   :700 
+11-09 23:25:15.600 D/Extra   ( 3413):  @neunavi@  The guide direction       :7 
+11-09 23:25:15.600 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :700 
+11-09 23:25:15.600 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:15.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:15.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:16.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:16.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:17.630 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_UTurn","limitedspeed":-1,"nextcornername":"ICON 8","nextdistance":800,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:17.640 D/Extra   ( 3413):  @neunavi@  The next street distance   :800 
+11-09 23:25:17.640 D/Extra   ( 3413):  @neunavi@  The guide direction       :8 
+11-09 23:25:17.640 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :800 
+11-09 23:25:17.640 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:17.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:17.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:18.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:18.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:19.640 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_UTurn","limitedspeed":-1,"nextcornername":"ICON 8","nextdistance":800,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:19.660 D/Extra   ( 3413):  @neunavi@  The next street distance   :800 
+11-09 23:25:19.660 D/Extra   ( 3413):  @neunavi@  The guide direction       :8 
+11-09 23:25:19.660 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :800 
+11-09 23:25:19.660 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:19.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:19.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:20.020 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9209582209587097,"valueYaw":0.41533800959587097,"valuePitch":-0.05470743030309677} 
+11-09 23:25:20.020 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.49365234375,"valueYaw":0.335205078125,"valuePitch":0.859619140625} 
+11-09 23:25:20.040 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:25:20.110 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9207589030265808,"valueYaw":0.41613519191741943,"valuePitch":-0.05490672588348389} 
+11-09 23:25:20.110 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.472412109375,"valueYaw":0.30322265625,"valuePitch":0.86181640625} 
+11-09 23:25:20.140 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:25:20.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:20.670 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:21.640 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_UTurn","limitedspeed":-1,"nextcornername":"ICON 8","nextdistance":800,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:21.650 D/Extra   ( 3413):  @neunavi@  The next street distance   :800 
+11-09 23:25:21.650 D/Extra   ( 3413):  @neunavi@  The guide direction       :8 
+11-09 23:25:21.650 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :800 
+11-09 23:25:21.650 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:21.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:21.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:22.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:22.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:23.640 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_UTurn","limitedspeed":-1,"nextcornername":"ICON 8","nextdistance":800,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:23.660 D/Extra   ( 3413):  @neunavi@  The next street distance   :800 
+11-09 23:25:23.660 D/Extra   ( 3413):  @neunavi@  The guide direction       :8 
+11-09 23:25:23.660 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :800 
+11-09 23:25:23.660 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:23.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:23.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:24.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:24.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:25.660 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Continue","limitedspeed":-1,"nextcornername":"ICON 9","nextdistance":900,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:25.680 D/Extra   ( 3413):  @neunavi@  The next street distance   :900 
+11-09 23:25:25.680 D/Extra   ( 3413):  @neunavi@  The guide direction       :9 
+11-09 23:25:25.680 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :900 
+11-09 23:25:25.680 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:25.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:25.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:26.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:26.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:27.650 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Continue","limitedspeed":-1,"nextcornername":"ICON 9","nextdistance":900,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:27.660 D/Extra   ( 3413):  @neunavi@  The next street distance   :900 
+11-09 23:25:27.660 D/Extra   ( 3413):  @neunavi@  The guide direction       :9 
+11-09 23:25:27.660 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :900 
+11-09 23:25:27.660 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:27.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:27.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:28.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:28.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:29.640 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Continue","limitedspeed":-1,"nextcornername":"ICON 9","nextdistance":900,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:29.650 D/Extra   ( 3413):  @neunavi@  The next street distance   :900 
+11-09 23:25:29.660 D/Extra   ( 3413):  @neunavi@  The guide direction       :9 
+11-09 23:25:29.660 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :900 
+11-09 23:25:29.660 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:29.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:29.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:30.000 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.505859375,"valueYaw":0.316162109375,"valuePitch":0.8603515625} 
+11-09 23:25:30.000 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:25:30.090 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:25:30.100 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9214564561843872,"valueYaw":0.4169324040412903,"valuePitch":-0.054607778787612915} 
+11-09 23:25:30.100 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.4951171875,"valueYaw":0.312255859375,"valuePitch":0.824462890625} 
+11-09 23:25:30.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:30.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:31.670 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Continue","limitedspeed":-1,"nextcornername":"ICON 9","nextdistance":900,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:31.700 D/Extra   ( 3413):  @neunavi@  The next street distance   :900 
+11-09 23:25:31.700 D/Extra   ( 3413):  @neunavi@  The guide direction       :9 
+11-09 23:25:31.700 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :900 
+11-09 23:25:31.710 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:31.710 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:31.710 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:32.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:32.670 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:33.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:33.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:33.700 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Way","limitedspeed":-1,"nextcornername":"ICON 10","nextdistance":1000,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:33.710 D/Extra   ( 3413):  @neunavi@  The next street distance   :1000 
+11-09 23:25:33.720 D/Extra   ( 3413):  @neunavi@  The guide direction       :10 
+11-09 23:25:33.720 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1000 
+11-09 23:25:33.720 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:34.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:34.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:35.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:35.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:35.720 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Way","limitedspeed":-1,"nextcornername":"ICON 10","nextdistance":1000,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:35.730 D/Extra   ( 3413):  @neunavi@  The next street distance   :1000 
+11-09 23:25:35.740 D/Extra   ( 3413):  @neunavi@  The guide direction       :10 
+11-09 23:25:35.740 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1000 
+11-09 23:25:35.740 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:36.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:36.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:37.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:37.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:37.730 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Way","limitedspeed":-1,"nextcornername":"ICON 10","nextdistance":1000,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:37.750 D/Extra   ( 3413):  @neunavi@  The next street distance   :1000 
+11-09 23:25:37.750 D/Extra   ( 3413):  @neunavi@  The guide direction       :10 
+11-09 23:25:37.750 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1000 
+11-09 23:25:37.750 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:38.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:38.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:39.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:39.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:39.740 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Way","limitedspeed":-1,"nextcornername":"ICON 10","nextdistance":1000,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:39.760 D/Extra   ( 3413):  @neunavi@  The next street distance   :1000 
+11-09 23:25:39.760 D/Extra   ( 3413):  @neunavi@  The guide direction       :10 
+11-09 23:25:39.760 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1000 
+11-09 23:25:39.760 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:40.040 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:25:40.080 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9210578799247742,"valueYaw":0.41703203320503235,"valuePitch":-0.05520567670464516} 
+11-09 23:25:40.090 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.44482421875,"valueYaw":0.31689453125,"valuePitch":0.843505859375} 
+11-09 23:25:40.140 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:25:40.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:40.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:41.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:41.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:41.750 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:0 
+11-09 23:25:41.750 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"EnterRoundAbout","limitedspeed":-1,"nextcornername":"ICON 11","nextdistance":1100,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:41.760 D/Extra   ( 3413):  @neunavi@  The next street distance   :1100 
+11-09 23:25:41.770 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:25:41.770 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1100 
+11-09 23:25:41.770 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:42.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:42.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:43.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:43.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:43.730 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:0 
+11-09 23:25:43.740 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"EnterRoundAbout","limitedspeed":-1,"nextcornername":"ICON 11","nextdistance":1100,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:43.750 D/Extra   ( 3413):  @neunavi@  The next street distance   :1100 
+11-09 23:25:43.750 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:25:43.750 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1100 
+11-09 23:25:43.750 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:44.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:44.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:45.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:45.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:45.740 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:0 
+11-09 23:25:45.740 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"EnterRoundAbout","limitedspeed":-1,"nextcornername":"ICON 11","nextdistance":1100,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:45.750 D/Extra   ( 3413):  @neunavi@  The next street distance   :1100 
+11-09 23:25:45.750 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:25:45.750 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1100 
+11-09 23:25:45.760 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:46.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:46.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:47.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:47.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:47.750 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:0 
+11-09 23:25:47.750 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"EnterRoundAbout","limitedspeed":-1,"nextcornername":"ICON 11","nextdistance":1100,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:47.770 D/Extra   ( 3413):  @neunavi@  The next street distance   :1100 
+11-09 23:25:47.770 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:25:47.770 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1100 
+11-09 23:25:47.770 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:48.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:48.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:49.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:49.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:49.750 D/IPKServer( 3522):  @NaviPresenter@  direction:LeaveRoundAbout,round_num:0 
+11-09 23:25:49.750 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"LeaveRoundAbout","limitedspeed":-1,"nextcornername":"ICON 12","nextdistance":1200,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:49.760 D/Extra   ( 3413):  @neunavi@  The next street distance   :1200 
+11-09 23:25:49.760 D/Extra   ( 3413):  @neunavi@  The guide direction       :12 
+11-09 23:25:49.760 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1200 
+11-09 23:25:49.760 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:49.990 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:25:50.050 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9207589030265808,"valueYaw":0.4166334569454193,"valuePitch":-0.054607778787612915} 
+11-09 23:25:50.060 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.4541015625,"valueYaw":0.329833984375,"valuePitch":0.825927734375} 
+11-09 23:25:50.090 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:25:50.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:50.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:51.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:51.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:51.760 D/IPKServer( 3522):  @NaviPresenter@  direction:LeaveRoundAbout,round_num:0 
+11-09 23:25:51.760 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"LeaveRoundAbout","limitedspeed":-1,"nextcornername":"ICON 12","nextdistance":1200,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:51.770 D/Extra   ( 3413):  @neunavi@  The next street distance   :1200 
+11-09 23:25:51.770 D/Extra   ( 3413):  @neunavi@  The guide direction       :12 
+11-09 23:25:51.770 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1200 
+11-09 23:25:51.770 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:52.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:52.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:53.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:53.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:53.740 D/IPKServer( 3522):  @NaviPresenter@  direction:LeaveRoundAbout,round_num:0 
+11-09 23:25:53.740 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"LeaveRoundAbout","limitedspeed":-1,"nextcornername":"ICON 12","nextdistance":1200,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:53.760 D/Extra   ( 3413):  @neunavi@  The next street distance   :1200 
+11-09 23:25:53.760 D/Extra   ( 3413):  @neunavi@  The guide direction       :12 
+11-09 23:25:53.760 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1200 
+11-09 23:25:53.760 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:54.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:54.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:55.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:55.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:55.730 D/IPKServer( 3522):  @NaviPresenter@  direction:LeaveRoundAbout,round_num:0 
+11-09 23:25:55.730 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"LeaveRoundAbout","limitedspeed":-1,"nextcornername":"ICON 12","nextdistance":1200,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:55.740 D/Extra   ( 3413):  @neunavi@  The next street distance   :1200 
+11-09 23:25:55.750 D/Extra   ( 3413):  @neunavi@  The guide direction       :12 
+11-09 23:25:55.750 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1200 
+11-09 23:25:55.750 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:56.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:56.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:57.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:57.670 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:57.760 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_SAPA","limitedspeed":-1,"nextcornername":"ICON 13","nextdistance":1300,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:57.770 D/Extra   ( 3413):  @neunavi@  The next street distance   :1300 
+11-09 23:25:57.780 D/Extra   ( 3413):  @neunavi@  The guide direction       :13 
+11-09 23:25:57.780 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1300 
+11-09 23:25:57.780 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:25:58.670 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:58.670 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:59.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:25:59.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:25:59.760 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_SAPA","limitedspeed":-1,"nextcornername":"ICON 13","nextdistance":1300,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:25:59.770 D/Extra   ( 3413):  @neunavi@  The next street distance   :1300 
+11-09 23:25:59.770 D/Extra   ( 3413):  @neunavi@  The guide direction       :13 
+11-09 23:25:59.770 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1300 
+11-09 23:25:59.780 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:00.050 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:26:00.050 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9210578799247742,"valueYaw":0.4169324040412903,"valuePitch":-0.05490672588348389} 
+11-09 23:26:00.060 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.46533203125,"valueYaw":0.32666015625,"valuePitch":0.85107421875} 
+11-09 23:26:00.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:00.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:01.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:01.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:01.750 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_SAPA","limitedspeed":-1,"nextcornername":"ICON 13","nextdistance":1300,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:01.760 D/Extra   ( 3413):  @neunavi@  The next street distance   :1300 
+11-09 23:26:01.760 D/Extra   ( 3413):  @neunavi@  The guide direction       :13 
+11-09 23:26:01.760 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1300 
+11-09 23:26:01.760 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:02.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:02.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:03.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:03.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:03.740 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_SAPA","limitedspeed":-1,"nextcornername":"ICON 13","nextdistance":1300,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:03.760 D/Extra   ( 3413):  @neunavi@  The next street distance   :1300 
+11-09 23:26:03.760 D/Extra   ( 3413):  @neunavi@  The guide direction       :13 
+11-09 23:26:03.760 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1300 
+11-09 23:26:03.760 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:04.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:04.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:05.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:05.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:05.790 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_TollGate","limitedspeed":-1,"nextcornername":"ICON 14","nextdistance":1400,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:05.800 D/Extra   ( 3413):  @neunavi@  The next street distance   :1400 
+11-09 23:26:05.800 D/Extra   ( 3413):  @neunavi@  The guide direction       :14 
+11-09 23:26:05.800 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1400 
+11-09 23:26:05.800 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:06.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:06.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:07.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:07.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:07.780 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_TollGate","limitedspeed":-1,"nextcornername":"ICON 14","nextdistance":1400,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:07.790 D/Extra   ( 3413):  @neunavi@  The next street distance   :1400 
+11-09 23:26:07.790 D/Extra   ( 3413):  @neunavi@  The guide direction       :14 
+11-09 23:26:07.800 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1400 
+11-09 23:26:07.800 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:08.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:08.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:09.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:09.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:09.780 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_TollGate","limitedspeed":-1,"nextcornername":"ICON 14","nextdistance":1400,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:09.800 D/Extra   ( 3413):  @neunavi@  The next street distance   :1400 
+11-09 23:26:09.800 D/Extra   ( 3413):  @neunavi@  The guide direction       :14 
+11-09 23:26:09.800 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1400 
+11-09 23:26:09.800 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:10.000 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:26:10.030 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9213567972183228,"valueYaw":0.41683274507522583,"valuePitch":-0.05540497228503227} 
+11-09 23:26:10.040 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.439453125,"valueYaw":0.345703125,"valuePitch":0.8359375} 
+11-09 23:26:10.100 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:26:10.130 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9210578799247742,"valueYaw":0.4159359037876129,"valuePitch":-0.05430883169174194} 
+11-09 23:26:10.130 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.457763671875,"valueYaw":0.322265625,"valuePitch":0.83447265625} 
+11-09 23:26:10.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:10.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:11.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:11.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:11.780 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_TollGate","limitedspeed":-1,"nextcornername":"ICON 14","nextdistance":1400,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:11.780 D/Extra   ( 3413):  @neunavi@  The next street distance   :1400 
+11-09 23:26:11.790 D/Extra   ( 3413):  @neunavi@  The guide direction       :14 
+11-09 23:26:11.790 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1400 
+11-09 23:26:11.790 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:12.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:12.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:13.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:13.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:13.790 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Destination","limitedspeed":-1,"nextcornername":"ICON 15","nextdistance":1500,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:13.800 D/Extra   ( 3413):  @neunavi@  The next street distance   :1500 
+11-09 23:26:13.800 D/Extra   ( 3413):  @neunavi@  The guide direction       :15 
+11-09 23:26:13.800 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1500 
+11-09 23:26:13.800 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:14.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:14.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:15.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:15.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:15.810 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Destination","limitedspeed":-1,"nextcornername":"ICON 15","nextdistance":1500,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:15.820 D/Extra   ( 3413):  @neunavi@  The next street distance   :1500 
+11-09 23:26:15.820 D/Extra   ( 3413):  @neunavi@  The guide direction       :15 
+11-09 23:26:15.820 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1500 
+11-09 23:26:15.820 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:16.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:16.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:17.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:17.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:17.810 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Destination","limitedspeed":-1,"nextcornername":"ICON 15","nextdistance":1500,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:17.820 D/Extra   ( 3413):  @neunavi@  The next street distance   :1500 
+11-09 23:26:17.820 D/Extra   ( 3413):  @neunavi@  The guide direction       :15 
+11-09 23:26:17.820 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1500 
+11-09 23:26:17.820 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:18.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:18.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:19.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:19.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:19.840 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Destination","limitedspeed":-1,"nextcornername":"ICON 15","nextdistance":1500,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:19.850 D/Extra   ( 3413):  @neunavi@  The next street distance   :1500 
+11-09 23:26:19.850 D/Extra   ( 3413):  @neunavi@  The guide direction       :15 
+11-09 23:26:19.850 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1500 
+11-09 23:26:19.880 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:20.010 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9217553734779358,"valueYaw":0.41653379797935486,"valuePitch":-0.05480707809329033} 
+11-09 23:26:20.020 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.47998046875,"valueYaw":0.31005859375,"valuePitch":0.852783203125} 
+11-09 23:26:20.050 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:26:20.110 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9209582209587097,"valueYaw":0.4169324040412903,"valuePitch":-0.05480707809329033} 
+11-09 23:26:20.120 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.470703125,"valueYaw":0.32666015625,"valuePitch":0.8388671875} 
+11-09 23:26:20.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:20.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:21.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:21.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:21.870 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Tunnel","limitedspeed":-1,"nextcornername":"ICON 16","nextdistance":1600,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:21.880 D/Extra   ( 3413):  @neunavi@  The next street distance   :1600 
+11-09 23:26:21.880 D/Extra   ( 3413):  @neunavi@  The guide direction       :16 
+11-09 23:26:21.880 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1600 
+11-09 23:26:21.880 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:22.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:22.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:23.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:23.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:23.860 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Tunnel","limitedspeed":-1,"nextcornername":"ICON 16","nextdistance":1600,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:23.880 D/Extra   ( 3413):  @neunavi@  The next street distance   :1600 
+11-09 23:26:23.880 D/Extra   ( 3413):  @neunavi@  The guide direction       :16 
+11-09 23:26:23.880 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1600 
+11-09 23:26:23.880 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:24.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:24.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:25.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:25.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:25.860 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Tunnel","limitedspeed":-1,"nextcornername":"ICON 16","nextdistance":1600,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:25.870 D/Extra   ( 3413):  @neunavi@  The next street distance   :1600 
+11-09 23:26:25.870 D/Extra   ( 3413):  @neunavi@  The guide direction       :16 
+11-09 23:26:25.870 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1600 
+11-09 23:26:25.870 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:26.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:26.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:27.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:27.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:27.850 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_Tunnel","limitedspeed":-1,"nextcornername":"ICON 16","nextdistance":1600,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:27.860 D/Extra   ( 3413):  @neunavi@  The next street distance   :1600 
+11-09 23:26:27.870 D/Extra   ( 3413):  @neunavi@  The guide direction       :16 
+11-09 23:26:27.870 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1600 
+11-09 23:26:27.870 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:28.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:28.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:29.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:29.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:29.900 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout_Clockwise,round_num:0 
+11-09 23:26:29.900 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"EnterRoundAbout_Clockwise","limitedspeed":-1,"nextcornername":"ICON 17","nextdistance":1700,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:29.910 D/Extra   ( 3413):  @neunavi@  The next street distance   :1700 
+11-09 23:26:29.910 D/Extra   ( 3413):  @neunavi@  The guide direction       :17 
+11-09 23:26:29.910 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1700 
+11-09 23:26:29.920 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:30.000 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9213567972183228,"valueYaw":0.4176299273967743,"valuePitch":-0.0544084794819355} 
+11-09 23:26:30.010 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.439453125,"valueYaw":0.33203125,"valuePitch":0.855712890625} 
+11-09 23:26:30.010 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:26:30.090 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9214564561843872,"valueYaw":0.4167330861091614,"valuePitch":-0.05450813099741936} 
+11-09 23:26:30.090 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.474609375,"valueYaw":0.33447265625,"valuePitch":0.8779296875} 
+11-09 23:26:30.100 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:26:30.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:30.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:31.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:31.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:31.900 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout_Clockwise,round_num:0 
+11-09 23:26:31.900 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"EnterRoundAbout_Clockwise","limitedspeed":-1,"nextcornername":"ICON 17","nextdistance":1700,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:31.920 D/Extra   ( 3413):  @neunavi@  The next street distance   :1700 
+11-09 23:26:31.920 D/Extra   ( 3413):  @neunavi@  The guide direction       :17 
+11-09 23:26:31.920 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1700 
+11-09 23:26:31.920 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:32.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:32.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:33.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:33.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:33.900 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout_Clockwise,round_num:0 
+11-09 23:26:33.900 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"EnterRoundAbout_Clockwise","limitedspeed":-1,"nextcornername":"ICON 17","nextdistance":1700,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:33.910 D/Extra   ( 3413):  @neunavi@  The next street distance   :1700 
+11-09 23:26:33.910 D/Extra   ( 3413):  @neunavi@  The guide direction       :17 
+11-09 23:26:33.910 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1700 
+11-09 23:26:33.910 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:34.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:34.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:35.710 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:35.710 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:35.880 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout_Clockwise,round_num:0 
+11-09 23:26:35.880 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"EnterRoundAbout_Clockwise","limitedspeed":-1,"nextcornername":"ICON 17","nextdistance":1700,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:35.890 D/Extra   ( 3413):  @neunavi@  The next street distance   :1700 
+11-09 23:26:35.900 D/Extra   ( 3413):  @neunavi@  The guide direction       :17 
+11-09 23:26:35.900 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1700 
+11-09 23:26:35.900 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:36.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:36.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:37.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:37.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:37.880 D/IPKServer( 3522):  @NaviPresenter@  direction:LeaveRoundAbout_Clockwise,round_num:0 
+11-09 23:26:37.880 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"LeaveRoundAbout_Clockwise","limitedspeed":-1,"nextcornername":"ICON 18","nextdistance":1800,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:37.890 D/Extra   ( 3413):  @neunavi@  The next street distance   :1800 
+11-09 23:26:37.890 D/Extra   ( 3413):  @neunavi@  The guide direction       :18 
+11-09 23:26:37.890 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1800 
+11-09 23:26:37.900 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:38.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:38.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:39.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:39.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:39.920 D/IPKServer( 3522):  @NaviPresenter@  direction:LeaveRoundAbout_Clockwise,round_num:0 
+11-09 23:26:39.920 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"LeaveRoundAbout_Clockwise","limitedspeed":-1,"nextcornername":"ICON 18","nextdistance":1800,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:39.930 D/Extra   ( 3413):  @neunavi@  The next street distance   :1800 
+11-09 23:26:39.930 D/Extra   ( 3413):  @neunavi@  The guide direction       :18 
+11-09 23:26:39.930 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1800 
+11-09 23:26:39.930 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:40.050 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:26:40.080 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9206592440605164,"valueYaw":0.41723135113716125,"valuePitch":-0.0544084794819355} 
+11-09 23:26:40.080 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.474609375,"valueYaw":0.3115234375,"valuePitch":0.822998046875} 
+11-09 23:26:40.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:40.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:41.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:41.710 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:41.910 D/IPKServer( 3522):  @NaviPresenter@  direction:LeaveRoundAbout_Clockwise,round_num:0 
+11-09 23:26:41.910 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"LeaveRoundAbout_Clockwise","limitedspeed":-1,"nextcornername":"ICON 18","nextdistance":1800,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:41.920 D/Extra   ( 3413):  @neunavi@  The next street distance   :1800 
+11-09 23:26:41.920 D/Extra   ( 3413):  @neunavi@  The guide direction       :18 
+11-09 23:26:41.920 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1800 
+11-09 23:26:41.920 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:42.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:42.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:43.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:43.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:43.890 D/IPKServer( 3522):  @NaviPresenter@  direction:LeaveRoundAbout_Clockwise,round_num:0 
+11-09 23:26:43.890 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"LeaveRoundAbout_Clockwise","limitedspeed":-1,"nextcornername":"ICON 18","nextdistance":1800,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:43.900 D/Extra   ( 3413):  @neunavi@  The next street distance   :1800 
+11-09 23:26:43.900 D/Extra   ( 3413):  @neunavi@  The guide direction       :18 
+11-09 23:26:43.900 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1800 
+11-09 23:26:43.910 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:44.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:44.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:45.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:45.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:45.890 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_RightTurn","limitedspeed":-1,"nextcornername":"ICON 19","nextdistance":1900,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:45.900 D/Extra   ( 3413):  @neunavi@  The next street distance   :1900 
+11-09 23:26:45.900 D/Extra   ( 3413):  @neunavi@  The guide direction       :19 
+11-09 23:26:45.900 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1900 
+11-09 23:26:45.910 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:46.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:46.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:47.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:47.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:47.880 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_RightTurn","limitedspeed":-1,"nextcornername":"ICON 19","nextdistance":1900,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:47.890 D/Extra   ( 3413):  @neunavi@  The next street distance   :1900 
+11-09 23:26:47.890 D/Extra   ( 3413):  @neunavi@  The guide direction       :19 
+11-09 23:26:47.890 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1900 
+11-09 23:26:47.900 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:48.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:48.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:49.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:49.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:49.880 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_RightTurn","limitedspeed":-1,"nextcornername":"ICON 19","nextdistance":1900,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:49.890 D/Extra   ( 3413):  @neunavi@  The next street distance   :1900 
+11-09 23:26:49.890 D/Extra   ( 3413):  @neunavi@  The guide direction       :19 
+11-09 23:26:49.890 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1900 
+11-09 23:26:49.890 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:50.000 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:26:50.060 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9214564561843872,"valueYaw":0.41723135113716125,"valuePitch":-0.054607778787612915} 
+11-09 23:26:50.060 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.471435546875,"valueYaw":0.313720703125,"valuePitch":0.8291015625} 
+11-09 23:26:50.100 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:26:50.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:50.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:51.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:51.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:51.900 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"Direction_RightTurn","limitedspeed":-1,"nextcornername":"ICON 19","nextdistance":1900,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:51.910 D/Extra   ( 3413):  @neunavi@  The next street distance   :1900 
+11-09 23:26:51.910 D/Extra   ( 3413):  @neunavi@  The guide direction       :19 
+11-09 23:26:51.910 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1900 
+11-09 23:26:51.910 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:52.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:52.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:53.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:53.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:53.920 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:1 
+11-09 23:26:53.920 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum1","limitedspeed":-1,"nextcornername":"RB EXIT 1","nextdistance":1101,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:53.930 D/Extra   ( 3413):  @neunavi@  The next street distance   :1101 
+11-09 23:26:53.930 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:26:53.930 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1101 
+11-09 23:26:53.930 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:54.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:54.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:55.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:55.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:55.900 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:1 
+11-09 23:26:55.900 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum1","limitedspeed":-1,"nextcornername":"RB EXIT 1","nextdistance":1101,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:55.910 D/Extra   ( 3413):  @neunavi@  The next street distance   :1101 
+11-09 23:26:55.910 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:26:55.910 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1101 
+11-09 23:26:55.910 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:56.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:56.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:57.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:57.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:57.890 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:1 
+11-09 23:26:57.890 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum1","limitedspeed":-1,"nextcornername":"RB EXIT 1","nextdistance":1101,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:57.900 D/Extra   ( 3413):  @neunavi@  The next street distance   :1101 
+11-09 23:26:57.900 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:26:57.900 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1101 
+11-09 23:26:57.900 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:26:58.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:58.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:59.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:26:59.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:26:59.890 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:1 
+11-09 23:26:59.890 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum1","limitedspeed":-1,"nextcornername":"RB EXIT 1","nextdistance":1101,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:26:59.900 D/Extra   ( 3413):  @neunavi@  The next street distance   :1101 
+11-09 23:26:59.900 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:26:59.900 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1101 
+11-09 23:26:59.910 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:00.040 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9220543503761292,"valueYaw":0.4169324040412903,"valuePitch":-0.05470743030309677} 
+11-09 23:27:00.040 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.478515625,"valueYaw":0.33203125,"valuePitch":0.862548828125} 
+11-09 23:27:00.050 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:27:00.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:00.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:01.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:01.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:01.890 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:2 
+11-09 23:27:01.890 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum2","limitedspeed":-1,"nextcornername":"RB EXIT 2","nextdistance":1102,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:27:01.900 D/Extra   ( 3413):  @neunavi@  The next street distance   :1102 
+11-09 23:27:01.900 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:27:01.900 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1102 
+11-09 23:27:01.900 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:02.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:02.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:03.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:03.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:03.900 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:2 
+11-09 23:27:03.900 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum2","limitedspeed":-1,"nextcornername":"RB EXIT 2","nextdistance":1102,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:27:03.920 D/Extra   ( 3413):  @neunavi@  The next street distance   :1102 
+11-09 23:27:03.920 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:27:03.920 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1102 
+11-09 23:27:03.920 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:04.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:04.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:05.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:05.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:05.910 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:2 
+11-09 23:27:05.920 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum2","limitedspeed":-1,"nextcornername":"RB EXIT 2","nextdistance":1102,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:27:05.940 D/Extra   ( 3413):  @neunavi@  The next street distance   :1102 
+11-09 23:27:05.940 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:27:05.940 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1102 
+11-09 23:27:05.940 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:06.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:06.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:07.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:07.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:07.880 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:2 
+11-09 23:27:07.890 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum2","limitedspeed":-1,"nextcornername":"RB EXIT 2","nextdistance":1102,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:27:07.900 D/Extra   ( 3413):  @neunavi@  The next street distance   :1102 
+11-09 23:27:07.900 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:27:07.900 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1102 
+11-09 23:27:07.900 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:08.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:08.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:09.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:09.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:09.920 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:3 
+11-09 23:27:09.920 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum3","limitedspeed":-1,"nextcornername":"RB EXIT 3","nextdistance":1103,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:27:09.940 D/Extra   ( 3413):  @neunavi@  The next street distance   :1103 
+11-09 23:27:09.940 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:27:09.940 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1103 
+11-09 23:27:09.940 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:10.000 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:27:10.030 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9223533272743225,"valueYaw":0.4174306392669678,"valuePitch":-0.05480707809329033} 
+11-09 23:27:10.030 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.4677734375,"valueYaw":0.29541015625,"valuePitch":0.843505859375} 
+11-09 23:27:10.100 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:27:10.120 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9219546914100647,"valueYaw":0.4167330861091614,"valuePitch":-0.05470743030309677} 
+11-09 23:27:10.120 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.483642578125,"valueYaw":0.314697265625,"valuePitch":0.866455078125} 
+11-09 23:27:10.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:10.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:11.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:11.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:11.930 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:3 
+11-09 23:27:11.930 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum3","limitedspeed":-1,"nextcornername":"RB EXIT 3","nextdistance":1103,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:27:11.940 D/Extra   ( 3413):  @neunavi@  The next street distance   :1103 
+11-09 23:27:11.950 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:27:11.950 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1103 
+11-09 23:27:11.950 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:12.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:12.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:13.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:13.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:13.910 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:3 
+11-09 23:27:13.910 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum3","limitedspeed":-1,"nextcornername":"RB EXIT 3","nextdistance":1103,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:27:13.930 D/Extra   ( 3413):  @neunavi@  The next street distance   :1103 
+11-09 23:27:13.930 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:27:13.930 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1103 
+11-09 23:27:13.930 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:14.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:14.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:15.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:15.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:15.940 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:3 
+11-09 23:27:15.940 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum3","limitedspeed":-1,"nextcornername":"RB EXIT 3","nextdistance":1103,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:27:15.950 D/Extra   ( 3413):  @neunavi@  The next street distance   :1103 
+11-09 23:27:15.950 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:27:15.950 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1103 
+11-09 23:27:15.960 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:16.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:16.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:17.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:17.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:17.960 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:4 
+11-09 23:27:17.960 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum4","limitedspeed":-1,"nextcornername":"RB EXIT 4","nextdistance":1104,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:27:17.970 D/Extra   ( 3413):  @neunavi@  The next street distance   :1104 
+11-09 23:27:17.980 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:27:17.980 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1104 
+11-09 23:27:17.980 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:18.680 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:18.680 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:19.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:19.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:19.980 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:4 
+11-09 23:27:19.980 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum4","limitedspeed":-1,"nextcornername":"RB EXIT 4","nextdistance":1104,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:27:19.990 D/Extra   ( 3413):  @neunavi@  The next street distance   :1104 
+11-09 23:27:20.000 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:27:20.000 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1104 
+11-09 23:27:20.000 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:20.020 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9208585619926453,"valueYaw":0.4166334569454193,"valuePitch":-0.05430883169174194} 
+11-09 23:27:20.020 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.444091796875,"valueYaw":0.331298828125,"valuePitch":0.828125} 
+11-09 23:27:20.050 D/Extra   ( 3413):  @neunavi@  DR speed = 0.0 
+11-09 23:27:20.110 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9217553734779358,"valueYaw":0.4169324040412903,"valuePitch":-0.05540497228503227} 
+11-09 23:27:20.120 D/Extra   ( 3413):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.48974609375,"valueYaw":0.345703125,"valuePitch":0.8388671875} 
+11-09 23:27:20.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:20.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:21.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:21.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:21.970 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:4 
+11-09 23:27:21.970 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum4","limitedspeed":-1,"nextcornername":"RB EXIT 4","nextdistance":1104,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:27:21.980 D/Extra   ( 3413):  @neunavi@  The next street distance   :1104 
+11-09 23:27:21.990 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:27:21.990 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1104 
+11-09 23:27:21.990 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:22.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:22.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:23.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:23.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:23.970 D/IPKServer( 3522):  @NaviPresenter@  direction:EnterRoundAbout,round_num:4 
+11-09 23:27:23.970 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi guide info:{"arrived":false,"direction":"RoundAboutNum4","limitedspeed":-1,"nextcornername":"RB EXIT 4","nextdistance":1104,"remaindistancef":9000,"totaldistance":-1,"uri":"content://com.neusoft.optimus.mmi/NaviDataNotify"} 
+11-09 23:27:23.990 D/Extra   ( 3413):  @neunavi@  The next street distance   :1104 
+11-09 23:27:23.990 D/Extra   ( 3413):  @neunavi@  The guide direction       :11 
+11-09 23:27:23.990 D/Extra   ( 3413):  @neunavi@  The next crossing distance   :1104 
+11-09 23:27:24.000 D/Extra   ( 3413):  @neunavi@  setMMI_currtroadcondition:tmc_data[3] = 0 
+11-09 23:27:24.690 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:24.690 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:25.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:25.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 23:27:25.980 D/IPKServer( 3522):  @NaviPresenter@  Navi--IPKServer   navi status:NavigateStopped,navistatusInt:9 
+11-09 23:27:25.980 D/IPKServer( 3522):  @NaviInfoPackage@  MMI-->IPK   navi status:{"navistatus":"NavigateStopped","uri":"content://com.neusoft.optimus.mmi/NaviStatusNotify"} 
+11-09 23:27:25.990 D/Extra   ( 3413):  @neunavi@  setMMI_NavigationMod_indicator:tmc_data[3] = 0 
+11-09 23:27:25.990 D/Extra   ( 3413):  @neunavi@  导航状态 
+11-09 23:27:25.990 D/Extra   ( 3413):  @ContextProxy@  getOfflineConfig  sx_vehicle_mode  = 7 
+11-09 23:27:25.990 D/Extra   ( 3413):  @neunavi@  The navigation status :9 
+11-09 23:27:25.990 D/Extra   ( 3413):  @neunavi@  The guide direction :1 
+11-09 23:27:25.990 D/Extra   ( 3413):  @neunavi@  The roundabout exit number :0 
+11-09 23:27:26.000 D/Extra   ( 3413):  @neunavi@  The next street distance   :-1 
+11-09 23:27:26.700 D/Extra   ( 3413):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 23:27:26.700 D/Extra   ( 3413):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 

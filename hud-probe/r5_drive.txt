@@ -1,0 +1,127 @@
+--------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+11-13 09:58:43.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:43.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:44.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:44.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:45.630 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:58:45.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:45.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:46.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:46.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:47.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:47.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:48.630 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:58:48.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:48.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:49.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:49.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:50.060 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":0.908601701259613,"valueYaw":0.4129464328289032,"valuePitch":-0.042051974684000015} 
+11-13 09:58:50.060 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.560791015625,"valueYaw":0.015869140625,"valuePitch":0.426513671875} 
+11-13 09:58:50.080 D/Extra   ( 3406):  @neunavi@  DR speed = 0.0 
+11-13 09:58:50.140 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9083027839660645,"valueYaw":0.4124481678009033,"valuePitch":-0.04245057329535484} 
+11-13 09:58:50.140 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.56298828125,"valueYaw":-0.008056640625,"valuePitch":0.43505859375} 
+11-13 09:58:50.880 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:50.880 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:51.640 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:58:51.880 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:51.880 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:52.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:52.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:53.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:53.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:54.650 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:58:54.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:54.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:55.880 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:55.880 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:56.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:56.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:57.660 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:58:57.880 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:57.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:58.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:58.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:58:59.880 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:58:59.880 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:00.020 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9097974896430969,"valueYaw":0.4125478267669678,"valuePitch":-0.042051974684000015} 
+11-13 09:59:00.020 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.5615234375,"valueYaw":0.029541015625,"valuePitch":0.472412109375} 
+11-13 09:59:00.030 D/Extra   ( 3406):  @neunavi@  DR speed = 0.0 
+11-13 09:59:00.120 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9103953838348389,"valueYaw":0.4136439561843872,"valuePitch":-0.04215162619948387} 
+11-13 09:59:00.120 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.59814453125,"valueYaw":0.03564453125,"valuePitch":0.444091796875} 
+11-13 09:59:00.130 D/Extra   ( 3406):  @neunavi@  DR speed = 0.0 
+11-13 09:59:00.660 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:59:00.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:00.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:01.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:01.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:02.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:02.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:03.670 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:59:03.880 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:03.880 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:04.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:04.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:05.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:05.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:06.680 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:59:06.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:06.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:07.880 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:07.880 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:08.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:08.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:09.690 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:59:09.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:09.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:10.000 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9097974896430969,"valueYaw":0.41284677386283875,"valuePitch":-0.042749520391225815} 
+11-13 09:59:10.000 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.614990234375,"valueYaw":0.03564453125,"valuePitch":0.46630859375} 
+11-13 09:59:10.080 D/Extra   ( 3406):  @neunavi@  DR speed = 0.0 
+11-13 09:59:10.100 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":0.91019606590271,"valueYaw":0.4126474857330322,"valuePitch":-0.042350925505161285} 
+11-13 09:59:10.100 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.5888671875,"valueYaw":0.0126953125,"valuePitch":0.44873046875} 
+11-13 09:59:10.880 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:10.880 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:11.880 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:11.880 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:12.690 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:59:12.880 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:12.880 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:13.900 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:13.900 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:14.900 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:14.900 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:15.700 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:59:15.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:15.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:16.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:16.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:17.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:17.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:18.710 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:59:18.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:18.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:19.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:19.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:20.030 D/Extra   ( 3406):  @neunavi@  DR speed = 0.0 
+11-13 09:59:20.080 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9099968075752258,"valueYaw":0.4126474857330322,"valuePitch":-0.04314811900258064} 
+11-13 09:59:20.090 D/Extra   ( 3406):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.567626953125,"valueYaw":0.0576171875,"valuePitch":0.47998046875} 
+11-13 09:59:20.130 D/Extra   ( 3406):  @neunavi@  DR speed = 0.0 
+11-13 09:59:20.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:20.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:21.720 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:59:21.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:21.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:22.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:22.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:23.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:23.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:24.720 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:59:24.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:24.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:25.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:25.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:26.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:26.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-13 09:59:27.730 I/XCNaviService( 3699): initLocation:LocationInfo{latitude=29.033463833333332, longitude=106.64010949999998, accuracy=0.81, altitude=0.0, speed=3.940641, bearing=312.34, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-13 09:59:27.890 D/Extra   ( 3406):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-13 09:59:27.890 D/Extra   ( 3406):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 

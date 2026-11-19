@@ -1,0 +1,775 @@
+--------- beginning of /dev/log/main
+11-09 21:23:15.950 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:15.990 E/FastSensor( 3404): test mTestCountGyro = 17700 mTestInvalidateCountGyro=8 
+11-09 21:23:15.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,10,17
+11-09 21:23:16.050 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:16.150 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:16.250 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:16.350 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:16.360 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:16.450 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:16.550 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:16.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:16.620 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:16.640 D/TBoxClient( 3833):  @SocketPresenter@  send GPS消息信息 Message:0D052A7000170000000000000000000000000000000000000000000200650D0A 
+11-09 21:23:16.650 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:16.750 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:16.780 D/IvwPcmRecordListener( 3559): onRecordData len 3200
+11-09 21:23:16.810 D/dalvikvm( 3404): GC_CONCURRENT freed 390K, 68% free 3914K/11920K, paused 4ms+2ms, total 26ms
+11-09 21:23:16.850 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:16.950 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:16.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,11,17
+11-09 21:23:16.990 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:16.990 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:17.050 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:17.150 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:17.250 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:17.290 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:17.310 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:17.350 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:17.390 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:17.450 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:17.550 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:17.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:17.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:17.630 D/TBoxClient( 3833):  @BaseStationDataParser@  internet and operator is both normal 网络状态正常（即基站信息正常） 
+11-09 21:23:17.630 D/TBoxClient( 3833):  @BaseStationDataParser@  internetType:4G, region:currentRegion, operator:中国移动, ip:10.40.100.16 
+11-09 21:23:17.630 D/TBoxClient( 3833):  @TBoxNotifier@  sendBSInfo 
+11-09 21:23:17.640 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:17.650 D/TBoxClient( 3833):  @SignalDataParser@  信号强度 signal: 25, 信号等级 signalGrade: 4 
+11-09 21:23:17.650 D/TBoxClient( 3833):  @TBoxNotifier@  sendSignalData 
+11-09 21:23:17.650 I/XDownload( 4342): onSignalStrengthsChanged 
+11-09 21:23:17.650 I/NetworkController( 3265): onSignalStrengthsChanged SignalStrength: 25 0 0 0 0 0 0 99 2147483647 2147483647 2147483647 2147483647 gsm|lte
+11-09 21:23:17.650 I/NetworkController( 3265): updateTelephonySignalStrength iconLevel = 4
+11-09 21:23:17.650 I/XCUpgradeService( 4342): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+--------- beginning of /dev/log/system
+11-09 21:23:17.650 D/ConnectivityService( 3114): [shanchsh]getActiveNetworkInfo9
+11-09 21:23:17.740 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:17.840 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:17.940 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:17.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,12,17
+11-09 21:23:18.040 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:18.140 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:18.240 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:18.340 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:18.380 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:18.440 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:18.540 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:18.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:18.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:18.640 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:18.740 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:18.840 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:18.940 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:18.970 D/dalvikvm( 3719): GC_CONCURRENT freed 383K, 67% free 4370K/13212K, paused 3ms+2ms, total 33ms
+11-09 21:23:18.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,13,17
+11-09 21:23:19.040 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:19.140 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:19.240 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:19.340 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:19.420 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:19.440 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:19.540 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:19.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:19.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:19.630 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:19.730 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:19.830 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:19.930 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:19.990 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:19.990 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:19.990 D/Extra   ( 3404):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9215561151504517,"valueYaw":0.4167330861091614,"valuePitch":-0.053212691098451614} 
+11-09 21:23:19.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,14,17
+11-09 21:23:20.000 D/Extra   ( 3404):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.51513671875,"valueYaw":0.284912109375,"valuePitch":0.798583984375} 
+11-09 21:23:20.030 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:20.030 D/Extra   ( 3404):  @neunavi@  DR speed = 0.0 
+11-09 21:23:20.080 D/Extra   ( 3404):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9222536683082581,"valueYaw":0.4164341390132904,"valuePitch":-0.053910233080387115} 
+11-09 21:23:20.080 D/Extra   ( 3404):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.48974609375,"valueYaw":0.294677734375,"valuePitch":0.831298828125} 
+11-09 21:23:20.130 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:20.130 D/Extra   ( 3404):  @neunavi@  DR speed = 0.0 
+11-09 21:23:20.230 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:20.310 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:20.320 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:20.330 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:20.410 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:20.430 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:20.530 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:20.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:20.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:20.630 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:20.730 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:20.810 D/dalvikvm( 3404): GC_CONCURRENT freed 390K, 68% free 3915K/11920K, paused 3ms+2ms, total 26ms
+11-09 21:23:20.830 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:20.930 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:20.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,15,17
+11-09 21:23:21.030 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:21.130 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:21.230 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:21.330 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:21.430 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:21.430 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:21.530 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:21.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:21.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:21.620 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:21.660 D/TBoxClient( 3833):  @SocketPresenter@  send GPS消息信息 Message:0D052A7000170000000000000000000000000000000000000000000200650D0A 
+11-09 21:23:21.720 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:21.820 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:21.870 D/dalvikvm( 4442): GC_CONCURRENT freed 418K, 72% free 3191K/11188K, paused 2ms+2ms, total 22ms
+11-09 21:23:21.920 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:21.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,16,17
+11-09 21:23:22.020 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:22.120 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:22.220 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:22.320 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:22.420 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:22.430 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:22.520 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:22.550 D/dalvikvm( 3719): GC_CONCURRENT freed 385K, 67% free 4369K/13212K, paused 4ms+3ms, total 33ms
+11-09 21:23:22.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:22.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:22.620 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:22.660 D/TBoxClient( 3833):  @BaseStationDataParser@  internet and operator is both normal 网络状态正常（即基站信息正常） 
+11-09 21:23:22.660 D/TBoxClient( 3833):  @BaseStationDataParser@  internetType:4G, region:currentRegion, operator:中国移动, ip:10.40.100.16 
+11-09 21:23:22.660 D/TBoxClient( 3833):  @TBoxNotifier@  sendBSInfo 
+11-09 21:23:22.660 D/TBoxClient( 3833):  @SignalDataParser@  信号强度 signal: 25, 信号等级 signalGrade: 4 
+11-09 21:23:22.660 D/TBoxClient( 3833):  @TBoxNotifier@  sendSignalData 
+11-09 21:23:22.660 I/NetworkController( 3265): onSignalStrengthsChanged SignalStrength: 25 0 0 0 0 0 0 99 2147483647 2147483647 2147483647 2147483647 gsm|lte
+11-09 21:23:22.660 I/NetworkController( 3265): updateTelephonySignalStrength iconLevel = 4
+11-09 21:23:22.660 D/ConnectivityService( 3114): [shanchsh]getActiveNetworkInfo9
+11-09 21:23:22.670 I/XCUpgradeService( 4342): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+11-09 21:23:22.670 I/XDownload( 4342): onSignalStrengthsChanged 
+11-09 21:23:22.720 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:22.820 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:22.920 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:22.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,17,17
+11-09 21:23:22.980 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:22.980 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:23.020 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:23.120 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:23.220 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:23.320 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:23.320 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:23.320 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:23.420 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:23.460 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:23.520 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:23.560 D/        ( 2352): [TBOX_SERVICE]: address correct is 172.30.100.10
+11-09 21:23:23.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:23.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:23.620 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:23.710 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:23.810 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:23.910 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:23.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,18,17
+11-09 21:23:24.010 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:24.110 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:24.210 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:24.310 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:24.410 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:24.450 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:24.510 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:24.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:24.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:24.610 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:24.710 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:24.810 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:24.910 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:24.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,19,17
+11-09 21:23:24.990 D/dalvikvm( 3404): GC_CONCURRENT freed 390K, 68% free 3915K/11920K, paused 2ms+2ms, total 29ms
+11-09 21:23:25.010 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:25.110 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:25.210 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:25.310 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:25.360 D/neu_c3_alfus_gps( 3114): <<-GPS->>: -------- heart monitor thread recv nmea message success! clientFd = 247, count = 162!
+11-09 21:23:25.410 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:25.490 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:25.510 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:25.600 D/neu_c3_alfus_gps( 3114): $GNRMC,,V,,,,,,,,,,N*4D
+11-09 21:23:25.600 D/neu_c3_alfus_gps( 3114): $GNVTG,,,,,,,,,N*2E
+11-09 21:23:25.600 D/neu_c3_alfus_gps( 3114): $GNGGA,,,,,,0,00,99.99,,,,,,*56
+11-09 21:23:25.600 D/neu_c3_alfus_gps( 3114): $GNGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*2E
+11-09 21:23:25.600 D/neu_c3_alfus_gps( 3114): $GNGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*2E
+11-09 21:23:25.600 D/neu_c3_alfus_gps( 3114): $GPGSV,1,1,00*79
+11-09 21:23:25.600 D/neu_c3_alfus_gps( 3114): $GLGSV,1,1,00*65
+11-09 21:23:25.600 D/neu_c3_alfus_gps( 3114): $GNGLL,,,,,,V,N*7A
+11-09 21:23:25.610 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:25.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:25.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:25.610 D/neu_c3_alfus_gps( 3114): active sv_status_cb: num_svs = 00 ephemeris_mask = 0x0 almanac_mask = 0x0 used_in_fix_mask = 0x0 
+11-09 21:23:25.610 D/neu_c3_alfus_gps( 3114): extension_ephemeris_mask = 0x0 extension_almanac_mask = 0x0 extension_used_in_fix_mask = 0x0
+11-09 21:23:25.670 D/neu_c3_alfus_ubx( 3404): <<-GPS->>: -------- heart monitor thread recv nmea message success! baudrate = 115200, count = 176!
+11-09 21:23:25.700 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:25.800 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:25.900 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:25.970 E/FastSensor( 3404): test mTestCountGyro = 17800 mTestInvalidateCountGyro=8 
+11-09 21:23:25.980 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:25.980 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:25.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,1a,17
+11-09 21:23:26.000 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:26.010 D/dalvikvm( 3719): GC_CONCURRENT freed 388K, 67% free 4370K/13212K, paused 5ms+3ms, total 40ms
+11-09 21:23:26.100 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:26.200 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:26.300 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:26.330 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:26.330 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:26.400 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:26.430 D/dalvikvm( 3559): GC_CONCURRENT freed 2244K, 55% free 10026K/21848K, paused 5ms+3ms, total 41ms
+11-09 21:23:26.480 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:26.500 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:26.600 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:26.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:26.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:26.660 D/TBoxClient( 3833):  @SocketPresenter@  send GPS消息信息 Message:0D052A7000170000000000000000000000000000000000000000000200650D0A 
+11-09 21:23:26.700 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:26.800 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:26.900 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:26.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,1b,17
+11-09 21:23:27.000 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:27.100 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:27.200 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:27.300 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:27.400 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:27.500 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:27.530 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:27.600 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:27.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:27.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:27.650 D/TBoxClient( 3833):  @BaseStationDataParser@  internet and operator is both normal 网络状态正常（即基站信息正常） 
+11-09 21:23:27.650 D/TBoxClient( 3833):  @BaseStationDataParser@  internetType:4G, region:currentRegion, operator:中国移动, ip:10.40.100.16 
+11-09 21:23:27.650 D/TBoxClient( 3833):  @TBoxNotifier@  sendBSInfo 
+11-09 21:23:27.670 D/TBoxClient( 3833):  @SignalDataParser@  信号强度 signal: 28, 信号等级 signalGrade: 5 
+11-09 21:23:27.670 D/TBoxClient( 3833):  @TBoxNotifier@  sendSignalData 
+11-09 21:23:27.670 I/NetworkController( 3265): onSignalStrengthsChanged SignalStrength: 28 0 0 0 0 0 0 99 2147483647 2147483647 2147483647 2147483647 gsm|lte
+11-09 21:23:27.670 I/NetworkController( 3265): updateTelephonySignalStrength iconLevel = 4
+11-09 21:23:27.670 I/XCUpgradeService( 4342): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 5
+11-09 21:23:27.670 I/XDownload( 4342): onSignalStrengthsChanged 
+11-09 21:23:27.670 D/ConnectivityService( 3114): [shanchsh]getActiveNetworkInfo9
+11-09 21:23:27.690 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:27.790 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:27.890 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:27.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,1c,17
+11-09 21:23:28.000 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:28.090 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:28.190 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:28.290 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:28.390 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:28.490 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:28.520 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:28.590 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:28.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:28.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:28.690 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:28.790 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:28.890 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:28.970 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:28.970 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:28.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,1d,17
+11-09 21:23:28.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:29.090 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:29.190 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:29.190 D/dalvikvm( 3404): GC_CONCURRENT freed 391K, 68% free 3914K/11920K, paused 5ms+2ms, total 27ms
+11-09 21:23:29.290 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:29.340 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:29.340 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:29.390 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:29.490 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:29.550 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:29.590 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:29.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:29.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:29.630 D/dalvikvm( 3719): GC_CONCURRENT freed 401K, 67% free 4369K/13212K, paused 4ms+3ms, total 34ms
+11-09 21:23:29.680 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:29.780 D/IvwPcmRecordListener( 3559): onRecordData len 3200
+11-09 21:23:29.780 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:29.880 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:29.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,1e,17
+11-09 21:23:29.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:30.070 D/Extra   ( 3404):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9221540093421936,"valueYaw":0.415736585855484,"valuePitch":-0.05331233888864517} 
+11-09 21:23:30.070 D/Extra   ( 3404):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.488525390625,"valueYaw":0.315185546875,"valuePitch":0.777099609375} 
+11-09 21:23:30.080 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:30.080 D/Extra   ( 3404):  @neunavi@  DR speed = 0.0 
+11-09 21:23:30.180 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:30.280 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:30.380 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:30.480 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:30.540 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:30.580 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:30.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:30.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:30.680 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:30.780 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:30.880 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:30.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,1f,17
+11-09 21:23:30.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:31.080 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:31.180 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:31.280 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:31.380 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:31.480 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:31.560 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:31.580 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:31.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:31.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:31.670 D/TBoxClient( 3833):  @SocketPresenter@  send GPS消息信息 Message:0D052A7000170000000000000000000000000000000000000000000200650D0A 
+11-09 21:23:31.680 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:31.770 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:31.870 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:31.970 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:31.970 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:31.970 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:31.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,20,17
+11-09 21:23:32.070 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:32.170 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:32.270 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:32.350 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:32.350 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:32.370 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:32.470 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:32.550 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:32.570 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:32.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:32.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:32.670 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:32.680 D/TBoxClient( 3833):  @BaseStationDataParser@  internet and operator is both normal 网络状态正常（即基站信息正常） 
+11-09 21:23:32.680 D/TBoxClient( 3833):  @BaseStationDataParser@  internetType:4G, region:currentRegion, operator:中国移动, ip:10.40.100.16 
+11-09 21:23:32.680 D/TBoxClient( 3833):  @TBoxNotifier@  sendBSInfo 
+11-09 21:23:32.680 D/TBoxClient( 3833):  @SignalDataParser@  信号强度 signal: 24, 信号等级 signalGrade: 4 
+11-09 21:23:32.680 D/TBoxClient( 3833):  @TBoxNotifier@  sendSignalData 
+11-09 21:23:32.680 I/NetworkController( 3265): onSignalStrengthsChanged SignalStrength: 24 0 0 0 0 0 0 99 2147483647 2147483647 2147483647 2147483647 gsm|lte
+11-09 21:23:32.680 I/NetworkController( 3265): updateTelephonySignalStrength iconLevel = 4
+11-09 21:23:32.680 I/XCUpgradeService( 4342): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+11-09 21:23:32.680 I/XDownload( 4342): onSignalStrengthsChanged 
+11-09 21:23:32.680 D/ConnectivityService( 3114): [shanchsh]getActiveNetworkInfo9
+11-09 21:23:32.770 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:32.870 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:32.970 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:32.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,21,17
+11-09 21:23:33.070 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:33.170 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:33.200 D/dalvikvm( 3719): GC_CONCURRENT freed 384K, 67% free 4369K/13212K, paused 3ms+3ms, total 32ms
+11-09 21:23:33.270 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:33.290 D/dalvikvm( 3404): GC_CONCURRENT freed 391K, 68% free 3915K/11920K, paused 3ms+2ms, total 27ms
+11-09 21:23:33.370 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:33.470 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:33.570 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:33.580 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:33.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:33.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:33.660 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:33.760 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:33.860 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:33.960 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:33.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,22,17
+11-09 21:23:34.060 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:34.160 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:34.260 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:34.360 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:34.460 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:34.560 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:34.570 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:34.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:34.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:34.660 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:34.760 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:34.860 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:34.960 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:34.960 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:34.960 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:34.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,23,17
+11-09 21:23:35.060 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:35.160 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:35.260 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:35.350 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:35.360 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:35.360 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:35.460 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:35.560 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:35.600 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:35.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:35.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:35.650 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:35.670 D/neu_c3_alfus_ubx( 3404): <<-GPS->>: -------- heart monitor thread recv nmea message success! baudrate = 115200, count = 177!
+11-09 21:23:35.750 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:35.850 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:35.940 E/FastSensor( 3404): test mTestCountGyro = 17900 mTestInvalidateCountGyro=8 
+11-09 21:23:35.950 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:35.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,24,17
+11-09 21:23:36.050 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:36.150 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:36.250 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:36.350 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:36.360 D/neu_c3_alfus_gps( 3114): <<-GPS->>: -------- heart monitor thread recv nmea message success! clientFd = 247, count = 163!
+11-09 21:23:36.450 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:36.550 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:36.590 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:36.600 D/neu_c3_alfus_gps( 3114): $GNRMC,,V,,,,,,,,,,N*4D
+11-09 21:23:36.600 D/neu_c3_alfus_gps( 3114): $GNVTG,,,,,,,,,N*2E
+11-09 21:23:36.600 D/neu_c3_alfus_gps( 3114): $GNGGA,,,,,,0,00,99.99,,,,,,*56
+11-09 21:23:36.600 D/neu_c3_alfus_gps( 3114): $GNGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*2E
+11-09 21:23:36.600 D/neu_c3_alfus_gps( 3114): $GNGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*2E
+11-09 21:23:36.600 D/neu_c3_alfus_gps( 3114): $GPGSV,1,1,00*79
+11-09 21:23:36.600 D/neu_c3_alfus_gps( 3114): $GLGSV,1,1,00*65
+11-09 21:23:36.600 D/neu_c3_alfus_gps( 3114): $GNGLL,,,,,,V,N*7A
+11-09 21:23:36.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:36.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:36.600 D/neu_c3_alfus_gps( 3114): active sv_status_cb: num_svs = 00 ephemeris_mask = 0x0 almanac_mask = 0x0 used_in_fix_mask = 0x0 
+11-09 21:23:36.600 D/neu_c3_alfus_gps( 3114): extension_ephemeris_mask = 0x0 extension_almanac_mask = 0x0 extension_used_in_fix_mask = 0x0
+11-09 21:23:36.650 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:36.680 D/dalvikvm( 3719): GC_CONCURRENT freed 391K, 67% free 4370K/13212K, paused 4ms+2ms, total 34ms
+11-09 21:23:36.680 D/TBoxClient( 3833):  @SocketPresenter@  send GPS消息信息 Message:0D052A7000170000000000000000000000000000000000000000000200650D0A 
+11-09 21:23:36.750 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:36.850 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:36.950 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:36.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,25,17
+11-09 21:23:37.050 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:37.150 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:37.250 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:37.350 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:37.450 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:37.480 D/dalvikvm( 3404): GC_CONCURRENT freed 390K, 68% free 3915K/11920K, paused 3ms+3ms, total 26ms
+11-09 21:23:37.550 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:37.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:37.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:37.620 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:37.650 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:37.660 D/TBoxClient( 3833):  @BaseStationDataParser@  internet and operator is both normal 网络状态正常（即基站信息正常） 
+11-09 21:23:37.660 D/TBoxClient( 3833):  @BaseStationDataParser@  internetType:4G, region:currentRegion, operator:中国移动, ip:10.40.100.16 
+11-09 21:23:37.660 D/TBoxClient( 3833):  @TBoxNotifier@  sendBSInfo 
+11-09 21:23:37.690 D/TBoxClient( 3833):  @SignalDataParser@  信号强度 signal: 25, 信号等级 signalGrade: 4 
+11-09 21:23:37.690 D/TBoxClient( 3833):  @TBoxNotifier@  sendSignalData 
+11-09 21:23:37.690 I/NetworkController( 3265): onSignalStrengthsChanged SignalStrength: 25 0 0 0 0 0 0 99 2147483647 2147483647 2147483647 2147483647 gsm|lte
+11-09 21:23:37.690 I/NetworkController( 3265): updateTelephonySignalStrength iconLevel = 4
+11-09 21:23:37.690 I/XCUpgradeService( 4342): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+11-09 21:23:37.690 I/XDownload( 4342): onSignalStrengthsChanged 
+11-09 21:23:37.690 D/ConnectivityService( 3114): [shanchsh]getActiveNetworkInfo9
+11-09 21:23:37.740 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:37.840 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:37.940 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:37.960 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:37.960 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:37.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,26,17
+11-09 21:23:38.040 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:38.130 D/dalvikvm( 3559): GC_CONCURRENT freed 2238K, 55% free 10026K/21848K, paused 3ms+3ms, total 38ms
+11-09 21:23:38.140 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:38.240 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:38.340 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:38.360 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:38.370 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:38.440 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:38.540 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:38.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:38.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:38.620 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:38.640 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:38.690 D/dalvikvm( 3833): GC_CONCURRENT freed 388K, 72% free 3135K/11096K, paused 3ms+2ms, total 27ms
+11-09 21:23:38.740 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:38.840 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:38.940 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:38.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,27,17
+11-09 21:23:39.040 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:39.140 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:39.240 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:39.340 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:39.440 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:39.540 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:39.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:39.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:39.620 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:39.640 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:39.730 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:39.830 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:39.930 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:39.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,28,17
+11-09 21:23:40.030 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:40.030 D/Extra   ( 3404):  @neunavi@  DR speed = 0.0 
+11-09 21:23:40.040 D/Extra   ( 3404):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9220543503761292,"valueYaw":0.4169324040412903,"valuePitch":-0.05331233888864517} 
+11-09 21:23:40.050 D/Extra   ( 3404):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.47998046875,"valueYaw":0.31005859375,"valuePitch":0.80224609375} 
+11-09 21:23:40.130 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:40.130 D/Extra   ( 3404):  @neunavi@  DR speed = 0.0 
+11-09 21:23:40.230 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:40.280 D/dalvikvm( 3719): GC_CONCURRENT freed 384K, 67% free 4371K/13212K, paused 3ms+2ms, total 33ms
+11-09 21:23:40.330 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:40.430 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:40.530 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:40.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:40.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:40.620 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:40.630 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:40.730 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:40.830 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:40.930 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:40.950 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:40.950 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:40.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,29,17
+11-09 21:23:41.030 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:41.130 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:41.230 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:41.330 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:41.370 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:41.380 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:41.400 D/dalvikvm( 3621): GC_CONCURRENT freed 382K, 71% free 3289K/11336K, paused 3ms+2ms, total 27ms
+11-09 21:23:41.430 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:41.530 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:41.560 D/dalvikvm( 3404): GC_CONCURRENT freed 391K, 68% free 3914K/11920K, paused 3ms+2ms, total 26ms
+11-09 21:23:41.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:41.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:41.620 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:41.630 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:41.690 D/TBoxClient( 3833):  @SocketPresenter@  send GPS消息信息 Message:0D052A7000170000000000000000000000000000000000000000000200650D0A 
+11-09 21:23:41.720 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:41.820 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:41.920 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:41.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,2a,17
+11-09 21:23:42.020 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:42.120 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:42.220 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:42.320 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:42.420 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:42.520 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:42.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:42.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:42.620 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:42.620 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:42.700 D/TBoxClient( 3833):  @BaseStationDataParser@  internet and operator is both normal 网络状态正常（即基站信息正常） 
+11-09 21:23:42.700 D/TBoxClient( 3833):  @BaseStationDataParser@  internetType:4G, region:currentRegion, operator:中国移动, ip:10.40.100.16 
+11-09 21:23:42.700 D/TBoxClient( 3833):  @TBoxNotifier@  sendBSInfo 
+11-09 21:23:42.700 D/TBoxClient( 3833):  @SignalDataParser@  信号强度 signal: 24, 信号等级 signalGrade: 4 
+11-09 21:23:42.700 D/TBoxClient( 3833):  @TBoxNotifier@  sendSignalData 
+11-09 21:23:42.700 I/NetworkController( 3265): onSignalStrengthsChanged SignalStrength: 24 0 0 0 0 0 0 99 2147483647 2147483647 2147483647 2147483647 gsm|lte
+11-09 21:23:42.700 I/NetworkController( 3265): updateTelephonySignalStrength iconLevel = 4
+11-09 21:23:42.700 I/XDownload( 4342): onSignalStrengthsChanged 
+11-09 21:23:42.700 D/ConnectivityService( 3114): [shanchsh]getActiveNetworkInfo9
+11-09 21:23:42.710 I/XCUpgradeService( 4342): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+11-09 21:23:42.720 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:42.780 D/IvwPcmRecordListener( 3559): onRecordData len 3200
+11-09 21:23:42.820 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:42.920 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:42.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,2b,17
+11-09 21:23:43.020 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:43.120 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:43.220 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:43.320 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:43.420 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:43.520 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:43.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:43.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:43.620 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:43.650 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:43.710 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:43.750 D/dalvikvm( 3719): GC_CONCURRENT freed 392K, 67% free 4370K/13212K, paused 3ms+3ms, total 34ms
+11-09 21:23:43.810 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:43.910 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:43.950 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:43.950 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:43.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,2c,17
+11-09 21:23:44.010 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:44.110 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:44.210 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:44.310 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:44.380 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:44.380 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:44.410 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:44.510 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:44.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:44.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:44.610 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:44.650 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:44.710 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:44.810 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:44.910 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:44.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,2d,17
+11-09 21:23:45.010 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:45.110 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:45.210 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:45.310 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:45.410 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:45.510 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:45.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:45.610 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:45.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:45.630 D/dalvikvm( 3404): GC_CONCURRENT freed 399K, 68% free 3927K/11920K, paused 3ms+2ms, total 26ms
+11-09 21:23:45.670 D/neu_c3_alfus_ubx( 3404): <<-GPS->>: -------- heart monitor thread recv nmea message success! baudrate = 115200, count = 178!
+11-09 21:23:45.680 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:45.700 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:45.800 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:45.900 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:45.950 E/FastSensor( 3404): test mTestCountGyro = 18000 mTestInvalidateCountGyro=8 
+11-09 21:23:45.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,2e,17
+11-09 21:23:46.000 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:46.100 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:46.200 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:46.300 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:46.400 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:46.500 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:46.600 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:46.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:46.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:46.680 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:46.700 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:46.710 D/TBoxClient( 3833):  @SocketPresenter@  send GPS消息信息 Message:0D052A7000170000000000000000000000000000000000000000000200650D0A 
+11-09 21:23:46.800 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:46.900 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:46.940 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:46.940 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:46.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,2f,17
+11-09 21:23:47.000 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:47.100 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:47.200 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:47.300 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:47.360 D/neu_c3_alfus_gps( 3114): <<-GPS->>: -------- heart monitor thread recv nmea message success! clientFd = 247, count = 164!
+11-09 21:23:47.370 D/dalvikvm( 3719): GC_CONCURRENT freed 383K, 67% free 4371K/13212K, paused 3ms+3ms, total 32ms
+11-09 21:23:47.390 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:47.390 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:47.400 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:47.500 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:47.600 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:47.600 D/neu_c3_alfus_gps( 3114): $GNRMC,,V,,,,,,,,,,N*4D
+11-09 21:23:47.600 D/neu_c3_alfus_gps( 3114): $GNVTG,,,,,,,,,N*2E
+11-09 21:23:47.600 D/neu_c3_alfus_gps( 3114): $GNGGA,,,,,,0,00,99.99,,,,,,*56
+11-09 21:23:47.610 D/neu_c3_alfus_gps( 3114): $GNGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*2E
+11-09 21:23:47.610 D/neu_c3_alfus_gps( 3114): $GNGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*2E
+11-09 21:23:47.610 D/neu_c3_alfus_gps( 3114): $GPGSV,1,1,00*79
+11-09 21:23:47.610 D/neu_c3_alfus_gps( 3114): $GLGSV,1,1,00*65
+11-09 21:23:47.610 D/neu_c3_alfus_gps( 3114): $GNGLL,,,,,,V,N*7A
+11-09 21:23:47.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:47.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:47.610 D/neu_c3_alfus_gps( 3114): active sv_status_cb: num_svs = 00 ephemeris_mask = 0x0 almanac_mask = 0x0 used_in_fix_mask = 0x0 
+11-09 21:23:47.610 D/neu_c3_alfus_gps( 3114): extension_ephemeris_mask = 0x0 extension_almanac_mask = 0x0 extension_used_in_fix_mask = 0x0
+11-09 21:23:47.680 D/TBoxClient( 3833):  @BaseStationDataParser@  internet and operator is both normal 网络状态正常（即基站信息正常） 
+11-09 21:23:47.680 D/TBoxClient( 3833):  @BaseStationDataParser@  internetType:4G, region:currentRegion, operator:中国移动, ip:10.40.100.16 
+11-09 21:23:47.680 D/TBoxClient( 3833):  @TBoxNotifier@  sendBSInfo 
+11-09 21:23:47.680 D/TBoxClient( 3833):  @SignalDataParser@  信号强度 signal: 24, 信号等级 signalGrade: 4 
+11-09 21:23:47.680 D/TBoxClient( 3833):  @TBoxNotifier@  sendSignalData 
+11-09 21:23:47.680 I/NetworkController( 3265): onSignalStrengthsChanged SignalStrength: 24 0 0 0 0 0 0 99 2147483647 2147483647 2147483647 2147483647 gsm|lte
+11-09 21:23:47.680 I/NetworkController( 3265): updateTelephonySignalStrength iconLevel = 4
+11-09 21:23:47.680 I/XCUpgradeService( 4342): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+11-09 21:23:47.680 I/XDownload( 4342): onSignalStrengthsChanged 
+11-09 21:23:47.680 D/ConnectivityService( 3114): [shanchsh]getActiveNetworkInfo9
+11-09 21:23:47.690 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:47.710 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:47.790 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:47.890 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:47.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,30,17
+11-09 21:23:48.000 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:48.090 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:48.190 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:48.290 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:48.390 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:48.490 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:48.590 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:48.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:48.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:48.690 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:48.710 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:48.790 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:48.890 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:48.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,31,17
+11-09 21:23:48.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:49.090 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:49.190 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:49.290 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:49.390 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:49.490 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:49.590 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:49.610 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:49.610 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:49.680 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:49.750 D/dalvikvm( 3404): GC_CONCURRENT freed 402K, 68% free 3915K/11920K, paused 3ms+2ms, total 26ms
+11-09 21:23:49.770 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:49.780 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:49.830 D/dalvikvm( 3559): GC_CONCURRENT freed 2242K, 55% free 10026K/21848K, paused 3ms+3ms, total 39ms
+11-09 21:23:49.880 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:49.940 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:49.940 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:49.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,32,17
+11-09 21:23:49.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:50.030 D/Extra   ( 3404):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9220543503761292,"valueYaw":0.4166334569454193,"valuePitch":-0.053511638194322586} 
+11-09 21:23:50.040 D/Extra   ( 3404):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.491455078125,"valueYaw":0.303955078125,"valuePitch":0.796142578125} 
+11-09 21:23:50.080 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:50.080 D/Extra   ( 3404):  @neunavi@  DR speed = 0.0 
+11-09 21:23:50.120 D/Extra   ( 3404):  @neunavi@  DR  = {"axis":4,"valueRoll":0.9223533272743225,"valueYaw":0.416035532951355,"valuePitch":-0.05341199040412903} 
+11-09 21:23:50.130 D/Extra   ( 3404):  @neunavi@  DR  = {"axis":4,"valueRoll":-0.48828125,"valueYaw":0.31298828125,"valuePitch":0.78857421875} 
+11-09 21:23:50.180 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:50.280 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:50.380 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:50.390 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:50.400 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:50.480 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:50.580 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:50.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:50.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:50.680 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:50.770 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:50.780 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:50.810 D/dalvikvm( 3719): GC_CONCURRENT freed 386K, 67% free 4370K/13212K, paused 4ms+3ms, total 34ms
+11-09 21:23:50.880 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:50.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,33,17
+11-09 21:23:50.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:51.080 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:51.180 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:51.280 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:51.380 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:51.480 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:51.580 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:51.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:51.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:51.670 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:51.720 D/TBoxClient( 3833):  @SocketPresenter@  send GPS消息信息 Message:0D052A7000170000000000000000000000000000000000000000000200650D0A 
+11-09 21:23:51.770 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:51.790 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:51.870 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:51.970 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:51.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,34,17
+11-09 21:23:52.070 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:52.170 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:52.270 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:52.370 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:52.470 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:52.570 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:52.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:52.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:52.670 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:52.690 D/TBoxClient( 3833):  @BaseStationDataParser@  internet and operator is both normal 网络状态正常（即基站信息正常） 
+11-09 21:23:52.690 D/TBoxClient( 3833):  @BaseStationDataParser@  internetType:4G, region:currentRegion, operator:中国移动, ip:10.40.100.16 
+11-09 21:23:52.690 D/TBoxClient( 3833):  @TBoxNotifier@  sendBSInfo 
+11-09 21:23:52.690 D/TBoxClient( 3833):  @SignalDataParser@  信号强度 signal: 24, 信号等级 signalGrade: 4 
+11-09 21:23:52.690 D/TBoxClient( 3833):  @TBoxNotifier@  sendSignalData 
+11-09 21:23:52.690 I/NetworkController( 3265): onSignalStrengthsChanged SignalStrength: 24 0 0 0 0 0 0 99 2147483647 2147483647 2147483647 2147483647 gsm|lte
+11-09 21:23:52.690 I/XDownload( 4342): onSignalStrengthsChanged 
+11-09 21:23:52.690 I/NetworkController( 3265): updateTelephonySignalStrength iconLevel = 4
+11-09 21:23:52.690 I/XCUpgradeService( 4342): onSignalStrengthsChanged: isMobileOpen = true, signalLevel = 4
+11-09 21:23:52.690 D/ConnectivityService( 3114): [shanchsh]getActiveNetworkInfo9
+11-09 21:23:52.770 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:52.790 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:52.870 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:52.930 D/RPC-Server( 2362): RPC-LOG:opecode==81,data==52,61,64,4f,70
+11-09 21:23:52.930 D/RPC-Server( 2362): v850log: RadOpn:0,0,0,a,2,0
+11-09 21:23:52.970 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:52.990 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,35,17
+11-09 21:23:53.070 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:53.170 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:53.270 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:53.370 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:53.400 D/XCNaviService( 3621): getLastKnownLocation  mLastLocation: LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:53.400 I/XCNaviService( 3621): initLocation:LocationInfo{latitude=29.03401016666667, longitude=106.64031066666666, accuracy=1.22, altitude=0.0, speed=1.4301543, bearing=321.18, country='中国', province='重庆市', city='重庆市', adCode='500110'}
+11-09 21:23:53.470 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:53.570 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:53.570 D/        ( 2352): [TBOX_SERVICE]: address correct is 172.30.100.10
+11-09 21:23:53.600 D/Extra   ( 3404):  @IPKReceiver@  GpsStatus.GPS_EVENT_SATELLITE_STATUS 
+11-09 21:23:53.600 D/Extra   ( 3404):  @IPKReceiver@  Satellites number is : 0  usedInFix : 0 
+11-09 21:23:53.670 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:53.750 D/dalvikvm( 3404): GC_CONCURRENT freed 390K, 68% free 3915K/11920K, paused 3ms+2ms, total 26ms
+11-09 21:23:53.760 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:53.810 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,0,1,1,24
+11-09 21:23:53.860 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:53.960 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:53.980 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,16,36,17
+11-09 21:23:54.060 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:54.160 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:54.260 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:54.360 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:54.400 D/dalvikvm( 3719): GC_CONCURRENT freed 384K, 67% free 4369K/13212K, paused 3ms+4ms, total 35ms
+11-09 21:23:54.460 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:54.560 D/RPC-Server( 2362): RPC-LOG:opecode==74b,data==0,2,20,0,0
+11-09 21:23:54.580 E/NetlinkEvent( 2351): NetlinkEvent::FindParam(): Parameter 'DEVTYPE' not found

@@ -1,0 +1,51 @@
+--------- beginning of /dev/log/main
+11-09 21:12:32.770 D/AndroidRuntime(13781): 
+11-09 21:12:32.770 D/AndroidRuntime(13781): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+11-09 21:12:32.770 D/AndroidRuntime(13781): CheckJNI is OFF
+11-09 21:12:32.770 I/AndroidRuntime(13781): JNI options: '-Xjniopts:warnonly'
+11-09 21:12:33.130 D/AndroidRuntime(13781): Calling main entry com.android.commands.am.Am
+11-09 21:12:33.230 D/AndroidRuntime(13781): Shutting down VM
+11-09 21:12:33.960 D/AndroidRuntime(13798): 
+11-09 21:12:33.960 D/AndroidRuntime(13798): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+11-09 21:12:33.960 D/AndroidRuntime(13798): CheckJNI is OFF
+11-09 21:12:33.960 I/AndroidRuntime(13798): JNI options: '-Xjniopts:warnonly'
+11-09 21:12:34.220 D/AndroidRuntime(13798): Calling main entry com.android.commands.am.Am
+11-09 21:12:34.270 D/AndroidRuntime(13798): Shutting down VM
+11-09 21:12:34.940 D/AndroidRuntime(13815): 
+11-09 21:12:34.940 D/AndroidRuntime(13815): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+11-09 21:12:34.940 D/AndroidRuntime(13815): CheckJNI is OFF
+11-09 21:12:34.940 I/AndroidRuntime(13815): JNI options: '-Xjniopts:warnonly'
+11-09 21:12:35.200 D/AndroidRuntime(13815): Calling main entry com.android.commands.am.Am
+--------- beginning of /dev/log/system
+11-09 21:12:35.220 D/AndroidRuntime(13815): Shutting down VM
+11-09 21:12:35.440 I/DiPlay-H52-ClusterMap(13829): DiPlay persistence not present (ClassNotFoundException)
+11-09 21:12:35.450 I/DiPlay-H52-ClusterMap(13829): available=true (helper present)
+11-09 21:12:35.450 I/DiPlay-Spike(13829): available=true
+11-09 21:12:35.590 I/DiPlay-H52-VFB(13829): cluster window 1920x720 format 4
+11-09 21:12:36.020 I/DiPlay-H52-VFB(13829): open 1920x720
+11-09 21:12:36.020 I/DiPlay-H52-ClusterMap(13829): session open tex=1
+11-09 21:12:36.040 I/DiPlay-Spike(13829): onClusterSurface true
+11-09 21:12:36.100 I/DiPlay-Spike(13829): decoder OMX.Freescale.std.video_decoder.avc.v3.hw-based
+11-09 21:12:36.220 I/DiPlay-H52-ClusterMap(13829): route=true
+11-09 21:12:36.220 I/DiPlay-Spike(13829): PHASE A decode 20s
+11-09 21:12:36.290 I/DiPlay-Spike(13829): format {height=256, what=1869968451, color-format=19, slice-height=0, crop-left=0, width=320, crop-bottom=239, crop-top=0, mime=video/raw, stride=320, crop-right=319}
+11-09 21:12:36.290 I/DiPlay-H52-ClusterMap(13829): first frame
+11-09 21:12:46.050 I/DiPlay-H52-ClusterMap(13829): draws=132/10s frames=145/10s
+11-09 21:12:56.080 I/DiPlay-H52-ClusterMap(13829): draws=136/10s frames=149/10s
+11-09 21:12:56.250 I/DiPlay-Spike(13829): RESULT decoded+rendered=296 in 20s (14 fps)
+11-09 21:12:56.250 I/DiPlay-Spike(13829): PHASE B keep-alive 20s (decoder idle)
+11-09 21:13:06.080 I/DiPlay-H52-ClusterMap(13829): draws=136/10s frames=2/10s
+11-09 21:13:16.090 I/DiPlay-H52-ClusterMap(13829): draws=136/10s frames=0/10s
+11-09 21:13:16.260 I/DiPlay-H52-ClusterMap(13829): route=false
+11-09 21:13:16.260 I/DiPlay-Spike(13829): PHASE C route inactive 10s
+11-09 21:13:17.730 D/AndroidRuntime(14254): 
+11-09 21:13:17.730 D/AndroidRuntime(14254): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+11-09 21:13:17.730 D/AndroidRuntime(14254): CheckJNI is OFF
+11-09 21:13:17.730 I/AndroidRuntime(14254): JNI options: '-Xjniopts:warnonly'
+11-09 21:13:17.970 D/AndroidRuntime(14254): Calling main entry com.android.commands.am.Am
+11-09 21:13:18.010 D/AndroidRuntime(14254): Shutting down VM
+11-09 21:13:26.090 I/DiPlay-H52-ClusterMap(13829): draws=2/10s frames=0/10s
+11-09 21:13:26.290 I/DiPlay-Spike(13829): PHASE D stop
+11-09 21:13:26.290 I/DiPlay-Spike(13829): onClusterSurface false
+11-09 21:13:26.290 I/DiPlay-H52-ClusterMap(13829): session closed
+11-09 21:13:26.290 I/DiPlay-Spike(13829): RESULT done

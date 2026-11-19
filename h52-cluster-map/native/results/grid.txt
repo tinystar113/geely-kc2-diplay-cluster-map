@@ -1,0 +1,11 @@
+Open GRALLOC_HARDWARE_FB1
+open ok file name = /dev/graphics/fb2<-
+set x & y res virtual
+ioctl GET_FSCREENTINFO
+mmap start
+mmaped
+mmap framebuffer
+outof framebuffer vfb  open neusoft
+new FramebufferNativeWindow ok
+grid done
+exit=0
