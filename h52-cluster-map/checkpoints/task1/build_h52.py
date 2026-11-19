@@ -9,6 +9,7 @@ Usage:
 """
 import argparse
 import hashlib
+import os
 import shutil
 import subprocess
 import sys
@@ -16,15 +17,43 @@ import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent            # h52-cluster-map
-TOOLS = Path(r"C:\Users\Hasee\android-build-tools")
+
+
+def _repo_root():
+    """向上找到包含 h52-cluster-map 的目录，即仓库根。"""
+    here = Path(__file__).resolve()
+    for cand in (here.parent, *here.parents):
+        if (cand / "h52-cluster-map").is_dir():
+            return cand
+    return here.parent
+
+
+REPO_ROOT = _repo_root()
+TOOLS = Path(os.environ.get("ANDROID_TOOLS") or (Path.home() / "android-build-tools"))
 JAVA = TOOLS / "jdk17" / "bin" / "java.exe"
 JAVAC = TOOLS / "jdk17" / "bin" / "javac.exe"
 BT = TOOLS / "build-tools-34"
 ANDROID_JAR = TOOLS / "platform-18" / "android.jar"
 SMALI_CP = ";".join(str(p) for p in sorted((TOOLS / "smali-jars").glob("*.jar")))
 KEYSTORE = TOOLS / "diplay-local.keystore"
-KEY_ALIAS, KEY_PASS = "diplay", "diplaylocal"
-BASE_APK = Path(r"C:\Users\Hasee\Desktop\Car\DiPlay-H52-Slim-v1.6.20-C7A-R2-BT-native-lease.apk")
+KEY_ALIAS = "diplay"
+_KEYSTORE = TOOLS / "diplay-local.keystore"
+_KEY_PASS_FILE = _KEYSTORE.with_name(_KEYSTORE.name + ".pass")
+
+
+def _keystore_pass():
+    """从环境变量 DIPLAY_KS_PASS 或密钥库旁的 .pass 文件读取，不写进源码。"""
+    pw = os.environ.get("DIPLAY_KS_PASS")
+    if pw:
+        return pw.strip()
+    if _KEY_PASS_FILE.is_file():
+        return _KEY_PASS_FILE.read_text(encoding="utf-8").strip()
+    sys.exit("缺少签名密码：请设置环境变量 DIPLAY_KS_PASS，"
+             f"或把密码写入 {_KEY_PASS_FILE}")
+
+
+KEY_PASS = _keystore_pass()
+BASE_APK = REPO_ROOT / "DiPlay-H52-Slim-v1.6.20-C7A-R2-BT-native-lease.apk"
 BASE_SHA256 = "7bb6825032726b693cc995d72091ab7fd208b412491082b80cb34c7369234ddb"
 BUILD_INFO = b"v1.6.20+1109-C7A-R2-cluster-map\n"
 NATIVE_LIB = "libdiplay_vfb.so"

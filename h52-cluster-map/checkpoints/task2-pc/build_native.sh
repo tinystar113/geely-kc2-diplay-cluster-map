@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Build vfb_selftest (CLI) and libdiplay_vfb.so (JNI) for the H52 (armv7, Android 4.3 / API 18).
 set -euo pipefail
-NDK="C:/Users/Hasee/android-ndk-dl/android-ndk-r21e/toolchains/llvm/prebuilt/windows-x86_64"
+NDK="${ANDROID_NDK_HOME:-$HOME/android-ndk-dl/android-ndk-r21e}/toolchains/llvm/prebuilt/windows-x86_64"
 CC=("$NDK/bin/clang.exe" --target=armv7a-linux-androideabi18 --sysroot="$NDK/sysroot" -O2 -Wall -Werror)
 HERE="$(cd "$(dirname "$0")" && pwd)"
 OUT="$HERE/out"

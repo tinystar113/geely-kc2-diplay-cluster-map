@@ -4,7 +4,7 @@
 #   bash run_task2_on_car.sh grid    -> calibration grid for 60 s (take a photo of the cluster)
 set -u
 export MSYS_NO_PATHCONV=1
-ADB="C:/Users/Hasee/platform-tools-dl/platform-tools/adb.exe"
+ADB="${ADB:-$HOME/platform-tools-dl/platform-tools/adb.exe}"
 HERE="$(cd "$(dirname "$0")" && pwd -W)"
 MODE="${1:-cycle}"
 OUT="$HERE/results"

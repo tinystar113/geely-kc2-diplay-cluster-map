@@ -5,7 +5,7 @@
 #   bash session2.sh analyze FILE   route-guidance frames + DiPlay NAV decisions + cluster-map events
 set -u
 export MSYS_NO_PATHCONV=1
-ADB="C:/Users/Hasee/platform-tools-dl/platform-tools/adb.exe"
+ADB="${ADB:-$HOME/platform-tools-dl/platform-tools/adb.exe}"
 HERE="$(cd "$(dirname "$0")" && pwd -W)"
 case "${1:-}" in
   pull-old)

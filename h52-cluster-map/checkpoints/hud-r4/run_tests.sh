@@ -3,7 +3,7 @@
 set -euo pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"
 ROOT="$(dirname "$HERE")"
-JDK="C:/Users/Hasee/android-build-tools/jdk17/bin"
+JDK="${DIPLAY_JDK:-$HOME/android-build-tools/jdk17}/bin"
 OUT="$HERE/out"
 SRC="$ROOT/java-bridge/com/shilapi/xcertplay/media"
 rm -rf "$OUT"; mkdir -p "$OUT"

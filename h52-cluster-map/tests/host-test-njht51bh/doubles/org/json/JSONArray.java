@@ -1,0 +1,1 @@
+package org.json; public class JSONArray {public JSONArray put(Object o){return this;}}

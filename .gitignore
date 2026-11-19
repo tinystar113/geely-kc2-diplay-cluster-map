@@ -5,6 +5,8 @@ bin/
 obj/
 .gradle/
 *.class
+__pycache__/
+*.pyc
 
 # ============ 二进制 / 安装包 ============
 *.apk

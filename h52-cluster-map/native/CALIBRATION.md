@@ -1,6 +1,6 @@
 # H52 cluster map calibration (2026-11-09, 21:03–21:05)
 
-Source: `vfb_selftest grid 120` in navigation mode; photos `C:\Users\Hasee\Desktop\Car\IMG_0343.jpg` (blue theme),
+Source: `vfb_selftest grid 120` in navigation mode; photos `IMG_0343.jpg`（本机素材，未入库） (blue theme),
 `IMG_0344.jpg` (COMFORT), `IMG_0346.jpg` (SPORT). Percentages are of the 1920×720 cluster surface (x from left,
 y from top), read from the colour-coded 10 % lines (yellow = 50 %).
 

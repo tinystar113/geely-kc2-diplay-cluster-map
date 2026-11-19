@@ -1,0 +1,3 @@
+package org.json; public class JSONObject {
+ public JSONObject put(String k,Object v){return this;} public String toString(){return "{}";}
+}

@@ -2,12 +2,13 @@
 They never enter the production source path or APK. No adb, native calls or network.
 """
 import argparse
+import os
 from pathlib import Path
 import subprocess
 import tempfile
 
 ROOT = Path(__file__).resolve().parent.parent
-JDK = Path("C:/Users/Hasee/android-build-tools/jdk17/bin")
+JDK = Path(os.environ.get("DIPLAY_JDK") or (Path.home() / "android-build-tools/jdk17")) / "bin"
 STUBS = {
     "android/content/Context.java": """package android.content;
 public abstract class Context {

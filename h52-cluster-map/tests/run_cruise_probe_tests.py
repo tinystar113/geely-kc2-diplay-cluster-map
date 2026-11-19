@@ -4,12 +4,13 @@ Compiles the real production Java against Android API 18 and recording doubles.
 No adb, no device commands, no native rendering. Doubles exist only in a temporary
 build directory and are never input to APK packaging.
 """
+import os
 import subprocess
 import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-TOOLS = Path(r"C:\Users\Hasee\android-build-tools")
+TOOLS = Path(os.environ.get("ANDROID_TOOLS") or (Path.home() / "android-build-tools"))
 JAVAC = TOOLS / "jdk17/bin/javac.exe"
 JAVA = TOOLS / "jdk17/bin/java.exe"
 ANDROID = TOOLS / "platform-18/android.jar"

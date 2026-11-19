@@ -29,10 +29,26 @@
 
 ## Build Instructions
 
+### Step 0: Prerequisites
+
+Commands below assume you are at the **repository root** and that the toolchain lives in a
+layout like this (override with environment variables if yours differs):
+
+| Env var | Default | Contents |
+| --- | --- | --- |
+| `ANDROID_TOOLS` | `%USERPROFILE%\android-build-tools` | `jdk17`, `build-tools-34`, `platform-18`, `smali-jars` |
+| `ANDROID_NDK_HOME` | `%USERPROFILE%\android-ndk-dl\android-ndk-r21e` | NDK r21e |
+| `DIPLAY_JDK` | `%ANDROID_TOOLS%\jdk17` | JDK 17 |
+| `DIPLAY_KS_PASS` | — | Signing password. If unset, read from `<keystore>.pass` next to the keystore |
+
+The signing keystore (`diplay-local.keystore`) is **not** in this repo. Supply your own, or the
+build will fail at the signing step. Keep a backup of it: losing it means every user must
+uninstall and reinstall to get future updates.
+
 ### Step 1: Verify Source Files
 
 ```bash
-cd C:\Users\Hasee\Desktop\Car\h52-cluster-map
+cd h52-cluster-map
 
 # Check new files exist
 ls java-bridge\com\shilapi\xcertplay\media\H52CruiseMode.java
@@ -64,7 +80,7 @@ java H52CruiseModeTest
 ### Step 3: Build r7 APK
 
 ```bash
-cd C:\Users\Hasee\Desktop\Car\h52-cluster-map\build
+cd h52-cluster-map\build
 
 # Build with updated Java sources
 python -I build_h52.py --out ..\out\DiPlay-H52-v1.6.20-cluster-map-r7.apk ^
@@ -93,7 +109,7 @@ python -I -c "import zipfile; z=zipfile.ZipFile('../out/DiPlay-H52-v1.6.20-clust
 # - lib/armeabi-v7a/libdiplay_vfb.so
 
 # Verify signature
-C:\Users\Hasee\android-build-tools\build-tools-34\apksigner.bat verify ^
+%ANDROID_TOOLS%\build-tools-34\apksigner.bat verify ^
     --print-certs ..\out\DiPlay-H52-v1.6.20-cluster-map-r7.apk
 
 # Check file size (should be ~8.3-8.4 MB)
@@ -104,7 +120,7 @@ dir ..\out\DiPlay-H52-v1.6.20-cluster-map-r7.apk
 
 ```bash
 # Decompile and verify cruise mode methods exist
-C:\Users\Hasee\android-build-tools\build-tools-34\dexdump.exe ^
+%ANDROID_TOOLS%\build-tools-34\dexdump.exe ^
     -d ..\out\DiPlay-H52-v1.6.20-cluster-map-r7.apk classes5.dex | ^
     grep -A5 "H52CruiseMode\|setCruiseMode\|enableCruise"
 

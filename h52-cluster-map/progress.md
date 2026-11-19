@@ -1,4 +1,4 @@
-# SDD ledger — plan: C:\Users\Hasee\Desktop\Car\docs\superpowers\plans\2026-11-09-h52-cluster-map.md
+# SDD ledger — plan: docs/superpowers/plans/2026-11-09-h52-cluster-map.md
 Note: no git repo; plan's Global Constraints define checkpoints instead of commits. Spec = evidence list in plan header (no separate spec doc); rulings provisional.
 Pre-flight: Task 3 consumes Task 2 natives (nativeOpen/nativeDraw/nativeClose) — names match. Task 4 consumes Task 3 available(Context)/start/stop/onNavStatus — match after rev 2 edits. Task 1 build_h52.py --java/--native consumed by Tasks 3/4 — match.
 Task 1: Ruling: no git repo — ledger + checkpoints in h52-cluster-map/ per plan Global Constraints — cost if wrong: none (records still kept).

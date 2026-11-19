@@ -192,7 +192,7 @@ Troubleshooting:     ✓ Complete (BUILD_R7.md)
 
 ### Build Command
 ```bash
-cd C:\Users\Hasee\Desktop\Car\h52-cluster-map\build
+cd h52-cluster-map\build
 
 python -I build_h52.py ^
     --out ..\out\DiPlay-H52-v1.6.20-cluster-map-r7.apk ^

@@ -4,7 +4,7 @@
 #                             C 40-50 s cluster back to normal | D stop.
 set -u
 export MSYS_NO_PATHCONV=1
-ADB="C:/Users/Hasee/platform-tools-dl/platform-tools/adb.exe"
+ADB="${ADB:-$HOME/platform-tools-dl/platform-tools/adb.exe}"
 HERE="$(cd "$(dirname "$0")" && pwd -W)"
 OUT="$HERE/results"
 mkdir -p "$OUT"

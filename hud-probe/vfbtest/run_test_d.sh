@@ -4,7 +4,7 @@
 #   direct = skip libexternalsurfacehelper and call libui's neusoft_createDisplaySurface_vfb.
 set -u
 export MSYS_NO_PATHCONV=1
-ADB="C:/Users/Hasee/platform-tools-dl/platform-tools/adb.exe"
+ADB="${ADB:-$HOME/platform-tools-dl/platform-tools/adb.exe}"
 HERE="$(cd "$(dirname "$0")" && pwd -W)"   # Windows-style path for adb.exe
 SECS="${1:-30}"
 MODE="${2:-helper}"

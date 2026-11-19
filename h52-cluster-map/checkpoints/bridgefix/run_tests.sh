@@ -3,7 +3,7 @@
 set -euo pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"
 ROOT="$(dirname "$HERE")"
-JDK="C:/Users/Hasee/android-build-tools/jdk17/bin"
+JDK="${DIPLAY_JDK:-$HOME/android-build-tools/jdk17}/bin"
 OUT="$HERE/out"
 rm -rf "$OUT"; mkdir -p "$OUT"
 "$JDK/javac.exe" -encoding UTF-8 -d "$OUT" \

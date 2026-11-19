@@ -5,7 +5,7 @@
 # Film the HUD and the cluster. extraservice's interpretation is logged to results/icon_sweep_log.txt.
 set -u
 export MSYS_NO_PATHCONV=1
-ADB="C:/Users/Hasee/platform-tools-dl/platform-tools/adb.exe"
+ADB="${ADB:-$HOME/platform-tools-dl/platform-tools/adb.exe}"
 HERE="$(cd "$(dirname "$0")" && pwd -W)"
 mkdir -p "$HERE/results"
 "$ADB" get-state >/dev/null 2>&1 || { echo "car not connected over adb"; exit 1; }
