@@ -1,8 +1,10 @@
 # geely-kc2-diplay-cluster-map
 
-在吉利 博瑞GE（KC2 / Neusoft·ECARX 车机，Android 4.3）上，把 **CarPlay 的仪表盘地图** 显示到车机仪表屏的实验性实现。
+在**吉利博瑞 GE 2020 款 耀尊**（车机平台 H52 / KC2，Neusoft·ECARX，Android 4.3）上，把 **CarPlay 的仪表盘地图** 显示到车机仪表屏的实验性实现。
 
 原车高德可以通过 CarPlay 在仪表盘显示地图；本项目让第三方 CarPlay 中转方案获得同样能力。
+
+> **测试车型**：吉利博瑞 GE 2020 款 耀尊，车机 H52 / KC2（Android 4.3）。同平台车型（H52 / KC2 车机）理论上通用，但本项目只在这一台车上实车验证过，其他车型请自行确认后再操作。
 
 本项目**基于 [DiPlay · 吉利 GKUI 1.2 / Android 4.3](https://github.com/xikai6282/DiPlay-Geely-Android43) 二次开发**，在其 CarPlay 中转能力之上，新增仪表盘地图的渲染与路线状态联动。DiPlay 本身基于 [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) v0.2.10 适配而来。
 
@@ -52,7 +54,7 @@
 
 - 本项目与 Apple、吉利汽车、亿咖通（ECARX）、东软（Neusoft）均无隶属关系。
 - CarPlay 是 Apple Inc. 的商标；本项目不是 Apple 认证产品，未使用 Apple 的认证资产。
-- 上游项目明确不支持 E01 车机，本项目仅在 H52 / KC2 上验证。
+- 上游项目明确不支持 E01 车机；本项目在**吉利博瑞 GE 2020 款 耀尊（H52 / KC2）** 上实车验证，未覆盖其他车型或车机。同平台车型可参考，但仪表通路、原厂固件版本存在差异，需自行测试。
 - 仓库内**不包含**任何厂商固件、上游 APK 或 Apple 私有资产。
 
 ## 免责声明
