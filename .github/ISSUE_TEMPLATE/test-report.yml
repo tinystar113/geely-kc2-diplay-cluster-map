@@ -1,0 +1,91 @@
+name: 车型测试反馈
+description: 上报在吉利 GKUI 车机上的安装与仪表显示结果
+title: "[测试] 车型 / 年款 / 配置"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢帮忙测试。请尽量填全 —— 信息不足时无法判断问题出在连接层、应用层还是仪表通路。
+        测试请务必在**停车、驻车**状态下进行。
+
+  - type: input
+    id: model
+    attributes:
+      label: 车型 / 年款 / 配置
+      placeholder: 例：缤越 2019 款 1.5T 运动版
+    validations:
+      required: true
+
+  - type: input
+    id: firmware
+    attributes:
+      label: 车机固件版本
+      description: 车机设置内可查，形如 kc_update_01.03.12000.H52.00016
+      placeholder: kc_update_xx.xx.xxxxx.XXX.xxxxx
+    validations:
+      required: true
+
+  - type: input
+    id: package
+    attributes:
+      label: 安装的包与 SHA256
+      description: 便于区分版本，避免把旧包的问题归到新包上
+      placeholder: r7-perf1-test.apk / 1a6915009864cbbc...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: install
+    attributes:
+      label: 安装结果
+      options:
+        - 安装成功，车机正常启动
+        - 安装成功，但车机出现异常（重启 / 卡顿 / 黑屏）
+        - 安装失败，U 盘未被识别
+        - 安装失败，其他原因
+    validations:
+      required: true
+
+  - type: dropdown
+    id: center
+    attributes:
+      label: 中控 CarPlay 是否正常
+      options:
+        - 正常（连接、画面、触控、声音都没问题）
+        - 连接正常，但画面 / 触控 / 声音有问题
+        - 完全连不上
+        - 未测试
+    validations:
+      required: true
+
+  - type: dropdown
+    id: cluster
+    attributes:
+      label: 仪表盘表现
+      options:
+        - 导航时仪表能显示地图
+        - 仪表黑屏 / 无画面
+        - 仪表仍是原状态栏，不出图
+        - 出图但闪烁 / 卡顿 / 错位
+        - 仪表异常后无法自行恢复
+        - 未测试
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 现象描述
+      description: 在什么操作下出现、持续多久、能否自行恢复。有照片可直接拖进输入框。
+      placeholder: |
+        例：进入导航后仪表只有原状态栏，中控画面正常；退出导航再进入一次后仪表才出图。
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 我了解这是实验性改动，且仅在停车状态下操作
+          required: true
