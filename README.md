@@ -24,11 +24,11 @@
 
 *巡航模式实拍：左侧**仪表**是二维巡航图，没有红绿灯倒计时和红黄绿路况；右侧**中控**是近景地图，可见信号灯倒计时数字。*
 
-
 https://github.com/user-attachments/assets/ae4c8e26-838e-4347-955f-ddc52efd822e
 
+*实车演示：巡航与导航模式下两块屏的显示差异*
 
-[▶ 实车演示视频](docs/media/demo.mp4)（MP4，约 7 MB，点击播放）
+[▶ 下载原始视频](docs/media/demo.mp4)（MP4，约 7 MB）
 
 ## 双屏显示的限制
 
