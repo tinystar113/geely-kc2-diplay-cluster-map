@@ -1,6 +1,6 @@
 # geely-kc2-diplay-cluster-map
 
-在吉利 博瑞（KC2 / Neusoft·ECARX 车机，Android 4.3）上，把 **CarPlay 的仪表盘地图** 显示到车机仪表屏的实验性实现。
+在吉利 博瑞GE（KC2 / Neusoft·ECARX 车机，Android 4.3）上，把 **CarPlay 的仪表盘地图** 显示到车机仪表屏的实验性实现。
 
 原车高德可以通过 CarPlay 在仪表盘显示地图；本项目让第三方 CarPlay 中转方案获得同样能力。
 
