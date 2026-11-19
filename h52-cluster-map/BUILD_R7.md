@@ -45,6 +45,10 @@ The signing keystore (`diplay-local.keystore`) is **not** in this repo. Supply y
 build will fail at the signing step. Keep a backup of it: losing it means every user must
 uninstall and reinstall to get future updates.
 
+> The signing key was rotated on 2026-11-19 (the previous one had been published in the repo
+> history). Builds signed with the old key cannot upgrade over new ones, and vice versa —
+> the app must be uninstalled and reinstalled once when switching keys.
+
 ### Step 1: Verify Source Files
 
 ```bash
